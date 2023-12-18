@@ -1,0 +1,69 @@
+Ezzedini Yassine
+®) (+216) 93 812 351 e & yacine.ezdini@gmail.com
+“ www.linkedin.com/in/yassine-ezzedini-23405612b/
+Développeur Full-Stack 4 la recherche d’un stage de fin d'études (6 mois)
+
+Expériences professionnelles
+
+[e}
+
+[e)
+
+ESPRIT DSI Tunis, Tunisie
+Stagiaire : Création d’un systéme de gestion de contenu Juin 2021 - Aotit 2021
+J’ai reconstruit une application Web existante utilisant le MERN STACK.
+
+» React, Express, Nodejs, Nestjs, TypeORM, MySQL, PostgreSQL, JWT, OAuth2.
+
+DQLICK Tunis, Tunisie
+Stagiaire : Création du module courtier d’assurances février 2019 - juin 2019
+Etre parmi une équipe de 8 ingénieurs dans un environnement Scrum agile, j'étais responsable de la création et de l'implémentation du
+
+module courtier d’assurances dans |’application principale D-SUITE.
+» Angular, Spring Boot, Micro-Services, NoSQL Cassandra, JPA, Hibernate, Git, SRCUM(Agile).
+
+Projets académiques
+
+[e)
+
+Devops Pipeline
+
+Dans ce projet, j'ai créé le pipeline Devops pour livrer mon module développé dans |’écosystéme Java/JEE Spring, en m’assurant qu'il
+respecte les meilleures pratiques et qu'il s’agit d’un code maintenable propre (CI/CD).
+
+« Jenkins, Junit, Log4j, SonarQube, Nexus, Docker, DockerHub, Git, Github.
+
+Applications Web Distribuées
+
+J'ai implémenté I’architecture Micro-service dans un projet, ot j'ai transformé chaque entité en un microservice communiquant entre eux
+(4 Entités en Spring boot + 1 Entity Nodejs) et prét a étre déployé dans le cloud.
+
+« Micro-Service, Docker, Docker compose, Eureka, Gateway, Git, Spring boot, Nodejs, JPA, Hibernate, MySQL.
+
+"SpicyJS"
+
+Un Chatbot qui trouve les meilleurs produits sur le marché en grattant les différents site web E-commerce, j’étais le capitaine d’une
+équipe de 4 membres ou j'ai architecturé l’application et assigné des modules aux membres de I'équipe.
+
+« React, Bootstrap, Tailwindcss, Stripe, JWT, Nodejs, Express, MongoDB, Mongoose, Flask, Python, Chatterbot Engine, Selenium,
+Scrapy .
+
+"MiniPo"
+An E-commerce and warehouse management multi platform application (Web, Desktop, Mobile).
+« Java, JavaFx, Php, Symfony, Codenameone, MySQL
+
+Compétences
+
+» Java/JEE, Spring Boot, Codenameone = ASP.NET = JavaScript, TypeScript, React, Angular, Nodejs, Expressjs, Nestjs
+« Php, Laravel, Symfony = Python, Django, Flask, Scrapy, Selenium = Base de donnée: PostgreSQL, MySQL, MongoDB,
+Cassandra = Systéme opérateur: CentOS, Ubuntu = Outils Devops: Micro-service, Eureka, Docker, DockerHub, K8S,
+Junit, SonarQube, Nexus, Jenkins, Git, AWS, Azure.
+
+Education
+Ecole supérieure privée d’ingénierie et de technologies Ariana Soghra, Tunisie
+Cycle ingénieur en informatique option : Technologies Web, Dipléme attendu : juillet 2022
+Esprit School of Business Ariana Soghra, Tunisie
+Licence fondamentale en informatique appliquée 4 la gestion, Dipléme obtenu : septembre 2019
+Langues
+
+« Anglais Cl = Francais B2

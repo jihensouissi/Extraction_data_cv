@@ -1,0 +1,136 @@
+Manel TABESSI
+
+Adresse e-mail :manel.tabessi@esprit.tn
+
+Date de naissance : 06/05/1996
+
+Numéro de téléphone : +216 25 061 318
+
+Adresse :Ariana, Tunisie
+
+Permis de conduire : B
+
+LinkedIn :https://www.linkedin.com/in
+
+/manel-tabessi-92a1 12204/
+
+Git :https://github.com/ManelTabessi
+Langues
+
+Arabe : Langue maternelle
+
+Francais : Niveau expert (DELF B2 score :
+56,50/100)
+
+Anglais : Niveau avancé
+Espagnol : Niveau débutant
+Compétences
+
+Analyse de conception : Uml
+
+Langages de programmation : C,Java, Html ,
+
+CSS,JavaScript,C#,PHP,Python
+
+Systémes d’exploitation : Linux,Windows,
+Android
+
+Base de données : Oracle PL/SQL ,MySQL
+,NoSQL
+
+Frameworks: Symfony,Spring,
+CodeNameOne,Angular,Django
+
+Logiciels: Matlab,Microsoft Office..
+
+IDE:Netbeans,STS, Visual
+Studio, WebStorm,Eclipse
+
+Méthodologies: Agile, DevOps
+
+Outils
+DevOps:Git,SonarQube,Nexus,Jenkins,
+Docker
+
+Centres d’intéréts
+Natation, Voyage et Lecture
+
+Bénévole dans JCI Djerba (2018-Présent)
+
+Certificats
+Formation en Java 2021
+Udemy.com
+Formation en art oratoire 2021
+
+Jeune Chambre Internationale JCI Djerba
+Formation en gestion des projets 2018
+
+Journée carriére de ’ ISIMG
+
+Formation en Angular 2018
+XDAYS ISIMG
+
+Profil
+
+Actuellement éléve ingénieur en trois année informatique (Spécialité : Génie Logiciel) a ESPRIT : Ecole
+Sup Privée d'Ingénierie et de Technologies, 4 la recherche d'un stage de fin d’études.
+
+Je suis dynamique, polyvalente, ayant le sens de responsabilité et je suis confiante en mes capacités a gérer
+le stress et la quantité de travail.
+
+Formation
+
+Formation d'ingénieur en informatique sept2019 —présent
+ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies, Ariana
+Licence fondamentale en informatique sept2015-juin 2019
+ISIMG:: Institut Supérieur d'Informatique et de Multimédia de Gabés, Gabés
+Baccalauréat scientifique : 2014-2015
+Spécialité Sciences expérimentales
+
+Lycée Ibn Arafa Houmet Souk, Djerba
+
+Stages
+BFI(Banque Finance Internationale)Groupe, Les Berges du Lac Tunis | Stage ingénieur juillet .2021-aout2021
+
+Mise en place d’un module de gestion des QR Codes permettant |’affichage de toutes les opérations
+effectuées sur le compte bancaire (crédit ou débit ) dans un intervalle du temps bien
+déterminé(Python,Django,Json)
+
+Youinsoft, Houmet Souk Djerba | Stage technicien juil.2020
+Conception et réalisation d’une application web nommée Hadherbach de vente en ligne (Laravel,Angular)
+
+Bees Web Solution, Bardo Tunis
+
+Stage de PFE mars.2019-juin2019
+
+Conception et développement d’un site comparateur des prix des produits cosmétiques (Symfony, Web
+Scraping , Bootstrap, JavaScript)
+
+Electroniques du sud, Houmet Souk Djerba | Stage @’initiation juil.2017
+
+Stage d’initiation, au cours duquel j’ai amélioré mes compétences dans le développement des sites
+web(HTML,CSS,JS). Le produit est un site pour |’école primaire El May Djerba.
+
+Projets académiques
+
+ESPRIT | Projet DevOps sept.2021 -oct 2021
+
+Mise en place d’une chaine devOps complete (Intégration continue CI/ déploiement continu CD)
+(Spring,Maven,JUnit,Log4J,Git,SonarQube,Nexus,Jenkins,Docker )
+
+ESPRIT | Mini Projet : MZBeauty oct.2021
+Développement d’une application mobile avec Android nommée MZBeauty de vente des produits de beauté
+tunisiens .Pour ce faire, on a utilisé Andoid Studio pour développer des différentes interfaces de
+l’application . De plus, on a utilisé le SQLite pour le sauvegarde des données et le Web Scraping pour
+l’extraction des produits d’un autre site web tunisien.
+
+ESPRIT | Projet Intégré : Consommi Tounsi fév.2021 -mai 2021
+
+Développement et conception d'une application de consommation tunisienne. Pour ce faire , on a recours a
+STS (Spring Tools Suite) pour développer le back-end en Spring Boot et Visual Studio pour concevoir le
+front-end avec .NET . De plus, on a utilisé le Data Mining pour l’analyse des données.
+
+ESPRIT | Projet Intégré : Gestion d'école fév.2020 -mai 2020
+
+Conception et réalisation d’une application web, desktop et mobile de gestion d’une école nommée
+UniTech(Java,Symfony,Code NameOne )

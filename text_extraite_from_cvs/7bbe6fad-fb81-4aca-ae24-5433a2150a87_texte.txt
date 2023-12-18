@@ -1,0 +1,113 @@
+LANGUAGES
+Arabic
+
+English
+French
+
+German
+
+SOCIAL NETWORKS
+
+Ly @AdamDiouri
+im @adam-diouri-1603a2214
+
+COMPUTER SKILLS
+Python/R
+
+Tensorflow / PyTorch
+
+Java
+
+Machine Learning
+
+Deep Learning
+
+Natural Language Processing
+Computer Vision
+Reinforcement Learning
+
+Data visualisation / Data
+Preparation
+
+NoSQL / SQL
+
+Docker / Kubernetes
+
+CERTIFICATIONS
+
+Foundations: Data, Data,
+Everywhere
+By Coursera
+
+HCIA - Artificial Intelligence
+By Huawei
+
+CCNA 1 & 2
+By Cisco
+
+Adam DIOURI
+
+Data Science Student / Machine Learning Engineering Student
+
+™&@ adam9.diouri7@gmail.com | Tunisian
+
+EDUCATION
+
+Engineering Degree in Data Engineering And Decision-Making
+Systems
+
+National Institute for Electronics and Telecommunications
+- Sfax, Tunisia - Since September 2019
+
+« Major: Big Data
+
+Applied Bachelor's Degree In Sciences, Informations
+Technologies and Communication
+
+Higher Institute of Applied Sciences and Technology - Mahdia, Tunisia
+- From September 2016 to June 2019
+
+# Major: Electronics and Telecommunication
+
+WORK EXPERIENCE
+
+Internship
+NSI - Tunis, Tunisia - From August 2021 to September 2021
+
+| was able to help the company engineers to migrate it's WAN
+network from an MPLS oriented infrastructure to an SD-WAN
+
+Internship
+NSI - Tunis, Tunisia - From August 2020 to September 2020
+
+| helped the company's engineers with the segmentation of a network
+of one of its customers, server upgrades, hypervisor upgrades,
+centralization of logs and centralization of authentication on the
+network equipment.
+
+PROJECTS
+
+Appearance transfer with generative models to synthesize images
+of people with structural coherence
+
+Implement and optimize a virtual try-on system capable of predicting
+and generating images based on a given pose and an in shop clothing
+image.
+
+Sentiment Analysis For Depression Based On Social Media Post
+Predict early signs of depression through social media posts.
+Technologies used: Keras, numpy, sklearn and pandas.
+
+Amazon Customer Sentiment Prediction
+
+Use previous customers’ reviews on Amazon to predict sentiment for
+future products.
+
+Technologies used: NLP, numpy, pandas, seaborn and plotly
+
+LSTM Google Stock Prediction Using PyTorch and Tensorflow
+Technologies Used: Tensorflow, PyTorch, Pandas, Numpy, LSTM and
+RNN
+
+Multiple Implementations of NLP for Sentiment Analysis
+Technologies Used: BERT, LSTM, RNN, PyTorch and CNN

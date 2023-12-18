@@ -1,0 +1,144 @@
+Profil
+
+HICHEM DEBY AQUI
+
+ELEVE INGENIEUR : DATA SCIENCE
+
+Tunis, Tunisie
+
+@) +216 52 234 205 | hichem.debyaoui@gmail.com | (in) hichem-debyaoui
+
+Etudiant en troisieme année de cycle d'ingénieur en Data Science, Rigoureux, curieux et passionné par l'univers de l'Intelligence
+Artificielle et le Big Data, je recherche activement un stage de fin d'étude d'une durée de 6 mois afin d’'améliorer mes
+compétences et de pouvoir apporter ma pierre a l'édifice au sein de votre entreprise.
+
+Compétences
+
+Techniques
+
+Langues: Python, R
+Traitement de données : Pandas,
+Numpy, Scikit-learn
+Data visualization: Seaborn,
+Matplolib, Ggplot
+Machine learning:
+¢ Supervise: Regression linéaire et
+logistique, SVM, Naive Bayes,
+Ridge, Lasso, Decision Tree,
+Random Forest
+e Non Supervisé: KMeans, DBscan
+Deep learning: TensorFlow 2.0,
+Keras
+e Image Processing: CNN, OpenCV
+e Natural Language Processing:
+RNN, LSTM
+SQL: MySQL, SQL Server
+Management Studio, Oracle 11g
+NoSQL: MongoDB, Neo4j, Cassandra,
+ELK
+Big Data: Apache Spark,
+Hadoop(HDFS), MapReduce
+Développement web: Spring Boot,
+Plotly Dash
+IDE: Jupyter Notebook, Google
+Colab
+Logiciel: Matlab
+
+Languages
+
+Arabe: Langue maternelle
+Frangais: Courant
+Anglais: Avancé
+
+Certifications
+
+HCIA-AI: Huawei Certified ICT
+Associate Artificial Intelligence
+Data Scientist with Python Track:
+DataCamp
+
+CCNA R&S: Cisco Certified Network
+Associate Routing and Switching
+TCF (B2): Test de Connaissance du
+Francais
+
+Formations
+
+2018-2021
+
+CYCLE INGENIEUR EN DATA SCIENCE
+
+Ecole Supérieure Privee d'Ingénierie et de Technologie (TEK UP)
+2013-2018
+
+LICENCE FONDAMENTALE EN PHYSIQUE
+
+Faculte des sciences de Tunis (FST)
+
+Juin 2013 ; ;
+
+BACCALAUREAT MATHEMATIQUES
+
+Lycée Mhamdia 2
+
+Expérience professionnelle
+STAGE D'ETE
+TEK UP | Juillet-Aout 2020
+
+Analyse sentimentale des avis d'étudiants sur le groupe facebook du TEK UP:
+
+Collection et nettoyage de données.
+
+Realisation de l'analyse sentimentale des postes et commentaires.
+
+Envoi automatique du résultat de l'analyse a l’'administrateur du groupe.
+Mots-clés: Web scraping, Python, NLP, NLTK
+
+Projets acadéemiques
+Projet de Big Data / Deep Learning
+
+Exploration et integration des données de la bourse de Tunis :
+Collection des donnés, stockage de l'ensemble de données dans le systeme
+Hadoop (HDFS) et utilisation du l'environnement spark pour realiser les taches de
+Deep Learning.
+Developpement de L'application :
+Développement d'une application qui effectue des analyses fondamentales et
+techniques sur les actions en bourse et fournit des recommandations d'achats ou
+de ventes a l'utilisateur.
+
+Mots-clés: Finance, Python, Hadoop(HDFS), Spark, Deep Learning, LSTM,
+
+Plotly Dash
+
+Projet de Data Analyst / Data Visualization
+
+Comprendre les données et analyser les différentes insights ou correlations que
+
+nous pouvons recupérer d'une base de données de l’execution de nombreuses
+
+taches de l'entreprise dell.
+
+Création d'un tableau de bord interactif a l'aide de la bibliotheque Plotly Dash.
+Mots-clés: Python, Random Forest, Plotly Dash
+
+Projet de Business Intelligence / Machine Learning
+
+Exploration et modélisation des donnees Tunisair :
+
+Comprehension des données, construction du Data Warehouse, integration de
+
+données avec SSIS, création des cubes avec SSAS et reporting avec SSRS.
+
+Prévision du retard de vol de Tunisair :
+
+Traitement des données et prévisions des résultats a l'aide de plusieurs modeéles.
+Mots-clés: SSIS, SSAS, SSRS, Python, Machine Learning
+
+Projet de systeme de gestion bancaire
+
+Developpement d'une application web pour systeme de gestion bancaire :
+
+Mise en place de l'architecture MVC dans l‘implementation d'une application a
+
+Uaide de Framework Spring Boot et le générateur de Template Thymeleaf.
+Mots-clés: MySQL, Hibernate, JPA, Thymeleaf

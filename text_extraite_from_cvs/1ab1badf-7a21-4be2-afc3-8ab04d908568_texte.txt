@@ -1,0 +1,104 @@
+AMINE JGUIRIM
+
+Eléve Ingénieur En Génie Logiciel
+ala recherche d'un stage de fin
+d étude dans le domaine de
+
+Tunis,Manouba,2010 ©
++216. 20.540.031 rt]
+
+amine.jguirim@esprit.tn ©
+
+linformatique.
+github.com/aminejguirim€)
+REALISATIONS
+FORMATIONS
+Projet CI/CD
+Esprit, Tunis ESPRIT | 2021
+
+CYCLE D'INGENIEUR EN INFORMATIQUE
+
+Spécialité génie logiciel, BAC+5.
+
+GO MY GODE, Tunis
+INTELLIGENCE ARTIFICIELLE | 2021
+
+Formation en intelligence arttficielle et
+Lapprentissage automatique.
+
+Lycée Ibn Abi Dhiyaf, Manouba
+BAC TECH | 2017
+
+Diplome du baccalauréat section technique.
+
+EXPERIENCES
+PROFESSIONNELLE
+
+Stage ingénieur-Développeur Web
+ATS DIGITAL-DEV | 2021
+
+Développement d'une plateforme web qui vise a
+faciliter la gestion de la présence.
+Technologie: Symfony,MongoDB.
+
+Stage-Développeur Logiciel
+QATAR NATIONAL BANK | 2021
+
+Développement des solutions logicielles pour le
+département dingénierte.
+Technologie: dotnet.
+
+Stage D'immersion
+
+TUNISAIR TECHNICS I 2019
+
+Jat fait un stage au sein du service technique
+de la compagnie Tunisair au prés de direction
+de la maintenance avionique.
+
+Déplotement et gestion d'une application
+SpringBoot en fournissant l'intégration
+continue.
+
+Outils: Maven, Log4j, Junit.Sonar, Nexus
+Docker, Jenkins.
+
+Développement d'une Plateforme
+ESPRIT | 2021
+
+Jai développée une plateforme innovante et
+dynamique qut facilite la recherche
+immobiltere.
+
+Technologie: SpringBoot, Angular, MySQL.
+Développement d'une Application
+ESPRIT I 2019
+
+Jai développée une application C qui vise a
+faciltter la gestion de la logistique financteére et
+a obtenir une meilleure tracabilité et des
+données réelles pour une agence de voyage.
+
+COMPETENCES
+
+¢ Infrastructure Logicielle: Symfony,
+Angular, Spring Boot, Dotnet, Bootstrap.
+
+e Langage De Programmation:Java,Python
+JavaScript, lypeScript,C,C#,Atml,css,Php.
+
+¢ DBMS: MySQL, NOSQL.
+
+¢ Multimédia:Photoshop, Illustrator, Canva.
+
+e Systeme d'exploitation: Windows, Linux.
+
+¢ Devops:Junit,Sonar,Nexus,Docker,Jenkins.
+
+e Autres :UML, Scrum, PU,Git,GitHub,Gitlab
+
+LANGUES
+
+Francais: Avancé.
+Anglais: Avancé.
+Arabe: Maternelle.

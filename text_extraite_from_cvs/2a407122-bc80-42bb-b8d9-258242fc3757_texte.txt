@@ -1,0 +1,110 @@
+Mohamed Agueb
+Développeur Web
+
+Education
+
+Formation des ingénieurs en informatique / Institut Supérieur des Sciences appliquées
+et de Technologie de Sousse (ISSATso) Sousse
+
+Depuis 2019
+
+Cycle préparatoire MPI / Institut Supérieur des Sciences appliquées et de Technologie
+de Sousse (ISSATso) Sousse
+
+De 2017 a 2019
+
+Baccalauréat en sciences mathématiques / Lycée cité erriadh Sousse
+De 2016 a 2017
+
+Expériences professionnelles
+
+Stage d'été - Développeur NodeJS / Altair Solutions Akouda, Sousse
+De juillet 2020 a aout 2020
+
+Missions :
+
+= Authentification | Gestion des transporteurs | Gestion des réservations | Gestion des
+missions
+= Gestion des clients (consulter - ajouter - modifier - supprimer)
+
+Stack : NodeJS - Express JS - MongoDB
+
+Stage d'été - Développeur MEAN Stack / Altair Solutions Akouda, Sousse
+D'aodt 2021 a octobre 2021
+
+Missions :
+
+= Gestion des clients
+= Gestion des produits et des ordres
+
+Stack : Angular 12 - Node JS - Express JS - MongoDB
+
+Compétences
+
+Langages :
+= Web: HTML5/CSS3/Python/Java/C/C++/PHP/JavaScript
+= Mobile : Java/Kotlin
+
+Frameworks :
+= Backend : Symfony / Node JS
+= Frontend : Angular 12
+
+Base de données: Mongo DB / MySQL / Oracle
+Web services: SOAP / REST
+
+Outils: VS Code / Eclipse / Android Studio / StarUML / Trello
+
+Projets académiques
+
+Développement d'un backend de site de camping | NodeJS
+
+Développement d'un site e-commerce des produits informatiques | PHP
+
+mlaaguebO1@gmail.com
+95 68 55 08
+
+53 rue brazaville cité
+erriadh 5 biss , 4023
+Sousse
+
+Né le 23/09/1998
+Tunisien
+
+°o@
+
+U &
+
+Soft skills
+Auto-apprentissage
+Communication
+Travail en équipe
+
+Résolution de probléme
+
+Langues
+
+)
+Ry
+oy
+)
+
+langue maternelle
+
+Francais
+
+Anglais
+
+Italien
+
+Vie associative
+
+Membre a club GNEXT IssatSo
+
+Centres d'intérét
+
+in @mohamed-agueb-
+20a878225
+
+y @Med-Agb
+
+Ld @MoAgueb

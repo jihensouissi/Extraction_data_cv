@@ -1,0 +1,118 @@
+Adresse: Ariana , Tunisie
+Téléphone:+216 27565447
+Email: khaled.charaabi@esprit.tn
+LinkedIn: @khaled-charaabi
+
+Langages de programmation :
+
+- Python, Java, R,C, C#.
+
+Base de données:
+
+-SQL , PL/SQL ,MongoDB.
+
+Big Data:
+
+-Hadoop , Spark .
+
+Machine Learning / Deep Learning :
+-Classification, Regression ,Computer
+vision, TensorFlow, Pytorch .
+Technologies Web:
+
+-JavaScript , HTML, CSS , Flask ,
+Django.
+
+Nvidia (2021):
+
+-Fundamentals of deep learning
+Kaggle (2021):
+
+-Intro to Deep Learning
+-Intermediate Machine Learning
+Coursera (2020):
+
+-Applied Data Science with Python
+-SQL for Data Science
+
+Frangais : Courant : B2
+Anglais: Courant : B2
+Arabe: Langue maternelle
+
+e Association Tunisienne pour
+
+I'Intelligence Artificielle (2021-
+Présent )
+
+e Tunivisions Foundation (2020-
+
+Présent )
+
+KHALED CHARAABI
+
+ETUDIANT INGENIEUR EN DATA
+SCIENCE
+
+PROFIL:
+
+Etudiant ingénieur en data science, trés a l'aise avec les chiffres
+et les statistiques. Je suis curieux de tous les domaines ot les
+données ont un grand impact. Bonne maitrise de l'analyse des
+données, l'apprentissage automatique et l'apprentissage profond.
+
+EXPERIENCES PROFESSIONNELLES:
+Stage Ingénieur en Deep Learning
+Viapix Systems | Juillet 2021 - Septembre 2021
+
+© Description: Détection des marquages au sol délimitant les voies
+de circulation et le diagnostic des infrastructures routiéres en
+France.
+
+e Technologies: Python: Tensorflow , Pytorch , CUDA, GITHUB.
+
+Stage Ingénieur en Computer Vision
+ESPRIT-TECH | Juillet 2021 - Septembre 2021
+
+e Description : Conception et développement d'une solution
+automatique de reconnaissance de visages 2D .
+e Technologies : MTCNN , Cascade Classifier , Facenet .
+
+PROJETS ACADEMIQUES:
+
+Projet " [A cognition : NLP"
+ESPRIT | Septembre 2021 -Novembre 2021
+
+e Description : Création d'un systeme de recommandation pour
+gestion des risques liés aux projets en utilisant une approche
+d'apprentissage ontologique.
+
+e Technologies: NLP, NLTK, Spacy ,OWL2, RDF ,SWRL.
+
+Projet "PIDEV"
+ESPRIT| Février 2021 - Juin 2021
+
+© Description : Réalisation d’une application web qui sert a aider les
+neurologues a détecter qu'un patient soit épileptique ol non.
+e Technologies: Python: Tensorflow , NLP ,Flask .
+
+Projet "Customer Churn"
+
+ESPRIT | Novembre 2020 - Janvier 2021
+
+e Description : Création d’un modéle de classification des clients
+d’une entreprise afin de prédire leurs comportements.
+
+e -Technologies : Naive Bayes , Régression logistique , Random
+Forest, CART , KNN, SVM.
+
+EDUCATION:
+
+Dipl6me d'ingénieur en informatique
+ESPRIT| Septembre 2019 - Présent
+
+Cycle préparatoire
+Faculté des sciences de Tunis | Septembre 2016 - Juin 2019
+
+Baccalauréat en mathématiques
+Lycée MAHMOUD EL MESSAADI | Novembre 2020 - Janvier 2021
+

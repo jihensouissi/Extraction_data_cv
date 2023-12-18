@@ -1,0 +1,116 @@
+CONTACT
+
+Nabeul,Tunisie
+
+Maryem.benmoussa@outlook.com
+
+Gaal
+©) github.com/MaryemBenMoussa
+XX
+
++216 20464583
+
+fin] https://www.linkedin.com/in/mary
+em-ben-moussa-791a22215/
+
+COMPETENCES
+
+Langages de programmation
+
+HTML5/CSS , C/C++ ,C#, JavaScript ,
+PHP,Java , Python...
+
+Framework et bibliotheques
+
+Symfony , ReactJS ,Node js, Express js,
+Bootsrap, RasSa...
+
+Base de données
+MySQL, PL/SQL,NoSQL,Oracle ...
+Compétences et savoir faire
+
+e Création des sites web
+Conception des bases de données.
+
+Connaissance en Intelligence Artificielle.
+
+ETL.
+Gestion de temps et organisation.
+Competences en communication et
+présentation.
+Travail d'équipe.
+
+e Méthodologies : Scrum ,Agile ...
+
+Langues
+
+Courant : Arabe , Frangais , Anglais
+Débutant : Allemand.
+
+MARYEM BEN MOUSSA
+
+ELEVE INGENIEUR EN INFORMATIQUE
+PROFIL
+
+En formation d'ingénieur informatique, ma formation étant le
+génie logiciel. J'ai eu la chance de travailler dans différents
+environnements informatiques et de réaliser plusieurs stages de
+formation. Je suis passionnée par le développement, la
+programmation et l'intelligence artificielle .
+
+Afin de parfaite ma formation, je cherche un stage de fin d'études qui
+me permettra de fusionner mes acquis théoriques et l'expérience
+technique.
+
+MF PROJETS ET EXPERIENCS
+
+Stagiaire en intelligence artificielle
+
+ALLIANTECH SAS | Aoat 2021
+
+e Conception et mise en place d'un agent conversationnel
+(ChatBot).
+
+e Gestion et exploitation de la plateforme Dialogflow de
+Google Assistant .
+
+Stagiaire en réseaux informatiques
+
+Blue&Dye | Aodt 2020
+
+e Systeme de visualisation et administration des réseaux.
+
+Business Intelligence
+
+Technologies : Talend, PowerBI|
+
+e Systeme d'aide a la décision sur l'augmentation des
+commandes d'un site e-commerce.
+
+Dashboard administrateur
+
+Technologies : Symfony , ReactJS
+
+e Fonctionnalités CRUD et statistiques dynamiques(chartJS).
+
+Application web e-commerce
+
+Technologies : ReactJS, PHP7, Mysql, Axios
+
+e Développement d'une application web de vente en ligne.
+e Fonctionnalités CRUD et authentification
+
+@D EDUCATION
+
+Cycle d'ingénieur en informatique | En cours
+Institut Supérieur des Sciences Appliquées et de Technologie de Sousse
+Spécialité :Génie logiciel .
+
+Cycle Préparatoire Intégré scientifique | 2017-2019
+
+Institut Supérieur des Sciences Appliquées et de Technologie de Sousse
+Spécialité : Math , Physique , Informatique.
+
+Baccalauréat en Sciences Informatiques | 2017
+Lycée Secondaire 14 Janvier
+Mention Bien.

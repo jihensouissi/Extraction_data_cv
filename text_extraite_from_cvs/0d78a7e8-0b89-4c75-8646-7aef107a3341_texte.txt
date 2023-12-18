@@ -1,0 +1,87 @@
+MARWA GUEMIRA
+
+Eleve ingénieur en Data Science
+
+& +216 55 493 277 ™@ Marwa.guemira@esprit.tn 9 Tunis Tunisie in Marwa Guemira
+
+Créative, rigoureuse , Autonome et dynamique. Je souhaite mettre mes compétences ad profit pour
+soutenir vos équipes.Actuellement,je suis a la recherche d’un stage de fin d'études.
+
+FORMATION
+
+#4 2019-2021 Master actuariat spécialité Data Science Q Institut du Risque et de l’Assurance du Mans
+
+2018-2021 Cycle d’ingénieur en informatique spécialité Data Science Ecole Supérieure Privée d’Ingénierie et des Technologies
+
+#4 2015-2018 Licence Appliquée En Réseaux et télécommunications Q Institut Supérieur des Technologies de I'Information et la communication
+
+EXPERIENCES PROFESSIONNELLES
+
+Stage Data Science 6&4 Juin - Septembre 2020 QVneuron
+
+Ajout du dialecte tunisien a la bibliotheque Duckling , Réalisation du Dashboard pour l’application DigiGO et Réalisation du Text Generation avec
+le dialecte tunisien en utilisant la bibliothéque Transformers
+
+Technologies : Python, Natural Language Processing, Transformers, Elasticsearch, Kibana, Haskell, Duckling, Docker, Git
+
+Stage Data Science 68 Janvier - Mai 2020 QWevioo
+
+Mise en place d’un systeme de recommandation et de classification des profils de LinkedIn pour les besoins de recrutement RH.
+Technologies : Python, Spark, MongoDB, Machine Learning, Recommendation System, Scrapping, Selenium, Pandas, Plotly, Django
+
+Stage projet de fin d’études 64 Janvier - Juin 2018 QLa Poste tunisienne
+Conception et Réalisation d’un smart mail-box (boite mail intelligente) a l'aide de la technologie IOT (Internet Of Things)
+
+PROJETS ACADEMIQUES
+
+Projet Data Science | Actuariat QESPRIT
+
+Estimation et projection de la mortalité d’un portefeuille d’assurés italiens afin de calculer la valeur actuelle probable (VAP) d’un produit d’une
+rente viagére.
+Technologies : R, StMoMo, Lifecontingencies
+
+Mini-Projet: DATA Science | Machine Learning QESPRIT
+
+COVID19 Global Forecasting (compétition kaggle): analyser et prédire les cas confirmés et les décés de la pandémie Covid-19 dans chaque pays
+en utilisant différents algorithmes Machine Learning.
+Technologies : Python, Machine Learning, Deep Learning, Time-Series, Pandas, Tensorflow, ARIMA, Plotly
+
+Projet DATA Science | Machine Learning QESPRIT
+
+lassification des clients du Bank selon le scoring d’octroi , en suivant la méthodologie IBM Master Plan.
+Technologies : Python, ML, Scikit-Learn, Numpy, Pandas, Plotly, Dash
+
+COMPETENCES ET LANGUES
+
+COMPETENCES :
+e Intelligence artificielle : Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Time Series, Tensorflow, PyTorch
+
+e Language de programmation & Frameworks: : Python, R, Java, Scala,C++,C,PHP JJavaEE , .NET, Symfony, Django, Flask, HTML, CSS
+
+e Business intelligence & Business Analysis : SSIS, SSAS, SSRS SQLServer , Power BI,Tableau,Dash
+
+e Big Data & Gestion de données : Hadoop, Spark,Hive,Pig,Impala , SQL,NoSQL,MongoDB,Neo4j,Cassandra
+
+e Actuariat:Gestion des risques, Actuariat vie, Optimisation, Statistique, Probabilités, Mathématique financiére,Méthodes de Monte Carlo
+
+LANGUES :
+e Arabe : Maternelle e Francais: Niveau avancé e Anglais: Niveau avancé e Allemand: Niveau intermédiaire
+
+CERTIFICATIONS
+
+Neural Networks and Deep Learning by deeplearning.ai | Coursera | 2020
+
+e Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera | 2020
+e Fundamentals of Deep Learning for Computer Vision | NVIDIA | 2020
+
+Introduction to Natural Language Processing Python | DataCamp | 2020
+
+e Supervised Learning with Scikit-learn | DataCamp | 2020
+CENTRES D’INTERET
+
+e Activités bénévoles : Membre avec |’Association des malades du cancer ( AMC )
+e Voyage: France , Espagne
+
+e Cuisine: Cuisine Italienne et Tunisienne
+
+e Data Science Challenges : (Kaggle, DataCamp, Hackathons..)

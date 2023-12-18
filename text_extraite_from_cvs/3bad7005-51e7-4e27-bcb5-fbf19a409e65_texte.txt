@@ -1,0 +1,91 @@
+Ma passion de la programmation a commencé il y a longtemps pour cela
+jai choisi de m'orienter dans ce domaine pour développer mes
+compétences et créer de nombreux programmes dans différents
+langages.
+
+Dipl6mes et Formations
+
+a ;
+Depuis Dipl6me national d'ingénieur en informatique
+“> septembre 2018 ESPRIT, Tunis, Tunisie
+Wassim BECHEIKH Deseptembre Licence appliquée en développement systéme
+2015 a juin 2018 informatique
+ISET Kelibia , Nabeul, Tunisie
+
+Ingénieur en informatique
+
+™@% wassim.becheikh@esprit.tn
+Q Nabeul, Tunisie
+&3 Né le 07/10/1996
+
+#316 99075944 Expériences & Projets académique
+
+De septembre Projet académique : AdvyTeam
+2019 a janvier ESPRIT, Tunis, Tunisie
+
+A Langues 2020 " Conception et développement d'une application web
+Arabia en partenariat avec la société "Advyteam".
+
+" Le but de ce projet est de fournir une approche globale
+
+de la gestion des données des employés. Cet objectif a
+Francais été atteint en concevant et en mettant en ceuvre un
+SS systeme de gestion des ressources humaines qui a
+Aneeis apporte un changement de paradigme majeur.
+
+" Technologie: JEE, .Net.
+
+De janvier 2019 Projet académique : Eco System
+a juin 2019 ESPRIT, Tunis, Tunisie
+
+Compétences ! Conception et développement d'une plateforme de
+collecte et de recyclage des appareils électroménagers
+usagés (Web, desktop et mobile) afin de réduire les
+Spring impacts négatifs de ces déchets sur l'environnement...
+" Technologie: Java, Symfony,CodeNameOne.
+
+Java
+
+Angular
+De février 2018 Stage fin d'étude
+‘Net 4 juin 2018 Centre National de I'Informatique, Tunis, Tunisie
+Android " Conception et développement d'une application mobile
+
+"Gestion de communication entre les encadrants et les
+
+Symfony
+
+HTML/CSS
+MySQL
+NoSQL
+Scrum
+UML
+
+Git
+
+Centres d'intérét
+
+Sport
+
+Films
+
+stagiaires" pour l'objectif de facilité et clarté de la
+
+communication avec les encadrants, ainsi que garantir
+
+que le message arrive en temps opportun ,ainsi que
+
+privatiser une interface pour les stagiaires pour faciliter
+
+l'évaluation du travail des stagiaires par ses encadrants.
+# Technologie: Android, Angular, FireBase.
+
+Janvier 2017 Stage perfectionnement
+ETAP, Tunis, Tunisie
+
+" Conception et développement d'une application de
+"gestion de parc auto" pour faciliter d'introduire,
+d'ajouter, de modifier et de supprimer les données et
+pour gérer le parc comme il faut.
+
+" Technologie: Java, Java FX.

@@ -1,0 +1,125 @@
+Rahma MNIFI
+
+Mechatronics Engineer
+
+A hardworking and ambitious freshely graduated mechatronics engineer with a background
+
+in computer vision, object detection, object tracking and video processsing. Currently
+Aiming for an opportunity that allows me to develop my potential.
+
+Education
+
+Mechatronics engineering / National Engineering School of Sousse, ENISo. Sousse,
+Tunisia
+2018 - 2021
+
+Keywords : C, Object-Oriented Programming in java, Robotics, Advanced techniques
+
+for intelligent systems.
+
+Pre-Engineering Studies / Pre-Engineering School El Manar. Tunis, Tunisia.
+2016 - 2018
+
+Keywords : Python, Linear algebra, Probability.
+
+Tunisian Baccalaureate / Houmt souk High School of Djerba. Djerba, Tunisia.
+2016
+
+Science and Technologies , Highest Honors.
+
+Professional Experience
+
+Internship / R2A Solutions. Remote.
+03-2021 - 09-2021
+
+Developping a system capable of detecting and tracking objects in order to provide
+their information to a robot "pick and place " with precision and real time:
+
+= Implementing the yolov3 detection algorithm .
+= Implementing the SORT tracking algorithm.
+
+= Implementing the code in ROS environement.
+= Developping of a graphical user interface.
+
+Keywords : Python, Rospy, CvBridge, Numpy, Filterpy, Tkinter, Pytorch, OpenCVv.
+
+Internship / Phoenix Mecano Elcom. Zaghouan, Tunisia.
+07-2020 - 08-2020
+
+Quality and continuous improvement of P60 station's production process :
+Optimization and planning of production by creating an automated
+program based on data provided by the company.
+
+Keywords : AMDEC, SWOT Matrix, Excel and Java.
+
+Internship / Phoenix Mecano Elcom. Zaghouan, Tunisia.
+06-2019 - 07-2019
+
+Design and manufacture of a manipulator arm.
+Keywords : SolidWorks, CATIA, CNC machine, Code G, CNC lathe machine and
+automatic milling machine.
+
+Academic Projects
+
+Human-machine interface : Developping an interface for a functional rehabilitation
+machine.
+Keywords : Java and Matlab.
+
+Spider robot : Design, manufacture and programmation a spider robot
+Keywords : Catia v5 , C and 3D printer.
+
+68 23 years old
+@ ‘ahma.mnifi@eniso.u-sousse.tn
+50033500
+
+Skills
+
+Operating system: linux.
+Languages: Python, C.
+
+Frameworks : pytorch, opencv,
+numpy, ROS.
+
+Design: Catia V5, SolidWorks.
+
+Certifications
+
+Deep Learning with TensorFlow 2 |
+Complete training Udemy
+
+Computer Vision - Object Detection
+with OpenCV and Python Coursera
+
+Computer Vision - Image Basics with
+OpenCV and Python Coursera
+
+SolidWorks (CSWP)
+
+Organizations
+
+Junior coach at BIAT fondation 2018-
+2019
+
+Treasure of IEEE ENISo Student
+Branch 2019
+
+Marketing and external
+communication manger of Young
+engineers Djerba 2020
+
+Junior Enterprise ENISo member
+2020
+
+Training
+
+Standard ISO 9001 v5
+
+Languages
+
+Arab Native
+English Upper intermediate
+Frensh Proficient
+
+German Basic
+
+in @rahma-mnifi

@@ -1,0 +1,61 @@
+‘iO
+
+Je suis 6tudiant en 5éme année loT a |'école supérieure privée d'ingénierie
+et de technologie (ESPRIT), a la recherche d'un stage en internet des objets,
+télécommunication ou Développement web.
+
+EXPERIENCE
+
+Internship 2021
+African Developers, Mehdia
+
+e  cablage de capteur avec le microcontrdleur
+
+e détection automatique des capteurs connectés a la ligne 12C
+
+e = obtenir l'identifiant de la id touchée des deux capteurs
+
+e = désignation d'un point en utilisant les pin de chaque capteur comme coordonnées
+Freelancer 2021-present
+plate-forme d'Upwork, en ligne
+
+e conception de la page d'accueil d'un site Web de sport en direct
+
+FORMATION
+
+Ingénierie, option internet of things 2021-present
+Ecole supérieure privée d’ingénierie et de technologie (ESPRIT)
+
+Master en télécommunications 2019-2020
+Faculté des sciences monastir
+
+Licence en électronique 2015-2019
+Faculté des sciences Monastir
+
+Baccalauréat technique 2014-2015
+Lycée de garcon Fatouma Bourguiba
+
+PROJETS ACADEMIQUES
+
+Systeme de management des containeurs 2021
+Projet integré en 4éme année ingénierie loT
+
+Smart trash bin 2021
+Projet integré en 4éme année ingénierie loT
+
+https://www.youtube.com/watch?v=NcGwNnrGPWU 2021
+systéme de reconnaissance faciale 2020
+Projet fin d’année master en télécommunication
+
+Scanner 3D 2019
+Projet fin d’étude en license
+
+PROJETS PERSONNELS
+
+Site web d’évaluation du contenu visuel 2019
+manix.000webhostapp.com
+
+CERTIFICATIONS
+
+- CCNA3 v7: Enterprise Networking, Security, and Automation
+- Cybersecurity Foundation Student Certificate

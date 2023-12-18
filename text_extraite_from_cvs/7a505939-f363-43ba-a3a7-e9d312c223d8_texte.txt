@@ -1,0 +1,102 @@
+= FORMATION
+
+2018 — En cours
+Dipl6me National Tunisien d'Ingénieur en Informatique
+
+Option : Systemes et Logiciels Embarqués Ambiants et Mobiles (SLEAM)
+
+Ecole Supérieure Privée d’Ingénierie et de Technologies (ESPRIT)
+
+2014 - 2018
+Licence en sciences et technologies de I’information et de la communication.
+Institut Supérieur d'Informatique et de Mathématique de Monastir (ISIMM)
+
+2014
+Baccalauréat Mathématiques
+Lycée secondaire de Jammel
+
+4, PROJETS ACADEMIQUES
+Se Novembre - Mai 2020
+Ecole Supérieure Privée d’Ingénierie et de Technologies (ESPRIT)
+Projet d'intégration Embarqué, intitulé RoadCare, pour le compte de la Protection Civile se
+base sur la détection automatique des accidents des voitures. Ce projet est composé d’une
+partie embarquée (capteurs, GPS, GSM....), une application Web et une application Mobile en
+assurant la communication temps réel entre eux.
+
+Acquis : Raspberry, Arduino, UART/I2C, Angular7, Android, Google Realtime Firebase.
+
+Décembre — Janvier 2020
+
+Ecole Supérieure Privée d’Ingénierie et de Technologies (ESPRIT)
+Réalisation d’un « Doorbell » intelligent permet d’avertir le propriétaire via un SMS et un
+
+appel téléphonique. Aussi, le projet permet d’envoyer une photo / vidéo convertie en MP4
+via mail.
+
+Acquis : Raspberry, GSM, outils et bibliotheques sous Linux.
+
+Février — Mai 2019
+
+Ecole Supérieure Privée d’Ingénierie et de Technologies (ESPRIT)
+
+Application Web, Mobile et Desktop, intitulée Smart Start ,destinée pour la gestion des
+relation entre les entreprises, individus et freelancers.
+
+Mise en place en utilisant le framework Symfony pour la partie web,JavaFX pour la partie
+Desktop et enfin CodeNameOne pour |’implementation comme solution mobile en utilisant la
+méthode de consommantion des services déja crées avec Symfony.
+
+Acquis : SCRUM, UML, Symfony, jQuery, Ajax, JavaFX, CodeName One, GitHub.
+
+Février— Novembre 2018
+
+Institut Supérieur d'Informatique et de Mathématique de Monastir (/SIMM)
+
+Etude et développement d’un systéme de surveillance du signal ECG.
+
+Z Conception et réalisation d’un systéme de surveillance du rythme cardiaque.
+
+Z Localiser le patient grace 4a un module GPS.
+
+Z Envoyer un message contenant la localisation du patient en utilisant les modules GSM.
+Z Développer une interface graphique LabVIEW et une application web en relation avec
+une base des données.
+
+Acquis: ISIS Proteus, Programmation PIC, Arduino, C, LabView, WordPress, Php .
+
+=> EXPERIENCE PROFESSIONNELLE
+Aoit_September_2020
+
+Stage d’éte dans une Start Up “DIGITAL MARKET ”
+
+-Développer une application de publicité intelligente avec Angular .
+Aoit_September_2019
+
+Stage d’éte dans une Start Up “DIGITAL MARKET ”
+-Mise en ceuvre d’une solution de gestion de la relation client pour les opérateur de téléphone tunisien
+
+y)
+
+Sas
+
+OOREDOO, TELECOME,ORANGE avec Angular et JavaEE.
+Février_juin_2017
+Institut Supérieur d'Informatique et de Mathématique de Monastir (/S/IMM)
+Stage de Projet de Fin d’Etudes (PFE), Developpement D’un systeme embarqué en
+utilisant la carte ARDUINO.
+-Etude et développement d’un systéme de surveillance du signal ECG.
+Aoit_September_2016
+stage au société Avionav qui est consacré au domaine aéronautique découvrir le
+domaine électronique d’une avion.
+
+S=> COMPETENCES
+Mobile
+
+Web Systemes Embarqués
+
+cy)
+
+Je
+
+BD Systemes
+Méthodologies, Conception

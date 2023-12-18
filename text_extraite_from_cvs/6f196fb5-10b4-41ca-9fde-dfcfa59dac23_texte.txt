@@ -1,0 +1,100 @@
+(&)  +21656787738
+
+M4 mohamed.sayadi612@gmail.com
+
+ABOUT ME
+
+lama Data analyst engineering
+student.
+
+I'm looking for an intership at an
+innovative company .
+
+SKILLS SUMMARY
+
+Python
+R studio
+SOL
+Java
+SAS
+
+PHP
+
+INTERESTS
+
+Soccer
+Fishing
+Music
+Swiming
+Reading
+
+LANGUAGES
+
+French
+English
+Arabic
+
+COMMUNITY LIFE
+
+Student representative member at the
+scientific council | 2020-2021
+
+Treasurer Microsoft Club | 2020-2021
+
+Member SSF (statisticien sans frontiére)
+| 2019-2020
+
+SAYADI MOHAMED
+
+2nd year student at Higher
+Institute of Statistics and Analysis
+Information Tunis
+
+PRPFESSIONNEL EXPERIENCE
+
+Internship at One to One
+From July 2020 to August 2020
+
+Build a shiny app of stratified sampling
+Build a shiny app of systemic sampling
+
+SCHOOL PROJECT
+
+Writing an R Package
+
+- Implementation in R of a decomposition of a time series method
+based onthe Empirical Modal Decomposition (EMD)
+
+- Creation of an R package
+- Comparative study with existing methods
+
+Sentiment Analysis of Rotten Tomatoes Movie Reviews
+- Scraping 20000 comments from rotten tomatoes
+
+- data cleaning and text tokenisation
+- Building deep learning model capable of understanding the general
+sentiment of the comment
+
+PCA, PCM Data Analyzing with R
+- Creation of survey on computer use
+
+- Classification of results using the method principal componenent
+analysis (PCA)
+
+Sentiment Analysis of Drug Reviews
+- Scraping drug reviews
+
+- Sentiment analysis using textblob
+- Text classification using SVM model
+
+Linear Regression with python
+
+SCHOOL BACKGROUND
+
+Engineering School: ESSAIT | 2019-2022
+
+Engineering degree in statistics and data science
+
+Preparatory school : IPEIMo | 2017-2019
+
+Mathemetics and physics

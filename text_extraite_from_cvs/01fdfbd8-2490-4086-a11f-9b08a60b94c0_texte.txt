@@ -1,0 +1,111 @@
+Bizerte , Tunisie
+
+malek.benjemaa@esprit.tn
+
++216 25 395 273
+
+Malek Ben Jemaa
+
+github.com/MalekBenJemaa
+
+PARCOURS
+SCOLATRE
+
+2016—Présent : Esprit (Ecole Supérieure
+Privée d'Ingénierie et de Technologies)
+2015 - 2016 : Baccalauréat
+
+option Science de l'informatique
+
+CENTRES
+D'INTERET
+
+Les Echanges des jeunes
+soutenus par erasmus +
+Membre en croissant rouge
+tunisien
+
+Membre du Club UNESCO
+ALECSO METLINE
+
+CERTIFICATIONS
+
+e AIESEC : Leadership Development
+Experience Certification
+
+e COURSERA: Advanced Business
+Analytics
+
+e MICROSOFT AZURE FUNDAMENTALS
+AZ-900
+
+LANGUES
+
+e Arabe (maternel)
+e Frangais (bilingue)
+e Anglais (intermédiaire supérieur)
+
+MALEK BEN JEMAA
+
+INGENIEUR EN BUSINESS INTELLIGENCE
+A LA RECHERCHE D'UN STAGE DE FIN D'ETUDES
+
+COMPETENCES TECHNIQUES
+
+Business Intelligence : Talend, SSIS, SSRS, SSAS, PowerBi
+Analyse de données : DataMining, BigData, Machine Learning
+Langages de programmation: Java, c, c++, c#, Java script, PHP,
+HTML, CSS, jQuery
+
+Progiciels : SAP-BW, Microsoft Dynamics NAV
+
+Framework : Symfony3.4
+
+Bases de données : Oracle, MySQL, MongoDB, SQL Server
+Management
+
+Outils d'intégration : GitHub, GitLab
+
+Méthodologie : Scrum
+
+Autres Outils : NetBeans, CodeBlocks, Visual Studio, Packet
+Tracer , Eclipse, AI, Ps
+
+EXPERIENCES
+PROFESSIONNELLES
+
+e Stage d'été chez MITOGAME
+- Développement d'un site web pour les jeux de l'entreprise
+Mitogame.
+
+Technologies : Angular, HTML, CSS, JavaScript.
+Guillet-Aodt 2019 | Brésil)
+
+e Stage Ouvrier: FAAGEC [Fiduciaire d’Audit d’Assistance
+de Gestion Et de Conseils]
+- Manipulation des bases de données et utilisation des langages
+SQL et C++ pour le développement d’une solution CRM.
+
+Technologies: Qt, C++, Mysql.
+(Juillet 2018 | Tunisia)
+
+PROJETS ACADEMIQUES
+
+¢ CLEDISS : Centralisations des données , conception d'un
+entrepot de données et établissement des tableaux de bords
+pour l'entreprise clediss.
+
+Technologies : Talend, MongoDB, NoSql, Python, ETL, Powerbi
+Durée: 6 mois (janvier 2020 - juin 2020)
+
+Projet de développement intégré (JEE - .Net ): Création d'une
+application web de gestion des opérateurs téléphoniques.
+Technologies : JavaEE, Visual Studio, Eclipse, ASP .NET, Maven,
+
+SQL Server, Wildfly.
+Durée: 4 mois (Septembre 2019 - Décembre 2019)
+
+TECHEVENTS : Conception et développement d'une
+application multiplateforme (Web, Mobile, Java).
+
+Durée: 5 mois (janvier 2019 - mai 2019)

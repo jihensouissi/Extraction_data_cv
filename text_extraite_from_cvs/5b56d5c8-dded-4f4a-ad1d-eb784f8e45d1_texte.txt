@@ -1,0 +1,136 @@
+FORMATION
+
+2020 - Présent — INGENIERIE EN INFORMATIQUE — ESPRIT
+Ecole supérieure privée d'ingénierie et de technologie Tunis,
+Spécialité : Data science
+
+~~
+
+Ichrak HOUIDI
+
+Etudiante en Data science
+
+2019 - 2020 — Mastére Professionnel en Services et Sécurité des Réseaux - ISITCOM
+Institut Supérieur de I'Informatique et des Techniques de Sousse, Tunis
+Communication
+
+2016 - 2019 — Licence Appliquée en Sciences et Technologies de I'Information et de la
+Communication — ISITCOM
+
+Institut Supérieur de I'Informatique et des Techniques de Sousse, Tunis
+Communication
+
+2015 - 2016 — BACCALAUREAT MATHEMATIQUE
+Lycée Ali Bourguiba Sousse, Tunis
+
+PROJETS PROFESSIONNELLES
+
+Etudiante curieuse, motivée et
+travailleuse, a la recherche d’un stage
+de 6 mois
+
++216 29326116
+Ariana Soghra, Tunis
+
+juillet 2021 — aout 2021 | Stage d’été | Data Scientist | ESPRIT
+
+Conception et développement d’une solution automatique de reconnaissance de
+visages 2D capturés dans des environnements non contrdlés.
+
+Mots clés : Python, Biométrie par le visage , IA, Machine Learning, Deep Learning,
+Detection, Recognition, OpenCV, Retina-Face, ArcFace
+
+<<) ichrak.houidi@esprit.tn
+Linkedin.com/in/houidi-ichrak
+
+Tunisienne Février 2018 — Mai 2018 | Stage de fin d’étude | développeurs web | Dream Team
+24 ans Réalisation d’une application web de service en ligne de réparation domicile avec le
+Calibataire Framework Django codé en python
+
+Mots clés : Python, Django, HTML5, CSS
+
+COMPETENCES
+
+Machine Learning : Apprentissage non
+supervisé, Apprentissage supervisé, Decision
+Tree, Random forest, SVM, Naive Bayes, Logistic
+Regression, K-MEANS, Regression linéaire,
+LightGBM, XGBoost, Gradient Descent,Adaboost
+Deep Learning : Keras, Tensorflow, Pytorch,
+ANN, RNN, CNN,FFNN, Natural Language
+Processing, Computer vision, Series temporelles,
+probabilité, statistique
+
+Big Data : Hadoop, Spark, Pig, hive
+
+Base de donnees : SQL Server, MySQL, Oracle,
+NoSQL (MongoDB)
+
+Business Intelligence : Power BI
+
+Langages de programmation : Python, R, Java,
+
+AoGdt 2018 - Aodt 2018 | Stage d’été | Web designer | agence touristique INDAFRI
+Réalisation des affiches publicitaire pour le site web de «INDAFRI » avec le Photoshop
+et Illustrateur
+
+Mots clés : Photoshop, Illustrateur
+
+PROJETS ACADEMIQUES
+
+(Pésent)| Projet [A — ESPRIT
+
+Conception et développement d’un systeme de recommandation basé sur les
+connaissances pour la gestion des risques projets.
+
+Mots clés : IA, Ontologie , PMBOK, PMI, OWL, NLP, Design pattern, Spacy, NLTK, Web
+Sémantique
+
+2021 | Projet DS — ESPRIT
+Conception et développement d’un systeme automatisé pour aider les neurologues a
+
+CH classifier les signaux du cerveau EEG épileptiques et non épileptiques
+Methodologies : Scrum, Crisp-DM, IBM master Mots clés : Classification, detection, xgboost ,adaboost ,k-means, Machine Learning,
+Plan Deep-Learning, lightGBM, LDA, FFNN, CNN, NLP, WEB Scraping, Flask
+
+Framework : Django, Flask, Spring, .NET
+CERTIFICATIONS
+
+Coursera :Machine Learning with Python (IBM)
+HUAWEI Certification : HCIA-Al
+
+NVIDIA : Fundamentals of Deep Learning
+ID: 1¢58¢7747a5£40458¢38fe20af642ee9
+
+LANGUES
+
+Arabe: Langue maternelle
+Frangais: B2 TEF/TCF TP
+Anglais: B2
+
+Vie associative
+Membre LEO CLUB - 2019
+Loisirs
+
+musique,sport,randonné
+
+— \ Mots clés : carte Arduino , capteurs et actionneurs, IBM Watson
+
+2020 | Projets Machine Learning — ESPRIT
+Prédire le taux de désabonnement des clients télécoms
+
+Mots clés : Classification, Prediction, Supervised-unsupervised learning, Python,
+Scikit-Learn, visualisation, logistic regression,SVM, random forest
+
+2019 | Projet Big DATA — ISITCOM
+
+Classification de texte multi-classes: Développement d'un modéle permettant d'analyser,
+traiter les données afin d'avoir des résultats exploitables avec une optimisation de
+traitement et des performances .
+
+Mots clés : Apache Spark, Databricks, PySpark, Tokenization
+
+2018 | projet IOT (Internet Of Things) - ISITCOM
+
+Création d'une agriculture intelligente : prendre les bonnes décisions pour étre plus
+rentable tout en prenant soin de l'environnement.

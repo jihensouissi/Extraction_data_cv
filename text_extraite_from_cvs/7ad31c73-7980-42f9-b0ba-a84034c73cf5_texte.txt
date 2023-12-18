@@ -1,0 +1,112 @@
+Gahgouh Ghanem
+
+ghanemamn1929@gmail.com
+Rue de |’aéroport Gafsa
+Né le 19-04-1996
+
+Tunisien
+54060728
+Dipl6mes et Formations
+09-2018 ingénierie logiciel et systeme d'information Ecole Supérieure
+
+d'Ingénieurs Privée Gafsa, Tunisie
+
+09-2018 Master professionnelle des systémes mecatroniques Faculté
+des sciences Gafsa, Tunisie
+
+09-2015 - 06-2018 licence appliqué en automatisme et informatique industriel
+
+Institut supérieur des études technologiques Gafsa, Tunisie
+
+06-2015 Baccalauréat sciences techniques Lycée Houcin Bouzaien
+Gafsa, Tunisie
+
+Expériences professionnelles
+
+08-2020 - 09-2020 Développeur mobile SFM technologie Lafayette Tunisie
+
+01-2017 - 02-2019 technicien en bureau centrale de controle Société tunisienne
+
+de I'électricité et du gaz Gafsa, Tunisie
+
+06-2019 - 07-2019 technicien en centre de construction des lignes Tunisie
+
+telecom Gafsa, Tunisie
+
+Projets Réalisés
+
+COVID-19 Tracker
+
+c'est une application React qui vous permet de voir la propagation de
+maladie (covid-19) dans le monde avec un courbe descriptif.
+
+Les outils utilisés :
+
+React / API (covid19.mathdro) / material-Ul / charts / countup / react-
+chartjs-2 / axios / vs code
+
+Recipe
+
+Une application qui va donner des recettes cherché avec le nombre des calories et
+une image représentatif
+
+Les outils utilisés :
+
+React / API (edamam)/ CSS3 / vs code
+
+Data-Transfert
+
+une application mobile qui va envoyer et recevoir des données textuel entre le
+smartphone et le PC
+
+Les outils utilisés :
+
+Android Studio / Netbeans / XML / JAVA
+
+Ingénieur en Génie Informatique
+Dynamique et rigoureux passionné par le
+développement informatiques , motive par la
+satisfaction client et la mise en place de
+
+systémes d'information et leur
+développement.
+
+in @ghanem-gahgouh-503ba71a2/
+
++d @ghanem1929
+
+Informatique
+
+Langage de programmation
+JavaScript / JAVA / C/ Python / SQL / PHP
+
+Frameworks React / Symfony / Express / MongoDB
+(Atlas)
+
+Connaissance en HTML5 / CSS3/ NodeJs /
+Material-Ul/ DOM/ APIs / UI/UX / UML / XML /
+Bootstrap / JSON / Flutter
+
+Outils
+
+VS Code / NPM/ GIT / GITHUB / Android Studio /
+postman / MySQL /
+
+STAR UML / Arduino / protus ISIS / MATLAB /
+Netbeans / Eclipce /
+
+Micro C / Dev C++ / YARN / Logisme / Photoshop /
+Windows (10/8/7) / Linux(ubuntu)
+
+Langues
+
+Arabe
+Francais
+
+Anglais
+
+Centres d'intérét
+
+footing
+
+jeu d'échecs

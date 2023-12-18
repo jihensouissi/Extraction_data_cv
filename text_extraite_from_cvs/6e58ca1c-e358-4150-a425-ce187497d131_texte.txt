@@ -1,0 +1,121 @@
+DETAILS PERSONNELS
+
+9 Sfax,Route sidi mansour
+km7
+&@ nour.chakrounl99@gmail.com
+
+© +216 55837450 /
+98746925
+
+m Tunisienne
+
+ff) /nour-chakroun-139531114
+
+CERTIFICATIONS
+
+Microsoft Technology
+Associate (MTA)
+
+@ Cisco Certified Network
+Associate (CCNA1)
+
+LANGUES
+
+<=3) Arabe
+
+® Francais
+® Anglais
+
+EXPERIENCES DANS
+
+LA VIE ASSOCIATIVE
+Membre "club Google" IIT
+Membre "club Microsoft" IIT
+Membre "club Google" FSS
+
+CENTRES D'INTERET
+
+a4 Sport, méditation
+
+Lecture
+
+voyage
+
+CHAKROUN NOUR
+
+Etudiante en génie logiciel et informatique décisionnelle
+pee suis 4 la recherche d'un stage PFE
+FORMATION
+Dipl6me d'ingénieur - genie logiciel et informatique décisionnelle
+L'institut international de technologie a sfax (IIT) | Sept 2019 -Présent
+Master de recherche en informatique spécialité intelligence artificielle
+Faculté des sciences de sfax (FSS) | Sept 2018 - Avril 2021
+Licence fondamentale en sciences de I'informatique
+Faculté des sciences de sfax (FSS)| Sept 2014 - Juin 2018
+Baccalauréat scientifique spécialité informatique
+
+Lycée | Hedi Soussi sfax | Sept 2010 - Juin 2014
+EXPERIENCES PROFESSIONNELLES
+
+Stage au sein de la start-up REC-INOV (stage d'été) | Juillet 2021 - Sept 2021 (2 mois)
+Titre : Automatisation de la gestion de facture a l'aide de la technologie OCR
+et intégration de la partie décisionnelle c6té admin Version 2.
+
+Outils & Langage : python, reactJs, NodeJs, MySql, deep learning, colab,
+tesseract, Power bi.Travail dans un environnement Agile (Scrum).
+
+Stage au sein de la start-up REC-INOV (PFA)/ Mars 2021 - Juin 2021 (3 mois)
+
+Titre : Création d'une application de gestion de stock d’une parapharmacie
+Version 1.
+
+Outils & Langage : reactJS, NodeJs, MySql, Bootstrap, css3.Travail dans un
+environnement Agile (Scrum).
+
+Stage au sein d'un laboratoire REGIM-ENIS(Projet Master)/ Avril 2020-Déc. 2021(8 mois)
+Titre : Conception et développement d’une approche d’élagage (pruning)
+
+des modeles CNN.
+Outils & Langage : Tenserflow, Scikit-Learn, Pandas, Python, Jupyter
+
+Notebook, Google Colab, Numpy, Matplotlib.
+
+Stage au sein de I'H6pital Universitaire Hédi Chaker (PFE) | Fév 2018 - Mai 2018 (3 mois)
+Titre : Plateforme de surveillance médical a distance via PIOT.
+
+Outils & Langage : Raspberry pi, python, android studio, html5, Php, ajax,
+css3, 8.E contiki.
+
+PROJETS ACAD EMI QUES
+
+Reconnaissance des expressions faciales (TensorFlow, Python, Keras,
+numpy, matplotlib, pandas, google colab)
+
+Application web : Réalisation d'une application web pour la gestion d'un
+laboratoire de recherche (Angular)
+
+Application Windows Forms : Application de gestion de stock (c#, Sql
+Server, Microsoft Visual Studio)
+
+Site web pour la vente des produits enchéres (Php, html5, CSS, Javascript,
+Mysq]) ¥
+
+C ‘0 MPETENCES
+
+Data Science et Machine Learning :TensorFlow, Keras, Scikit-Learn, Numpy,
+Pandas, Matplotlib, OpenCV.
+
+Langages de programmation : Python, JavaScript, Java, JEE, C#, C, C++.
+Frameworks : ReactJS, AngularJS, SpringBoot, NodeJs, .NET.
+
+Gestion de projet : Méthode Agile Scrum
+
+SGBD: MySQL, Oracle Database, Firebase, SQL Server.
+
+Conception et modélisation :UML
+
+Outils et IDEs: Google Colab, Spyder, Visual Studio code, Eclipse, Postman,
+Docker, PowerBI.
+
+Systéme d'exploitation : Windows, Unix.
+

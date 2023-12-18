@@ -1,0 +1,64 @@
+Wissal Khemiri
+
++216-54708323 | wissal.khemiri@esprit.tn | linkedin.com/wissal-khemiri | github.com/wissal54
+
+disponible pour un stage de fin d’étude en data science — Actuariat
+EDUCATION
+Institut du Risque et de l’Assurance du Mans — Le Mans Université Le Mans, France
+Master en actuariat, mesure et économie pour des risques extremes , Gestion du portefeuille Sep. 2019 — Présent
+Ecole Supérieure Privée d’Ingénierie et de Technologies Pole Technologique - El Ghazala
+Ingénieurie informatique , option Data science Sep. 2018 — Présent
+Institut Préparatoire aux Etudes d’Ingénieurs El Manar Manar, Tunis
+Cours intensifs en math-physique-chimie, admise au concours national aott. 2016 — Mai 2018
+EXPERIENCES
+Stage Data Science | NLP, OpenCV, DevOps, DL juillet 2020 — Sep 2020
+PlIxemantic — Application OCR : Reconnaissance des textes a partir d’images pour les transcrire. LAC II, Tunis
+Projet fin d’année | Pyhton, R, ML juillet 2020 — Sep 2020
+Grafics Esprit Ariana, Tunis
+
+¢ Collecte des vraies données financiéres et Application du modéle d’évaluation des actifs financiers MEDAF dans le
+cadre de l’évaluation mathématique des risques des marchés financiers en calculant des indicateurs.
+
+¢ Optimisation de la gestion des portefeuilles d’actifs 4 aide du machine learning : application des algorithmes
+d’apprentissage non supervisé pour segmenter les entreprises cotés en bourse tunisienne.
+
+Stage Data Science | Pyhton, R, Excel, ML juillet 2020 — aott 2020
+Tunisie Telecom Jendouba, Tunis
+¢ estimation du nombre futur d’abonnements/dérangements par mois/région, segmentation des clients si possible.
+Stage Data Science | Pyhton, Scrappy, NLP, Dash Plotly juillet 2020
+WEVIOO Ariana, Tunis
+
+¢ Web Scraping (scrapy from scratch) - l’extraction des données(offres immobiliéres)de 4 partir des sites tunisiens.
+¢ NLP - Vautomatisation du traitement des données textuelles et d’en faire ressortir des informations cibles.
+¢ Dashboarding - Le développement d’un web service permettant la visualisation des résultats sur un dashboard.
+
+PROJETS
+
+Projet Assurance non vie] Provisionnement-Non-Vie- | R , Excel Oct 2019 — Jan 2020
+¢ Analyse des données triangulaires d’une branche d’activité automobile, calcul du best estimate de la provision pour
+sinistres a payer a l’ide des méthodes Chain Ladder, Mack et Bootstrap .
+Projet Assurance Vie | wissal54.shinyapps.io/wissalkh | R, R shiny Avr 2020 — Mai 2020
+
+¢ Estimation et projection de la mortalité d’une cohorte d’assurés anglais a l’aide du modeéle Lee Carter
+¢ Calcul de la valeur actuelle probable, la valeur de la prime pure pour proposer la tarification des contrats.
+
+Projet Assurance automobile ” Centrale Bonus-Malus” | Python, Spark, Dash Plotly Jan 2020 — Mai 2020
+¢ Modernisation du secteur de l’assurance automobile en Tunisie, création d’une plateforme permettant la
+synchronisation et ’échange de données entre CGA et les compagnies d’assurance, traitement et détection des
+différents types de fraudes et anomalies de données et prédiction de la classe Bonus-Malus de nouveaux clients.
+
+Projet NLP | NLP-Project | MLZ, DL , Python Avr 2020 — Mai 2020
+¢ Création d’un moteur de recherche sémantique basé sur un modeéle NER personnalisé pour l’étiquetage et la
+classification des données text Brut (netoyés), et faire le matching avec un dictionnaire sémantique.
+
+COMPETENCES
+
+Programmation: Python, Matlab, SAS, R, Java, Services web, SQL, MongoDB, Neo4j, Cassandra, Spark, Hadoop
+Outils ML/DL: scikit learn, Xgboost, GAN/DCGAN, Transfer Learning, VAE, NLP ,OpenCV , Keras , TensorFlow
+Science Actuarielle: Modéles mathématiques pour l’actuariat et la finance , actuariat vie/ non-vie
+
+Autres(soft skills): Ecoute Active, Flexibilité, Excellent Contact, Leadership, Planification, Motivation, collaboration
+
+LANGUES ET CENTRES D’INTERETS
+
+Langues: Frangais/Arabe (Bilingue), Angalais (intermédiaire) — Loisirs: Sport, Voyages, R-Ladies Tunis, Bénévolat

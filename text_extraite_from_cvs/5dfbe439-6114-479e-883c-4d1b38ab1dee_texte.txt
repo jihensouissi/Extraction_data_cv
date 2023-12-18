@@ -1,0 +1,69 @@
+Bassem TRABELSI | SOFTWARE ENGINEER
+
+Bassem.trabelsi.1@esprit.tn | linkedin.com/in/bassem-trabelsi | github.com/bassem-trabelsi
+26 ans | Permis A, B et C+E | Tunis, Tunisie | +216 55144788
+
+FORMATION
+
+Depuis 2018 Ingénierie en informatique —Ecole Supérieur Privée d'Ingénierie et de Technologies (ESPRIT - Accréditée EUR-ACE par la Cti )
+Ariana,Tunis.
+
+2015 — 2016 Dipléme de Licence Appliquée en génie mécanique - Institut Supérieur des Etudes Technologiques de Bizerte .
+
+2011 —2012 Baccalauréat Sciences techniques, Lycée Abou Kacem Echebi, Ariana.
+EXPERIENCES PROFESSIONNELLES
+
+Nov. 2017 Professeur de sciences et de technologie au sein de College Abou Kacem Echebi — Ariana (Tunis)
+2 mois Enseigner le cours d’initiation a la technologie de niveau secondaire (notions en mécanique, électricité, électronique,
+électromécanique, l’architecture, la résolution de problémes au point de vue technologique, etc).
+
+Professeur de sciences et de technologie au sein de College Abou Kacem Echebi — Ariana (Tunis)
+
+ier Enseigner le cours d’initiation a la technologie de niveau secondaire (notions en mécanique, électricité,
+électronique, électromécanique, |’architecture, la résolution de problemes au point de vue technologique, etc).
+Stagiaire technicien supérieur au sein de la Société Ennakl Automobiles — Charguia II (Tunis)
+Fév., 2015 Etude, Conception et Réalisation d’un banc d’essai des injecteurs a essence .
+5 mois Conception : A l'aide du logiciel de modélisation 3d (SolidWorks)
+Réalisation: différentes technologie telle que le découpe laser, le pliage
+PROJETS
+Confusion - Site Web d'un restaurant indien appelé confusion qui vise a montrer aux restaurants les plats disponibles et
+Sep. 2020 3 ” 5 3 ,
+; a permettre aux utilisateurs de les ajouter a leurs favoris et de les commenter .
+2 mois JavaScript, Node.Js , AngularJS , Reactive Programming , Typescript .
+Sep. 2020 Projet d’apprentissage sur l’intégration continue
+9 Mois Utilisation de Log4j pour la journalisation et le débogage et utilisation intensive de JUnit pour les tests.
+Refactorisation du code a l'aide de I'IDE Eclipse sts et vérification de la qualité du code a l'aide du Sonar.
+Mise en place de I'outil Jenkins pour l’intégration et le déploiement continus d’une application Spring .
+Spring (Boot, Data, Security), Angular, MySQL, Maven, Hibernate, Sonar, Jenkins, Git, Eclipse.
+Jan. 2020 KinderGuardiens - Application Web permet d’organiser un réseau social pour les jardins d’enfants et les parents.
+5 mois L’application permet aux parents de s’inscrire a un jardin d’enfant et de se communiquer .
+Spring( Boot, Data, Security), REST API, JSF, MySQL , Postman , Maven, Hibernate, Git, Eclipse.
+Sep. 2020 TechEvents — Application multiplateforme dédiée a l’organisation et la présentations des évenements technologique .
+4 mois Utilisation de Java avec JavaFX pour développer l'application de bureau et Codename-One pour I'application mobile.
+Mise en ceuvre de Symfony pour regrouper les services front et back dans un framework unique sous la forme des
+Bundles distinctes.
+Implication dans le processus Agile (SCRUM), Sprints mensuels et Scrums quotidiens pour discuter du développement
+de l'application.
+Java, JavaFX, Codename One, Symfony, PHP, Agile (SCRUM), Git.
+COMPETENCES
+Langues Frangais — Anglais (compétences professionnelles) — Allemand (niveau B1)
+
+Programmation C/C#, Python, Java ,Shell
+
+Program.Web JavaScript, TypeScript, , Angular, Node.js , PHP, Symfony, Framework Spring
+
+Ingénierie Conception UML, Gestionnaire de version (Git), Design patterns,Trello , Agiles (SCRUM)
+B.dedonnées Oracle, , SQL, PL/SQL
+
+= §=—COMPETITIONS ET CERTIFICATIONS
+
+¢ Certification Front-End JavaScript Framework Angular by Coursera(2020)
+
+¢ Certification Software Product Management Spécialisation by University of Alberta (2020)
+¢ Certification premiers secours (2019)
+
+¢ 1 er place Compétions robotique L'Ecole Nationale d'Ingénieurs de Carthage (2015)
+
+¢ Certification PROFESSIONAL - Mechanical Design
+
+¢ Certification ASSOCIATE - Mechanical Design

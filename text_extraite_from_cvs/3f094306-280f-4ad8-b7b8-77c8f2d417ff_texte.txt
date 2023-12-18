@@ -1,0 +1,85 @@
+a
+“*
+
+2019-—aujourd hui
+2013-2016
+
+2010-2013
+
+2020
+
+2019
+
+2015-2016
+2013
+
+2011
+
+Education
+
+Ingenieur en Informatique,
+
+ESPRIT (Ecole Supérieur Privée d'Ingénierie et de Technologies).
+Master professionnel, en Ingénierie des Systémes Informatiques,
+
+ENICarthage (Ecole Nationale d'Ingénieurs de Carthage).
+
+Licence en Informatique appliquée, option Systéme Informatique et Logiciel,
+ESTI (Ecole Supérieure de Technologie et d'informatique).
+
+Formation complémentaire
+
+Formation Tae Bo Level 1, 4Fit.
+
+Formation aux premiers secours, Croissant Rouge, Bab El Assel.
+Programmation des cartes Arduino, Enactus, 20 Février 2014.
+Cours anglais, Tunis Langue, niveau deux [3 mois].
+
+ASP.Net MVC4, Windows phone, Cloud Computing, C#, Microsoft Innovation Center, [17/18
+Mars].
+
+Stages & projets
+
+Projet — Timesheet, ESPRIT.
+
+Timesheet est un projet Spring Boot MVC, auquel on a ajouté des tests avec JUnit, et réaliser le déploiement
+continu CD en utilisant: Git, Maven, un serveur Jenkins, un serveur Nexus Repository OSS (open source
+repository) et un serveur SonarQube (pour le contréle qualité du code)
+
+Projet —ConsomiTounsi, ESPRIT.
+
+Développer un portail web avec Spring Framework (JPA, JSF, MVC REST, Spring Security) permettant la
+vente, l’achat et la livraisent des produits tunisiens
+
+Projet —EverGreen, ESPRIT.
+
+Développer une application multi-platforme: bureau(Java/ JavaFX), web (Symfony) et mobile(Java/ Code-
+name One); qui represente un ensemble de solutions: annuaire, vente et achat de plantes, ainsi que les outils
+necessaires pour le jardinage.
+
+Stage PFE —Master, Les Oasis.
+Développer un portail web "Portail de Bénévolat en Tunisie" avec le CMS Joomla!
+
+Stage PFE — Licence, Tunisie Télécom, Montplaisir.
+Automatisation de |’Activité Analytique avec YII framework
+
+Stage PFA —Outils d’Exploitation des fichiers GCMF, SNCFT, Tunis.
+Développer une application pour intégrer des fichiers texte, générés par l’application GCF (écrite en COBOL)
+dans une base de données Oracle, anisi que de générer des fichiers XML ou Excel.
+
+Computer knowledge
+
+Linux, Oracle 10g, PL/SQL, PHP5, sAva, C/C++, DTD, CSS, XML, XSD, JSON, JavaScript,
+jQuery, Angular, Eclipse, NetBeans, Visual Studio Code, Visual Studio 2019, UML, SOA, REST
+API, SQL Server, MySQL, Design Pattern, AOP, Nested Set, pipeline, CI/CD, BI, SCRUM
+LANGUAGES
+
+Arabe, Francais, Anglais
+
+INTERESTS
+Sport, Voyage, Randonnée, Benevolat
+16 Rue Mednin — Mourouj 1, 2074 BenArouss
+
+®) (+216) 51 306 354 e & marwa.ajenguil@gmail.com e “® linkedin: marwa-ajengui
+
+github.com/marwaAJENGUI

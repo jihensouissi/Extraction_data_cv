@@ -1,0 +1,99 @@
+EDUCATION
+
+2020-Présent MASTERE EN SYSTEMES INTELLIGENTS
+ys ENSI : Ecole Nationale des Sciences de |'Informatique - Tunis
+
+=n Matiéres : Smart system, Architecture d’entreprise, Machine Learning
+—— Traitement de connaissances, Intelligence Artificielle.
+
+2018-Présent GENIE LOGICIEL
+ENSI : Ecole Nationale des Sciences de I'Informatique - Tunis
+Matiéres : Sécurité Informatique, Business Intelligence, Data Mining
+Big Data, Machine Learning, Deep Learning et SIAD.
+
+2016-2018 ETUDES PREPARATOIRES :
+Institut Préparatoire Aux Etudes d'Ingénieur de Monastir
+
+Spécialité : Maths - Physiques
+
+2015-2016 BACCALAUREAT
+Spécialité : Mathematiques
+
+ELEVE INGENIEUR EXPERIENCES PRO & PROJETS
+EN INFORMATIQUE
+
+2020 @ AGILZ- Paris, France
+
+(2 mois) St d’été
+= age d’été
+A3ILZ :
+CONTACT - Développer un script .sh pour installer et configurer automatiquement le
+—— LL code server sur un serveur cloud.
+- Exposer le code server sur un nom de domaine choisi en configurant
+Phone nginx comme un proxy reverse.
++216 56 430 110 Outils : PUTTY, Cloud Computing, nginx, linux, Docker, VS Code, DevOps.
+Mail 2019-2020 Reconnaissance d’obiets 3D
+salmagafsi.gfs@gmail.com (5 mois) - Reconnaissance et classification d’objets 3D en utilisant l'architecture
+Graph ConvNet appliquée sur des objets 3D.
+- Utiliser cette architecture pour identifier les personnes a partir de leurs
+SKYPE ; mouvements de marche.
+salma gafsi
+Outils : Machine Learning, Deep Learning, CNN, Graph ConvNet, Python,
+Linkedin Tensorflow, Pandas, Scikit-Learn, Keras, Database CMU MOCAP.
+i in. i = i 2018-2019 o
+linkedin.com/in/salma-gafsi/ ol Génerer le Jeu Othello
+
+Développer un programme intelligent pour jouer le jeu Othello en utilisant
+le langage de programmation Java.
+
+LANGUES” Outils : Swing, AWT, Java.
+FORMATIONS & CERTIFICATIONS
+
+Neural Network and Deep Learning-Coursera
+Compétences acquises : ANN, Backpropagation, python, Deep Learning.
+
+FRANCAIS
+
+|
+ANGLAIS ee]
+—
+
+ALLEMAND
+
+A Crash Course in Data Science-Coursera
+ARABE Compétences acquises : Data Science, Data Analysis, Machine Learning.
+
+Google Cloud Platform Fundamentals-Coursera
+
+VIE ASSOCIATIVE Compétences acquises : Google Compute Engine, Cloud Computing,
+al Google App Engine, Kubernates.
+
+Trésoriére Cloud Computing & DevOps-eNs!
+OSSEC : Open Source Software ENSI Club Compétences acquises : AWS, Docker, Linux, Circle Cl, Git, EC2, S3.
+
+Développement Mobile Android-FORMALAB
+
+Organisatrice
+Compétences acquises : Android, Java.
+
+- TuniHack : Hackathon de programmation - ENS!
+
+- Forum Annuel de L'ENSI 2019 COMPETENCES
+
+- Robocup Event
+
+Intelligence Artificielle Langages de programmation
+
+CENTRE D'l N ERET Machine Learning, Deep Learning, NLP Python, Java, C, C++, JavaScript, PHP
+Sport Business Intelligence Systeme d’exploitation
+
+. Talend, Jaspersoft Linux, Windows
+Musique
+
+. Big Data & Data Mining
+Design Hemisee, gue SGBD
+
+SOOO: Set PL/SQL, MYSQL, Cassandra
+
+Photographie Cloud Computing & Docker
+

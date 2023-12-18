@@ -1,0 +1,57 @@
+DETAILS PERSONNELS
+
+DATE DE NAISSANCE :
+25 juin 2000
+
+ADRESSE :
+Raoued, Ariana
+
+CONTACT
+TELEPHONE :
+95215252
+
+E-MAIL:
+saharjendoubi25@gamil.com
+
+JENDOUBI
+SAHAR
+
+FORMATION
+Développement des systemes d’informations a ISET
+Charguia sept.2019 — juin 2022
+
+Baccalauréat en science expérimentales session 2019
+
+PARCOURS PROFESSIONNEL
+
+Conseil du Marché Financier [stagiaire (initiation)]
+Janv.2020 — févr.2020
+J’ai contribué au maintien et dla mise a jour du site
+web de CMF et j’ai contribué d la mise en place de
+leur réseau intranet.
+Agence Nationale de la certification électronique
+[stagiaire (perfectionnement)]
+Aout.2021 — octo.2021
+J'ai développé une application de monitoring de
+leur services web, ocsp et Idap et qui notifie
+l’administrateur immédiatement en cas de panne ou
+indisponibilité d'un ou plusieurs services Dour
+intervenir.
+
+COMPETENCES
+
+Conception et méthodologie : UML, SCRUM
+Programmation : Java, C, Python
+
+Développement web : J2EE, Node js, javascript, php,
+Angular, html, css, bootstrap
+
+Développement mobile : android, flutter
+
+Base de données : Access, Mysql, Oracle, MongoDB
+
+LANGUES
+Arabe ecccccccce
+Frangais ecccccce
+
+Anglais asoasoee

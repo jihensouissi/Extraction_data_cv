@@ -1,0 +1,120 @@
+|
+
+|
+
+Wafa BEN MILOUD
+
+I'm Wafa ben miloud , a hardworking adaptable person.
+| am motivated to put into practice the knowledge | have
+obtained during my training and to learn from
+professionals.
+
+Dp
+
+——a at
+——— —EE
+ceca” —
+——_ i ——
+me —$—$—$—$—————
+Teall —
+—_———
+
+eee —
+
+>
+
+wntill
+
+Web Development
+
+HTML5/CSS3/Bootstrap
+JavaScript
+NodeJS/Express
+
+PHP
+
+Firebase/ MongoDB/MySQL
+PostgreSQL/SQLite
+
+Software Development
+
+C/ C++
+Python /Django
+Kotlin/ Java
+
+Development Tools
+
+Pycharm
+Android Studio
+
+Arabic : Native
+French :Fluent
+
+English :Fluent
+
+Phone:
++216 21 885 831
+
+Address :
+Ben Arous,Tunisia
+
+Email:
+
+wafabenmiloud@gmail.com
+
+LinkedIn:
+Wafa Ben Miloud
+
+EDUCATION
+2015-2019
+
+Mathematics Bachelor Degree
+Lycée walid mechlewi, morneg ben arous
+
+2019-now
+
+Computer Engineering: Embedded system and IOT
+Institut Supérieur des Technologies de I'Information et des
+Communications(ISTIC) , borj cedria
+
+CERTIFICATION
+
+2019-2020
+
+WEB DEVELOPMENT
+(HTML5,CSS3,JavaScript, Bootstrap, PHP)
+Cifop-IMS , Menzah1, Tunis
+
+EXPERIENCE
+
+Internship | 15/06/2021 — 15/07/2021
+ASSOCIATION TUNISIENNE DE GEOMATIQUE
+Mission :
+
+To Develop a website that introduces geographic information
+systems to municipality of MARSA to manage and facilitate their
+services.
+
+We used: HTML5, CSS3, JS ,Python, Django, PostgreSQL
+
+SOCIAL EXPERIENCE
+
+e 2019-2020 Member at ISTIC Google Club, Borj Cedria
+e 04,05,06 /06/2021 WaiHackathon USA 2021
+e GOVACT Competition : Digital solution for Municipality of
+
+Hammam Lif
+
+PROJECTS
+
+e School management website
+Frontend , backend (html5, css3, JS, nodeJs,
+MySQL)
+
+e Collaborative platform for IOT designers and
+developers. (htm/5,css3,JS,nodeJs,MySQL)
+
+e Collision avoidance robot (robotino view3)
+
+e E-commerce Mobile App
+(android studio, kotlin, firebase)

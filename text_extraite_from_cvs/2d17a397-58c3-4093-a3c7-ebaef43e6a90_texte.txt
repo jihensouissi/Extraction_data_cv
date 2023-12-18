@@ -1,0 +1,50 @@
+SIRINE AZZOUZI
+
+Ingénieure En Informatique
+
+Mon Profil
+
+Actuellement étudiante a I'école polytechnique d'ingénieur a Monastir en
+5éme année. Dans le cadre de réalisation de mon projet de fin d'étude, Je
+suis a la recherche d'un stage dans le domaine de développement de logiciel
+dans une optique de construction d'un projet professionnel .
+
+Education
+
+Diplome National D’‘ingénieur
+Informatique
+
+Licence fondamentale
+Eléctronique Eléctrotechnique et Automatique.
+
+Baccalauréat
+Competences Technique
+
+Experience
+
+® Stage Technique juin 2021 - aoat 2021
+
+Informatech Teboulba Monastir
+
+Construire une application CRUD de base :Asp.net -Sql Server
+® Stage D’initiation juin 2020 - aoat 2020
+
+SWConsulting Bouhjar Monastir
+Application desktop de gestion personnel : Java - Mysql
+
+Certifications
+
+2 Projet Académique
+
+Projet Fin D’année PFA
+Application Mobile de prévément d’infraction de voiture
+Android -FireBase
+
+Free-Lance
+Application De Gestion D’hopital :Hopital Majel Bel
+Abbés
+
+Free-Lance
+Site e-commerce :société de confection The
+SafeWorkers
+

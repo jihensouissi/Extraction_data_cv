@@ -1,0 +1,159 @@
+Route teniour km 6,SFAX
+
+Tunisienne
+
+4 U>
+
+Ea
+
+emnaabyda@gmail.com
++216 21117368
+/emna-abida-2835ab188
+
+ac
+
+>
+Z
+a
+=
+a
+
+Arabe : Langue maternelle
+Francais: Courant
+Anglais: Intermédiaire
+
+COMPETENCES
+INFORMATIQUES
+
+Langages de programmation:
+Javascript,Java,JEE,Python, PHP,C,C#
+Framework:
+
+Node JS , React JS , Angular JS, Symfony,
+Spring boot.
+
+CMS :
+
+Drupal 8.
+
+Méthodologie de travail :
+
+Agile (Scrum)
+
+Langage de modélisation unifié: UML.
+Environnement de développement:
+Visual studio code , Eclipse, Phpstorm .
+SGBD :
+
+MYSQL ,Oracle Database, SQL Server,
+Firebase, Access.
+
+Data Science et Machine learning:
+TensorFlow, Numpy, pandas,keras,
+Matplotlib.
+
+Systeme d'exploitation :
+
+Windows, Unix
+
+Outils :
+
+Google Colab, Jupyter Notebook,
+Anaconda, Git, BitBucket, Trello,PowerBI
+,Docker, Talend, BonitaSoft.
+
+CERTIFICATIONS
+
+MTA software Development Fundamentals
+HCIA-AI
+
+VIE ASSOCIATIVE
+
+e¢ Volontaire *CROISSANT ROUGE
+TUNISIEN « 2016-2017 »Sfax , TUNISIE
+
+¢ Membre *ENACTUS FSEGS « 2017-2018
+»Sfax , TUNISIE
+
+e Membre *FCMZ « 2013-2018
+»Sfax, TUNISIE
+
+¢ Membre *club Google IIT « 2019-2020
+»Sfax, TUNISIE
+
+EMN A ABID A Etudiante en génie logiciel et informatique décisionnelle
+
+A la recherche d'un stage PFE
+
+FORMATIONS
+
+Diplome d'ingénieur en génie logiciel et informatique décisionnelle
+INSTITUT INTERNATIONAL DE TECHNOLOGIE SFAX
+2019-En cours
+
+Licence fondamentale en informatique appliquée 4 la gestion
+FACULTE DES SCIENCES ECONOMIQUES ET DE GESTION DE SFAX
+2016-2019
+
+Baccalauréat scientifique spécialité informatique
+LYCEE HEDI SOUSSI DE SFAX
+2015-2016
+
+EXPERIENCE PROFESSIONNELLES
+
+Stage au sein de la start-up REC-INOV (stage d'été) | 12/07/2021 - 12/09/2021 (2 mois)
+Automatisation de la gestion de facture 4 l'aide de la technologie OCR et
+intégration de la partie décisionnelle coté admin Version 2.
+
+Développement d'un systéme de reconnaissance digital qui permet la lecture automatique des
+facture .
+
+Modélisation d'une solution analytique décisionnelle .
+
+Technologies utilisées : python ,reactJs , NodeJs, MySql, deep learning, colab ,tesseract ,Power
+Bl,travail dans un environnement Agile (Scrum).,trello,git,BitBucket.
+
+Stage au sein de la start-up REC-INOV (Projet fin d'année)| 06/03/2021-06/06/2021 (3 mois)
+Conception et développement d'une application de gestion de stock d'une
+
+parapharmacie Version1.
+
+Visualisation et modification du dépot de stock en temps réel de la part de différents magasins,
+faire l'inventaire de fin de l'année , affichage des alertes aux articles de stock périmés, statistique
+pour le suivie des commandes des produits top vendus .
+
+Technologies utilisées : React js, Node js , bootstrap/sass _, Javascript ,Mysq] ,git,trello,BitBucket.
+
+Stage au sein de la société "EDI Solutions TN" (stage d'été) | 11/08/2020 - 07/09/2020 (1 mois)
+
+Développement d’une application web pour la gestion du restaurant.
+Gérer la prise des commandes ,informatiser la gestion des produits et la gestion de livraison,
+informer le client en temps réel du statut de sa commande.
+
+Technologies utilisées : Symfony4 Javascript , Mysql , php5 ,Xampp ,html5 , css3.
+
+Stage au sein de la société "SIFAST" (Projet de fin d'étude) | 04/02/2019 - 17/06/2019 (4 mois)
+Evolution du site SIFAST .
+
+Migrer le site sifast de symfony vers drupal 8 , de développer un module de partage sur les réseaux
+sociaux , créer des alertes mail pour recevoir des offres d’emploi,référencer le site intégrer le
+module de sélection des CVS.
+
+Technologies utilisées : Drupal 8, twig, html 5, php7, yaml, css, javascript,Docker, Git.
+
+PROJETS ACADEMIQUE
+
+Réalisation d'une application web pour la gestion d'un laboratoire de recherche
+(Angular )
+
+Réalisation d'un site web pour la vente des produits enchéres (PHP, html ,
+
+CSS , Javascript, Mysql , Xampp ,Bootstrap)
+
+Gestion de maintenance assistée par ordinateur (C#, SQL server,
+
+Microsoft Visual studio)
+
+Reconnaissance des expressions faciales (Python , Tensorflow , keras
+
+matplotlib, pandas, numpy ,Anaconda )

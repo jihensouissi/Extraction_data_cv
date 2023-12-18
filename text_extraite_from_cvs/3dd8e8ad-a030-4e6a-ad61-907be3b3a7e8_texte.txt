@@ -1,0 +1,109 @@
+Oumayma
+
+Ben
+Rhaiem
+
+INGENIEURLOGICIEL
+
+PROFIL PERSONNEL
+
+Elave ingénieur a ESPRIT, je suis passionnée par le
+développement, la conception et les tests de logiciels.
+J'aime travailler en équipe et suis capable d'apprendre et
+d'appliquer rapidement de nouvelles technologies.
+
+SKILLS
+
+Javascript
+
+UML
+
+Cc,
+
+Linux
+
+JAVA,PHP
+
+MySQL
+
+Spring-boot, Angular
+
+HTML5 ,CSS,Bootstrap 4,JavaScript
+Jquery
+
+COORDONNEES
+
++216 55 51 95 03
+
+Linkedin : https://www.linkedin.com/in/oumayma-benrhaiem-2aa4951b4/
+
+oumayma.benrhaiem@esprit.tn
+
+Menzel Temime Nabeul
+
+@oumaymarhm
+
+INTERET
+
+Natation
+
+Voyage
+
+LANGUES
+
+Francais, Anglais, Arabe
+
+RY
+Stage Ingénieur
+Didousoft (plateforme d’enseignement et de communication a distance)
+
+Lobjectif de ce travail est que I’établissement demandeur « ISET RADES » souhaite avoir un
+module sur la plateforme Didousoft qui gére les notes de ses Masters .
+
+languages : Php, Jquery, Javascript, mysql
+
+Projet d'intégration Dev
+
+Member de Iéquipe ‘Software Chasers’
+
+Développer une application desktop pour la gestion d'une garderie.
+
+languages : angular, spring boot, mysql
+
+Projet d'intégration C
+Member de I"équipe 'We Code’
+
+Développer une application desktop qui aide les utilisateurs pour la bonne gestion d'une
+agence de voyage ( C language , Github )
+
+Stage PFE
+
+Poulina Groupe Holding
+
+Projet Fin d'étude :
+Conception et réalisation d'une maquette industrielle
+
+d'enregistrement des données énergétiques.
+
+Stage Technicien
+Société Briqueterie 'Essid'
+
+Stage Technicien
+
+Etude du cas : Pompe tapis roulant
+
+Stage Ouvrier
+
+Tunisie Telecom
+
+Ce stage a été une occasion pour découvrir la vie active et saisir l'importance de
+l'appartenance au groupe de travail et de l’esprit d’équipe
+
+FORMATION
+
+Développement de logiciels ME
+
+Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT / 2079 - Présent
+
+Licence en génie électrique
+Institut supérieur des études technologique de Nabeul / 2016 - 2019

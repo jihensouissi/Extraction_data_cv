@@ -1,0 +1,132 @@
+GHAZI JALLOULI
+
+Eléve Ingénieur en Systemes Embarqués
+
+@ ghazi.jallouli@enis.tn & +216 54161999 9 Beb Bhar-3000, Sfax, Tunisia
+
+EDUCATION
+
+Diplome d’ingénieur en génie électrique
+Ecole Nationale d’Ingénieurs de Sfax
+@4 Sept 2019 - Présent 9 Sfax, Tunisie
+
+Cycle préparatoire aux études d’ingénieurs: Physique-Chimie
+
+Faculté des Sciences de Sfax
+& Aotit 2017 - Juin 2019
+
+EXPERIENCES PROFESSIONNELLES
+
+Stage Ingénieur
+Sfax Industry 4.0
+@4 Jul 2021 - Sept 2021 9 Sfax, Tunisie
+
+Développement de la partie d’acquisition de données d’un systéme de main-
+tenance prédictive et utilisation de Cloud pour collecter les données des
+capteurs placés sur le moteur de la ligne de production.
+
+Tj Rang: 327/800
+9 Sfax, Tunisie
+
+Connecter les capteurs a l’ESP32 afin de transférer les données et les af-
+ficher sur un tableau de bord.
+
+Implémentation du protocole MQTT pour gérer les débits de données élevés
+nécessaires au systéme de contrdéle.
+
+ESP32. MQTT | C/C++ Ubidots
+
+Stage d’initiation
+Green Power Company (GPC)
+ff Jul 2020 - Aodt 2020 9 Sfax, Tunisie
+
+e Installation d'une station de pompage photovoltaique.
+
+e Dimensionnement des panneaux photovoltaiques en utilisant PVsyst.
+e Réalisation d’une étude électrique de l’installation.
+
+PROJETS ACADEMIQUES
+
+Fea Projet de fin d’année 2021
+% Reconnaissance de I’état de congestion du Traffic routier a base
+de Réseau de Neurones Artificiels
+
+Artificial Intelligence »= MATLAB | Neural Networks
+
+Fea Projet GomyCode
+% Detection de fraude bancaire a base de Machine Learning
+
+Machine Learning SMOTE } XGBoost Python
+
+roa Manette Radio
+Conception et réalisation d’une manette radio a base d’émetteur-
+récepteur Arduino
+
+Arduino = Altium = =NRF24L01
+
+Fea Projet de surveillance des sols basé sur I’loT
+% Collection des données sur les précipitations, la température, les
+insectes et d’autres paramétres au fil du temps pour suivre les
+tendances et prévoir les besoins en irrigation et en protection.
+
+Raspberry Pi MQTT | Computer Vision C/C++ Python
+
+in linkedin.com/in/Ghazi-Jallouli
+
+Cg Le Congrés National TSYP
+Challenge
+Réalisation d’un robot distributeur
+de gel hydroalcoolique qui mesure et
+affiche la température corporelle.
+
+Arduino MLX90614 LCD screen
+
+Servomotors
+
+Cg La compétition Nationale de robo-
+tique EnetRobots2.0 (Premier Prix)
+Concevoir et programmer un Robot
+Sumo
+
+Arduino — Proteus ISIS | Solidworks
+
+COMPETENCES
+
+C/C++ | EmbeddedC Python
+Java VHDL Assembleur
+
+Arduino STM32  ESP32
+PIC Raspberry Pl FPGA
+Embedded Linux
+
+Proteus Isis Fritzing LabVIEW
+MATLAB Simulink
+
+HTML5 | CSS3_ | PHP) = MySQL
+
+Windows — Linux
+
+LANGUES
+e Anglais Niveau professionnel
+e Francais Niveau professionnel
+e Arabic Langue maternelle
+VIE ASSOCIATIVE
+@ Président
+© Club Electrique Enis (CEE) (02/2021 -
+Présent)
+Trésorier
+&
+
+IEEE Power and Energy Society ENIS-
+Student Branch (01/2020 - 01/2021)
+
+ACCOMPLISSEMENTS
+
+e Session de formation en STM32 réalisé par
+STMicroelectronics (08/2021)
+
+e Session de formation en Linux et Linux
+Embarqué (08/2021)
+
+e Session de formation en Intelligence
+Artificielle 4 GomyCode (01/2021 - 04/2021)

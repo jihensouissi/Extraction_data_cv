@@ -1,0 +1,117 @@
+Sassi Med Dhia Elhak
+
+Eléve Ingénieur a la recherche d’un stage PFE en informatique.je suis un
+apprenant rapide qui absorbe de nouvelles idées et les communique d’une
+maniere simple.Je vise le succés.et a élargir mes connaissances et perfectionner
+mes compétences techniques
+
+Depuis Septembre 2018
+2015-2017
+
+2014
+
+Langages et frameworks
+
+Outils
+Autres
+
+Juin2019-Aoit2019
+
+Juin2018-Juillet2018
+
+Continuous Integration
+learning project
+
+Site web dynamique
+Consommi Tounssi
+
+Site web dynamique ansi
+sa version mobile Smart
+Start
+
+Application Desktop
+MyGym
+
+Francais
+Anglais
+Allemand
+
+Adressse: Petite Ariana- Tunis- Tunisie
+Date de naissance:20/06/1995
+Situation Familiale: Célibataire
+
+§) +216 55 437 228
+sassi.dhiaelhak@gmail.com
+0 dhia-sassi
+
+Formation
+
+Ingénierie informatique : ESPRIT : Ecole Sup Privée d’ingénierie et de Technologies El Ghazela-ARIANA, .
+Génie logiciel
+
+Cycle préparatoire Faculté des sciences Monastir, Tunisie, .
+
+Mathématique Physique-MP.
+
+Baccalauréat Lycée Technique de Mahdia Tunisie, .
+Sciences Mathématiques, Mention: Bien
+
+Compétences
+
+Java python C Angular9 MVC NodeJs SpringBoot SQL MangoDB JavaScript API Rest TypeScript,
+HTML/CSS jQuery.
+
+Méthodes Agiles, Scrum, Gitlab ,Github, MySQL, Uml,CiscoTechnologies,nexus,jenkins,sonar. Bootstrap.
+Git, Eclipse, Netbeans, PHPstorm, Postman, MikroC PRO, ISIS ,Linux(Ubuntu,CentOS) , .
+
+Stages
+Stagiaire au sein de la société MT CONSULTING: approfondissement des acquis académiques dans la
+conception et I'architecture physique et logique des sites web et développement d'un site web avec java .
+
+Stagiaire au sein de la société Tunisienne Tunisie Telecom: Participation a la maintenance et correction de
+code d'une application mobile fournisseur client. .
+
+Projets
+
+Exécution de tests JUnit + Log4j sur une application Web, a l’aide du gestionnaire de code source Git et
+vérification de la qualité du code Sonar. Gestion du référentiel de livrables Nexus et utilisation de Jenkins
+Continuous Serveur d’intégration.
+
+Technologies utilisées: Spring, Maven, Nexus, Jenkins, Sonar, Git..
+
+Site web dynamique dédie pour les vente des produits tunisiennes uniquement. dont on peut faire une
+extraction des codes a barres,visite virtuelle des rayons, facturation et livraison
+Technologies utilisées:Spring Boot /Security/REST ,Hibernate, jpa, ioc, postman, MVC,Angular,MangoDB.
+
+Conception et realisation de site web dont une startup peut offrir un travail et choisir un freelenceur selon
+leur competences et I’evaluer ainsi l’organisation des evennements et des crowdfunding
+Technologies utilisées:Symfony 3.4, JAVA FX,MySQL php,codenameone,MySQL , Trello.
+
+Conception et Realisation d’une application qui gere les ressources humaines et financiéres ainsi le planning
+de la salle .
+Technologies utilisées: JDK,C,Glade, Github.
+
+Certifications
+
+Programming for Everybody Python
+
+Programming Foundations with JavaScript, HTML and CSS
+Front-End JavaScript Frameworks: Angular
+
+Building Scalable Java Microservices with Spring Boot and Spring Cloud
+
+Vie associative
+
+Chef département sponsoring au sein de club:Lounge of Gamers a Esprit
+
+Membre a Rotaract technopole Gazelle
+
+Langues a
+, Intéréts
+Avancé
+, Péche en mer
+Avancé
+, eu d’échecs
+Débutant Jeu
+
+Foot

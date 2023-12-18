@@ -1,0 +1,74 @@
+Souha AZAIEZ
+
+développement d'une application web d'entraide pour les tunisiens afin d'améliorer le
+niveau de la vie quotidienne
+Technologie:
+
+e Symfony/ JQuery/ MySQL
+Stage d'été
+
+D'aodit 2018 a septembre 2018 Bertsch Innovation Centre Urbain Nord
+Technologie :
+
+e Java/ Apache Wicket/ MySQL
+
+Stage d'été
+De juillet 2018 a aodt 2018 DELTASOFT INT
+
+ATIONAL Menzah 4
+Technologie:
+
+E
+Projet fin d'études PFE : Jib Fidek
+
+De janvier 2019 a juin 2019 Web Media International centre ville , Tunis
+e MySQL/ Microsoft Excel/ Html
+
+continue d'une application spring boot.
+e clone le projet a partir de git .
+e lacréation des tests unitaires Junit5.
+e la vérification de la qualité du code en utilisant SonarQube.
+e L'Hébergement des artéfacts en utilisant Nexus
+
+Application Web : Jardins d'enfants
+De janvier 2021 a juin 2021 Esprit Ariana
+e ll s'agit de développer une application web pour la gestion des jardins d'enfants.
+e¢ Développement des méthodes de la partie BackEnd avec Spring boot.
+e Tester les API avec les tests Postman.
+e Développement des interfaces de la partie FrontEnd avec ASP.Net.
+
+e Mettre en place les besoins descriptifs et prédictifs et développer les solution
+adéquates pour ces objectifs en utilisant la méthodologie CRISP-DM.
+
+Application Multiplateforme: jardins d'enfants
+De janvier 2020 a juin 2020 Es
+e Il s'agit de développer une application multiplateforme (desktop, web et mobile) pour la
+
+gestion des plusieurs jardin d'enfants *
+e Technologie:
+
+rit Ariana
+
+Projet Devops CI/CD
+De septembre 2021 a novembre 2021 Esprit Ariana
+e Mettre en ceuvre tous les maillons de la chaine intégration continue + livraison
+java/javaFx/Symfony3.4/CodeNameOne/Doctrine/MySQL/Git
+EDUCATION
+Dipl6me d'ingénieur en informatique
+
+‘ur Privée d'Ingénierie et de Technolc
+aur Privée d'Ingénierie et de Technolo
+
+Depuis septembre 2019 Ecole Supé
+
+Licence fondamentale en informatique et multimédia
+De septembre 2015 a juin 2019 Inst
+
+Baccalauréat en sciences expérimentales
+man soliman, Nabeul
+
+De septembre 2014 a juin 2015 lycée sc
+
+Java , JavaEE , Spring Boot , ASP.Net, Angular , Symfony, PHP , Python
+MySQL, MongoDB, NoSQL, SOA, Data Mining , UML, Agile , Scrum
+

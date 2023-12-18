@@ -1,0 +1,103 @@
+Aloulou Firas™
+
+Etudiant Ingénieur En Informatique
+
+CONTACT
+
+i) 50151578
+
+@ Firasaloulou96@gmail.com
+
+© Route I’Ain km 6 Sfax-Tunisie
+
+FORMATION
+
+2021  Etudiant Ingénieur En Informatique
+3éme Année
+Institut International de Technologie Sfax
+
+2018
+Dipl6me De Licence En Informatique
+Faculté De Science De Sfax
+
+2014
+Dipl6me De Baccalauréat En Sciences
+
+LANGAGES DE PROGRAMMATION
+
+e C/C++ e (SQL).
+
+° CH e Html
+
+° Php © CSS
+
+e Java script eXml
+
+e Java eUml
+
+e python
+
+LANGUES
+
+e Arab e Francais
+e Anglais
+
+EXPERIENCES SOCIALES
+
+e AIESEC : Membre AIESEC pendant la mondat
+2016-2017.
+
+AIESEC est une plateforme globale permettant aux jeunes
+d'explorer et de développer leur potentiel de leadership.
+
+e Microsoft : Membre au club Microsoft 2018-
+2019.
+
+FRAMEWORKS ET EXPERIENCES PROFESSIONNELLES
+
+e 2021: Stage d’été a La Société PRIMATEC Engineering.
+e 2020: Stage d’été a La Société Mg shop.
+e 2018: Stage de PFE a La Société Sécurité Informatique “SSI”.
+e React js:
+- Stage d’été : Création d’un plugin de Dashboarding.
+eC#:
+- Stage d’été : utilisation de Dev Express pour la création d’un
+Dashboard.
+
+e Cake PHP:
+- PFE: Application web pour enregistrer et afficher I’historique des
+évenements d’une maison intelligente.
+- Application de gestion de commandes, de stock et de comptabilité
+pour une société de vente en ligne.
+e Symfony:
+- Mini projet : gestion d’empreintes des livres.
+- PFA: application web pour gestion des colis pour une société de
+livraison.
+e Angular:
+- Mini projet : gestion des étudiants et des enseignants pour un
+laboratoire.
+e Android:
+- PFA: lecteur de code a barre.
+e JEE:
+- Mini projet : gestion des enseignants.
+e Arduino:
+- PFE: prototypages d’une maison intelligente.
+e App Sheet:
+- Application de gestion de commandes a partir de Google Drive.
+
+CERTIFICATIONS
+
+e 2020: MTA: Software Development Fundamentals.
+
+e 2019: Attestation de présence: “IEEE Cyber Security Chapter at ENIS”.
+
+e 2019: Microsoft Word (Office 2016).
+
+e 2019: MTA: Introduction to Programming using Java.
+
+e 2019: MTA: Introduction to Programming using HTML and CSS.
+
+e 2018: Attestation de participation: “E-learning sur la plateforme soft skills
+d’Accenture”.
+
+e 2017: Certificat informatique et internet(c2i).

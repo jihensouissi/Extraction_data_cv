@@ -1,0 +1,61 @@
+Mohamed HAMZA
+
+Etudiant en génie infotronique |Recherche d’un stage de fin d’études
+
+O +(216) 54654789 @ mohamed.hamza@enicar.u-carthage.tn
+© github.com/hamza-med_ in linkedin.com/in/mohamed-hamza-b4a094215
+9 16 Rue du Touboursok , 2000 Bardo, Tunisie
+
+Je suis étudiant en troisieme année d’ingénierie, qui veille toujours a atteindre ses objectifs et qui est passionné par le développement web
+et Data Science.
+T FoRMATION
+2019-Aujourdh’ui ~~ Dipléme national d’ingénieur en génie Infotronique, Ecole Nationale d’Ingénieurs de Carthage, Tunis
+2017-2019 Concours national d’entrée aux école d’ingénieurs, Rang:248/1400, Institut préparatoire aux études d’in-
+génieur de Tunis
+2016-2017 Dipléme de baccalauréat en sciences expérimentales, mention Bien, Lycée Sadiki, Tunis
+
+(i) ExPeRIENCE
+
+Aout 2021 | Développeur Full-Stack, MIND ENGINEERING, Tunis
+Septembre 2021 | Développement d’une application web pour traduire les themes WordPress.
+Symfony | PHP |) MySQL Twig | Doctrine | MVC |, HTML | CSS | Elasticsearch | JavaScript | Git |) VScode
+
+Juin 2020 | Développeur Full-Stack, CENTRE NATIONALE D’INFORMATIQUE, Tunis
+Juillet 2020 | Développement d’une application web de gestion des activités des employés du CNI.
+Angular || Spring Boot || MySQL | VScode || Git
+
+O) PROJETS
+PROJET DE FIN D’ANNEE : ETUDE PREDICTIVE DE LA CONSOMMATION D’ENERGIE ELECTRIQUE MARS 2021 - MAI 2021
+Utilisation des données de series chronologiques pour prédire la consommation d’énergie d’un ménage
+Python3 | K-Means | PCA | TensorFlow || Keras | RNN | LSTM || Scikit-learn | Forecasting
+
+CREATION D’UN CHATBOT DOTE D’UNE INTELLIGENCE ARTIFICIELLE Oct 2021 - Nov 2021
+Création et déploiment d’un chatbot intelligent, en appuyant sur les technologies de reconnaissance naturelle de langage.
+Python3 | NLP || spaCy | Flask | Docker | Keras || Scikit-learn
+
+APPLICATION WEB DE COMMERCE EN LIGNE POUR LES ACHATS. JUILLET 2021 - AOUT 2021
+Réalisation d’un site Web E-commerce
+Angular | Spring Boot |) MySQL
+MINI PROJET IOT ET RESEAUX DE CAPTEURS Nov 2021 - PRESENT
+Conception d’un télecommande universelle intelligente basée sur un systeme loT pour l’optimisation de la consommation d’énergie.
+loT | MQTT | Arduino | Firebase | Node-RED
+
+JEUX DE MEMOIRE Nov 2019 - DEC 2019
+Développement d’un jeu de mémoire concu pour deux personnes.
+
+Cc
+
+= COMPETENCES
+Languages Anglais, Francais, Arabe, Allemand
+Programmation C/C++, CUDA, Java, JS/TS, PHP, Python
+Frameworks AngularJS, ReactJS, Redux, Symfony , Flask, Spring
+Bases dedonnées Oracle Database, MySQL, Elasticsearch
+Data Science Pandas, Numpy, Scikit-learn, Keras, spaCy
+DevOps__ GitLab, Cl/CD, Docker, Kubernetes
+Autre UML, Linux, FreeRTOS, Qt, VHDL
+
+@ CENTRES D’INTERETS T CERTIFICATIONS
+JEUX DE REFLEXION:  échec, labyrinthe Publié par Coursera:
+Sport: footing, football, basketball 2021 +» Neural Networks and Deep Learning
+
+2021 +» Sequence Models

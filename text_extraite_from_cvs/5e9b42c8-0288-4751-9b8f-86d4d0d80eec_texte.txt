@@ -1,0 +1,108 @@
+STAGE PFE
+
+PROFIL :
+
+Etudiante en 3éme année licence
+Ingénierie des Systémes Informatiques "
+Computer Engineering"
+
+CONTACTS
+
+\ 27973733
+
+&) ameni.bouaita@gmail.com
+Q Ennaser, Ariana
+
+in) Ameni Bouaita
+
+COMPETENCES INFORMATIQUE :
+
+Back office : python, java, php
+
+Front office : html, css , javascript, angular
+systéme embarqué : language VHDL, C
+embarqué
+
+Microcontrolleurs: raspberry pi, arduino,
+STM 32
+
+Database : SQL, PhpMyAdmin, SQlite
+firebase ,MongoDB
+
+Outil bigdata: hadoop
+
+Project Managment: agil scrum
+
+Mobile: android
+
+Systéme d’exploitation: windows,
+linux(Ubuntu)
+
+Conception UML: StarUML
+
+CENTRES D'INTERETS
+
+Peinture
+Dance
+
+DIPLOMES ET FORMATIONS:
+
+Licence en systéme embarqué et IOT a la faculté des sciences
+mathématiques, physiques et naturelles de Tunis El Manar (FST) |
+2019
+
+Baccalauréat Science Expérimentale au lycée Ennaser ariana |
+2015-2019
+
+PROJETS ACADEMIQUES
+
+Projet base de données
+
+Décembre -Janvier 2020
+Création d'une base de données d'une librairie en SQL (avec SQL
+développer)
+
+Projet développement Web
+
+Mars - Avril 2021
+
+Développement d'un site Web pour la promotion du tourisme en
+Tunisie (HTML/ CSS/PHP)
+
+Projet développement mobile
+
+Avril 2021
+
+Développement d'une application mobile pour la gestion d'une
+bibliothéque (Android studio /SQLite (pour la gestion des données)
+
+Projet de fin d'année
+
+Avril - Juin 2021
+
+Création d'un systéme de E-Health en utilisant des capteurs (kit E-
+health) reliés a une carte Arduino et une carte d'interfacage et un site
+web ou les résultats sont affichés
+
+EXPERIENCE ASSOCIATIVE
+
+Membre du Rotaract Amilcar Sidi Bousaid | 2021
+
+Trésoriére IEEE FST SB | Mandat 2020-2021
+
+Membre a IEEE (Institute of Electrical and Electronics Engineers) |
+Septembre 2019
+
+IEEE WIE FST Co-founder |2019
+
+Membre au croissant rouge tunisien Ariana | 2019
+
+HACKATHONS ET COMPETITIONS
+
+Tsyp 2019 (Tunisian students and Young Professionals)
+|IEEE Xtreem FST 13.0 (hackathon 24h)
+
+STAGES ET FORMATIONS
+
+Stage au sein de “deep’era’ | Juillet - Septembre 2021
+Formation orange center 3d printing | Mars 2020

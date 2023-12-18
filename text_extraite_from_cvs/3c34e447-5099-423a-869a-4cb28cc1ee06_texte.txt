@@ -1,0 +1,91 @@
+DJEBALI NOUHA
+
+FULL STACK DEVELOPER
+
+ABOUT ME
+
+A problem-solver software engineer who is
+always eager to learn new technologies ina
+very short time. | am persistent and willing
+to achieve every single project / work iam
+
+In.
+DEV SKILLS
+
+JavaScript | Jquery | Node js | Express | Php
+MongoDB | MySQL | Angular.js | Angular +2
+ReactJS | Redux | HTML] CSS | AJAX | Git |
+TypeScrip | UML
+
+SOFT SKILLS
+
+Self-Learning
+Time/Stress Management
+Teamwork
+
+Persistence
+
+CONTACT
+
+jbelinouha9@gmail.com
+
+3S 54697596
+
+EDUCATION
+
+Business Computing license
+
+Sept 2013 - June 2016
+- IHEC (Carthage)
+
+Full Stack Developer
+Aug 2020 - jan 2021
+- RBK (Tunis)
+
+BACCALAUREATE IN IT
+
+Sept 2012-June 2013
+
+- Hight school Ibn Abi Dhief
+
+PROJECTS
+
+MINDLAB
+
+E-learning Application
+
+Duration : 4 weeks
+
+Role : scrum master
+
+Technologies : MEAN stack / cloudinary / multer / oauth /
+paypal / socket io / webRTC / peerJS / nodemailer
+
+Tasks: participating in the development of the whole
+application /managing the workflow using github
+
+KICKERS
+
+Social Media Application
+
+Duration: 1 week
+
+Role : Developer
+
+Technologies : MERN stack /multer / redux
+
+Tasks: participating in the development of the whole
+application / debugging / helping in solving conflicts using
+github.
+
+PHARM-APP
+
+Stock management Application
+
+Durayion: 1 week
+
+Role : Scrum Master
+
+Technologies : MEAN stack/multer
+
+Tasks: implementing Jwt authentication , front -end

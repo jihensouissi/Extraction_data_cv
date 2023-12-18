@@ -1,0 +1,102 @@
+TAC
+
+rR PT
+CON |
+
+Dx] Adam.kossemtini@gmail.com
+QK +216 27 505 287
+
+‘in adam-kossemtini-3746ab1a2
+9
+
+Sfax, Tunisie
+
+Arabe EE eD
+Fran¢aiS
+
+Anglais ED
+
+JFESSIONNELLES
+
+- Stage technicien (juillet-aodt 2020) :
+Centre de Recherche en Numérique de Sfax
+Sfax
+Détection des champs d’oliviers sur des images satellitaires
+
+Sentinel-2 en utilisant des techniques d’apprentissage
+profond : ResNet
+
+- Stage (aodt 2019):
+Yousoft_IT
+
+Sfax
+Création d’une interface web pour un video 360° avec
+Three.js
+
+Nouvelles Technologies : Machine
+Learning ,Big Data, Hadoop, NLP,
+DeepLearning , IA ....
+
+Languages:
+Python,Java,JavaScript, PHP,C/C++,
+HTML, Css, PI/SQL,Three.Js
+Framework : PySpark, Bootstrap ,
+Symfony, Apache,Angular
+
+Outils : Anaconda, Google Collab,
+Supervisely, Spyder , Visual Studio,
+Eclipse, Github
+
+SE : Windows , Linux ,Android
+Bases de données : Oracle,
+MySQL, PostgreSQL
+
+Architecture Logicielle : MVC
+Modélisation et Méthodologie :
+
+UML , Scrum,Merise
+
+ChDAAA TIAAIC
+rUORWIA I IONS
+
+2018-2021: Formation d’ingénierie en informatique — Issatso
+: Institut Supérieur des Sciences Appliquées et de
+
+Technologie de Sousse
+2016-2018 : Cycle préparatoire intégré — Issatso
+2017 : Formation d’anglais — wanderlust Sfax
+
+- Projet de classification en utilisant CNN (Convolutional
+neural network)
+
+- unsite web e-commerce en utilisant PHP
+
+- Tic-TAC-TOE : Jeux de réflexion en utilisant Python
+
+- Un site web pour une agence immobiliére en utilisant
+Symfony 4
+
+- « Self Driving Car » : en utilisant IA (PYTHON)
+
+- « object size detection » : en utilisant (PYTHON)
+
+Membre dans IssatSo Microsoft Club
+(2018)
+
+Membre dans IssatSo Google Club
+(2020)
+
+CERTIFICATIONS
+
+Deep Learning avec TensorFlow2 (udemy)
+
+Le guide complet d’Hadoop 2020 (udemy)
+
+Data Science : NLP in Python (udemy)
+Python Spark et Machine Learning (udemy)
+
+Machine Learning & Deep Learning avec Python (ARSII)
+Neural Networks & Deep Learning (Coursera)
+CENTRES D’INTERET
+
+Voyage, sport ,Cinéma , Jeux vidéos

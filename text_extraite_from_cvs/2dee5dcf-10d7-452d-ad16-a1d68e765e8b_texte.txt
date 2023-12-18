@@ -1,0 +1,121 @@
+CONTACT ME AT
+
+9 Ariana, Tunisia
+
+@ +216 52 376 526
+
+[> maysa.habbachi@esprit.tn
+fin) /mayssa-habbachi
+
+EDUCATION
+
+IT Engineering degree
+ESPRIT engineer school
+2017 - Present
+
+Baccalaureat diploma
+Sahloul 4 High School
+2013 - 2017
+LANGUAGES
+
+English ( Advanced )
+French ( Upper-intermediate)
+Arabic ( Native )
+
+TECHNICAL
+
+SKILLS
+
+Programming Languages :
+Javascript, PHP, Java, C, C++,
+Python, C#, SQL
+Frameworks:
+
+Symfony, Angular, SpringBoot
+ASP.Net, Django, QtCreator,
+Bootstrap
+
+Database Management :
+Mysql, MongoDB, Oracle,
+SqlServer
+
+Libraries :
+
+React js, React Native, Express
+Js
+
+Runtime environment :
+Node.js , JRE
+
+Tools and IDE:
+
+STS, Netbeans, Postman,
+VSCode, WAMP, XAMP,Expo
+PHPStorm, Github, Trello
+PERSONAL
+
+SKILLS
+
+Adobe Software :
+
+Photshop , illustrator , After
+Effect
+
+MAYSSA HABBACHI
+
+SOFTWARE ENGENEERING STUDENT
+
+PERSONNEL PROFILE
+
+Final year engineering student at ESPRIT (Private Higher
+School of Engineering and Technologies).Passionate by the
+software development and having both desire and Volunteer
+to learn/practice it. | want to build a brilliant career in this
+exciting field.
+
+PROFESSIONAL EXPERIENCE
+
+Vermeg(Lac,Tunisia) | June - Aug 2021
+¢ Developed functionalities and three interfaces for client
+
+to obtain his consumer credit by using React Native and
+Expo.
+¢ Built and tested REST API of the mobile application.
+
+PicoSoft S.A.R.L (Ariana , Tunisia) | July - Aug 2020
+e Developed a web application part (Front-end part with
+
+Fake-backend ) for the organization of bus and metro
+stations using Angular 9 and JSON-server for the fake
+back-end.
+Vermeg (Lac, Tunisia ) | June - July 2019
+e Developed E-commerce application by using PHP native,
+CSS ,HTML, Bootstrap.
+Tunisie Telecom (Sousse, Tunisia ) | June - July 2018
+¢ Maintained signal and network problems for clients.
+ACADEMIC PROJECTS
+Edutopia(Smart Virtual Classroom) | January - May 2021
+A collaborative web conferencing tool with an online
+whiteboard, breakout rooms, and screen sharing capabilities
+for teachers and tutors who want to conduct highly
+interactive live online teaching sessions.
+¢ Keywords: Node js, React js , Express js , MongoDB,
+Postman, VSCode, GitHub,MongoDB Compass, WebRTC,
+oauth2 authentication, Git
+
+TGT (Tunisian got talent) | January - May 2019
+This project consists of developing a multiplatform
+
+application(Desktop / Web / Mobile) Tunisian Got Talent
+which is an application dedicated to users to express their
+talent through publications and the videos they have just
+posted.
+e Keywords: Symfony, Java FX, CodeName One, PHPStorm,
+Netbeans, WAMP, GitHub, Bootstrap, Scrum.
+
+Jolla | September - December 2018
+E-commerce application to allow Jolla to expose and sell
+
+their products online.
+e Keywords: PHP, HTML, CSS, Javascript, Mysql, VSCode,
+GitHub, Bootstrap, Git.

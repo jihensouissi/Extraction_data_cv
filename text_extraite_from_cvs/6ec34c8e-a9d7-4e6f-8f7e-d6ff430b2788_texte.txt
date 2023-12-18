@@ -1,0 +1,128 @@
+(
+
+PROFIL
+
+Futur ingénieur informatique ayant le
+
+dipl6me tunisien de licence appliquée
+
+en réseaux informatiques
+Couramment je suis en 5€me année
+
+cycle d'ingénieur a EPI. Passionnée par
+
+le travail en groupe, travailleuse,
+
+sociable et dotée d'un esprit d'analyse.
+
+Je souhaite intégrer une entreprise
+dynamique.
+
+CONTACT
+
+Adresse :
+Monastir, Tunisie
+
+Téléphone :
++216 50 760 040
+
+Email :
+farjallah.fatimah@gmail.com
+
+Linkedin :
+hitps://www.linkedin.com/in/fatma-
+farjallah-03412421b/
+
+LANGUES
+
+Arabe : Langue maternelle
+Frangais : Courant
+Anglais : Intermédiaire
+
+ACTIVITE ASSOCIATIVE
+
+-Membre IEEE
+-Membre EP! GOOGLE CLUB
+
+CENTRE D’INTERET
+
+- Dessin, Création des bijoux, Musique,
+
+Cinéma, Sport.
+
+FATMA FARJALLAH
+
+Etudiante en genie logiciel
+
+EDUCATION
+
+EPI SOUSSE
+
+2019 - Aujourd’hui Ecole pluridisciplinaire internationale
+
+Cycle d’ingénieur : Génie Informatique
+
+ISIT’; COM
+
+2014 — 2017 INSTITUT SUPERIEUR D'INFORMATIQUE ET DES TECHNIQUES DE
+COMMUNICATION
+
+Licence Appliquée En Réseaux Informatiques
+
+EXPERIENCE
+
+STAGE TECHNIQUE, whitecape technologies
+
+01 Juillet - 13 Septembre, 2020
+
+Créer et configurer un tableau de bord dans le module kpi du tableau de
+bord odoo.
+
+PROJET DE FIN D’ETUDES, ISITCOM
+01 Février — 30 Mai 2017
+Réalisation d'une maquette Arduino d'une maison intelligente.
+
+STAGE TECHNIQUE, Sartex
+
+01 Juillet - 30 Aodt 2016
+
+Technicien en maintenance informatique : Diagnostiquer les pannes,
+mettre a jour les logiciels, installation et réalisation des cdbles réseaux.
+
+COMPETENCES
+
+Base de données : Oracle, SQL Server, PostgreSql et Access.
+Langages de Programmation :java, php, python, C, C++ ,javascript.
+Back-End: NodeJs, Django ,Asp.Net.
+
+Front-End: React JS, jQuery
+
+Carte électronique : Arduino mega, Module Ethernet, Module wifi.
+
+PROJET ACADEMIQUE
+
+PROJET FIN DE SEMESTRE, EPI
+
+01 Novembre — 15 Janvier 2022
+
+Conception et réalisation d'un systeme de gestion de projets Intranet
+Ce systeme permet une gestion et un suivi faciles des divers projets en
+cours dans l'entreprise et des personnes affectées 4 ces projets.
+
+PROJET DE FIN D’ANNEE, EPI
+
+01 Février - 30 Mai 2021
+
+Construire un systeme de prédiction maladies 4 partir des sympt6émes, en
+utilisent des techniques d'apprentissage automatique (ML)qui peut
+diagnostiquer la maladie et fournir des détails de base sur la maladie
+avant de consulter un médecin en ligne.
+
+PROJET DE FIN D’ETUDES, ISITCOM
+
+01 Février — 30 Mai 2017
+
+Construire une plateforme de contréle pour les maisons intelligentes par
+une commande via un site web. Cette plateforme consiste d'apporter un
+grand nombre des fonctions de gestion d'énergie, de sécurité et de
+communication que l'on peut retrouver dans les maisons.

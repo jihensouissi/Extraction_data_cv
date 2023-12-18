@@ -1,0 +1,116 @@
+CHOKRI MILOUD
+
+@ chokri.miloud123@gmail.com & +216 56739498 9 Arina soghra,tunis
+in https://www.linkedin.com/in/miloud-chokri-018b24181/ © chokri09
+
+Chaine youtube :chokri miloud
+
+DIPLOME ET FORMATIONS
+
+Etude cycle ingénieur informatique (Ecole supérieure privée
+d’ingénierie et de technologie :ESPRIT)
+@ Septembre 2019 -> Aujourd’hui 9 ghazela, Ariana
+
+Dipléme de technicien en informatique de gestion
+f septembre 2015 -> juin 2019 9 FSEGN Nabeul, Nabeul
+
+Baccalauréat en sciences expérimentales
+@3 Juin 2015
+
+9 Lycée mixte, Sidi Bouzid
+
+EXPERIENCE PROFESSIONNELLE
+
+Stage de projet de fin d’étude
+@4 Janvier 2019 - Mai 2019
+
+9 Tunisie télécom: Nabeul, Tunis
+
+e développement d’une application web / mobile de gestion d’incident.
+
+PHP5, MYSQL/SQLite ,Android Studio SDK, service Web REST,
+HTML5, CSS3, Bootstrap
+
+Stage de Développement Informatique
+4) Juillet 2018 - Aodt 2018
+
+e Développement d’une solution de gestion des municipalités et des
+
+ouvriers. (JAVA)
+
+Stage d’initiation a la vie professionnelle
+G3) Juillet 2017 - Aodt 2017
+
+e Manipulation des solutions informatiques (Logiciels bureautiques)
+
+PROJETS
+
+Projet d’integration en ESPRIT( Ecole supérieure privée d’ingénierie et
+
+de technologie)
+@4 Septembre 2021 - Novembre 2021 9 ESPRIT:Ariana, Tunis
+
+e Application d'outils DevOps
+
+e SpringBoot ,RestApi, JAVA8/JAVA11
+
+e MySal
+
+e JUNIT/LOG4J/Sonar Qube/Nexus/Jenkins/Docker
+
+Relief Applications :
+#3) 01 Octobre 2021 - 08 Octobre 2029 Relief Applications:Madrid, Spain
+
+e Développement d’une application web (Youtube Player)
+e Backend:NodeJs ,FrontEnd:Angular
+
+9 Centre de gouvernorat: Sidi Bouzid, Tunis
+
+9 Centre de gouvernorat: Sidi Bouzid, Tunis
+
+PROFIL
+
+informaticien en développement logiciels
+web/mobile/Desktop, doté d’un bon sens
+de l’organisation, de la communication et du
+relationnel. Les connaissances acquises lors
+de mon cursus, les stages et projets que j’ai
+pu réaliser, ma capacité d’adaptation aux
+nouvelles situations, ma motivation ainsi
+que mon dynamisme, constituent les atouts
+que je souhaite mettre a la disposition de
+votre société.
+
+COMPETENCES
+
+e Langage de programmation
+
+Pascal C/C++/C sharp Visual Basic
+JAVA PL/SQL. LaTex PHP JS
+Python
+
+e Developpement WEB
+
+PHP : PHP Native, symfony3.4, Laravel 8
+Javascript
+
+HTML / CSS /Bootstrap/Ajax/js/JQuery
+Angular | WebSockets ASP.Net
+SpringBoot | nodeJs_ = python:django
+
+e outils de developpement - IDE
+NetBeans Eclipse | PHPStorm § STS
+Android Studio
+
+e Base de données - DB
+PostgreSQL MySQL SQLite Oracle
+
+Mongodb
+
+e Outils DevOps :
+Test Unitaire/JUINT/LOG4J | SONAR
+
+NEXUS JENKINS | DOCKER
+
+e Développement mobile
+Android:sDK = CodeNameOne | Flutter

@@ -1,0 +1,95 @@
+COORDONEES
+
+@ 4216.) 96 98 40 50
+
+®&_  djemaa.takwa@gmail.com
+® linkedin.com/in/jemaa-takwa
+
+© Lotissement Ayachi Sidi
+Abdelhamid Sousse, Tunisie
+
+COMPETENCE TECHNIQUE
+
+e Programmation : php ,c/c++ , c#
+
+javascript , Html/css , Bootstrap
+e Framework : Laravel ,Angular,
+React ,Springboot
+e Base de Données :MysQl
+,Firebase, MongoDB
+e Systémes d'exploitation :
+Linux(Ubuntu) ,Windows
+Outils& Editeur :Git,VsCode
+,AndroidStudio,Netbeans, Eclipse
+
+LANQUES
+
+Francais :DelfB2
+Anglais:Moyen
+Allemand : Débutante
+
+CENTRE D'INTERET
+
+e La musique
+e La cuisine
+
+JEMAA TAKWA
+
+Actuellement étudiante en 5éme année
+ingénieur en génie informatique a la
+recherche d'un stage de fin d'étude
+
+FORMATION ACADEMIQUE
+
+2019-2022 Cycle D'ingénieur en génie informatique
+
+Ecole Privée Polytechnique de Sousse
+2013-2016 Dipléme National de Licence Fondamentale
+
+en Sciences de I'Informatique
+
+Faculté des Sciences Monastir
+Juin 2013 Dipléme National de Baccalauréat en
+Mathématique
+
+Lycée Secondaire du Teboulba
+
+EXPERIENCE PROFESIONELLE
+
+Juillet202 1-Aout202 1 SLI
+Développement d'une application web en Angular /
+springboot qui gére le Stock ,les fiches techniques des
+Produits et les Commandes pour une société de
+Fabrication de Meuble.
+
+Octobre2016-Octobre2018 KANIL
+Assistante-commercial :
+La gestion des commandes Clients , Prises de rendez-vous
+Reporting régulier , Elaboration contrat client
+Suivi de la facturation, Participation aux rendez-vous clients
+
+Mars2016-Juin2016 UTSI Monastir
+
+Stage de Fin d'études :Application Desktop développée
+en c#.Net(WPF,WCF) qui gére les interventions
+informatiques faites dans une société de maintenance
+des produit informatiques
+
+PROJET ACADEMIQUE
+
+e Site E-commerce avecPHP/MYSQL
+
+e NextGenEntrepreneurs -Projet Socioculturel
+
+e systéme de gestion d'une bibliothéque avec JAVA
+
+e Dashboard pour la gestion d'entreprise avec LARAVEL /
+MYSQL
+
+e Gestion commerciale d'une entreprise avec JAVA / MYSQL
+
+e Application des Restaurents avec Android / Firebase
+
+e Site E-commerce avec React node-j
+
+e Application des cours en ligne avec spring-boot/thymeleaf

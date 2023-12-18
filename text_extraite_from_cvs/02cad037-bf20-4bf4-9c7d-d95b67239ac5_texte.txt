@@ -1,0 +1,109 @@
+Dababi Oussama
+
+Passionné du Digital, j'ai €t€ amené au cours de mon cursus universitaire a développer une grande
+technicité, une Force de proposition et un esprit analytique pointu. Dynamique et polyvalent, je maitrise
+les langages de programmation les plus courants ainsi qu'une excellente connaissance des différents
+
+systémes d'informations et bases de données.
+
+WM ~oussema.dabebi675@gmail.com
+
+in linkedin.com/in/dababi-oussama
+
+FORMATION
+
+Dipl6me Ingénieur Informatique(en cours)
+L’Ecole supérieure privée d’ingénierie et de
+technologie de Tunisie
+
+2018 - Present Tunis, Arianna
+
+Dipl6me Licence appliquée en
+électromécanique navale
+
+L'Institut supérieur des études technologiques
+de Kélibia
+
+2015-2018
+
+Dipl6me Baccalauréat en Siences Technique
+Lycée Grombalia
+2014-2015
+
+EXPERIENCE ET PROJETS
+ACADEMIQUES
+
+Centre Informatique du Ministére de la Santé — CIMS
+(07/2020 - 10/2020)
+® Poste Occupé: Stagiaire.
+® Développement d’une application web consiste a Faire la gestion
+des congés, missions, grades et affectations des employés (mailing,
+appel de jour, PDF). (Spring Boot, Angular9, Rest
+API,Postman,GitHub,Postgre SQL,Sonar, Jenkins).
+
+Projet DevOps(ESPRIT) (10/2020 - 12/2020)
+
+Mise en place d'une chaine d'intégration continue : qui permet de,
+cloner le code du git, le compiler, Faire les tests unitaire et
+Fonctionnel, vérifier la qualité de code, Faire le déploiement dans un
+dépot local, automatiser les taches, envoyer un rapport vers le mail
+du développeur chaque minuit.
+
+® (Maven, Github, Junit, Log4j , Jenkins ,Sonar, Nexus )
+
+Consomi-Tounsi(ESPRIT) (01/2020 - 05/2020)
+
+® Development of a management platform For Tunisian products. The
+goal is to manage a shop which exclusively sells Tunisian products.
+(Spring Boot, JSF (JavaServer Faces), Rest API, Postman, GitHub,
+MySQL)
+
+Carthage Information Technology (07/2019 - 09/2019)
+
+® Poste Occupé: Stagiaire.
+
+© Développement d'un module de gestion d'utilisateur et d'une
+Chatroom instantanée (JavaFX,MySQL,GitHub).
+
+® Administration, supervision et assistance informatique d'une
+équipe de 10 collaborateurs.
+
+Fix-it(ESPRIT) (09/2019 - 01/2020)
+
+® Développement d’une application Desktop Mobile et un site web
+FIXIT de mise en relation entre les clients et les chercheurs de
+travails dans différents domaines afin de commander un service a
+domicile .JavaFX,Symfony 3.4,Codename
+One,MySQL,GitHub,Agile(Scrum)).
+
+(] +216 23755144
+
+© github.com/Oussamadababi
+
+COMPETENCES
+
+VIE ASSOCIATIVE
+
+IEEE ESPRIT Student Branch (01/2018 - 02/2020)
+
+Membre intronisé
+
+CERTIFICATIONS
+
+Java Programming: Solving Problems with Software
+(09/2019 - 09/2019)
+
+Coursera
+
+Front-End JavaScript Frameworks: Angular (07/2020 -
+08/2020) (07/2020 - 08/2020)
+
+LANGUES
+
+Francais @@ee@ee@eoO
+Anglais @®@e@ee@eo
+Arabic C mm oo oe i)
+
+INTERETS
+
+Data science Entrepreneuriat Musique

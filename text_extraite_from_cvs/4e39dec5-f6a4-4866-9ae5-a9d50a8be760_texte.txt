@@ -1,0 +1,54 @@
+BEN JANNET YOUSSEF
+
+Rue Nil Cité Riadh
+Kélibia 8090 Nabeul
+Tél +216 54 243 427
+youssefbj2@gmail.com
+
+DOMAINES DE COMPETENCES
+
+Langages de Programmation : Azure Kusto Query Language, Symfony3.4, Spring Boot, Java
+(RMI,SWING/AWT), C, PHP, XML.
+
+Virtualisation : Citrix Xenserver, KVM, Docker, VMware workstation, Virtual Box.
+Systeme d’exploitation : -Linux : Fedora, Ubuntu, Debian, CentOS.
+
+-Windows : XP, Seven, 10 , Server 2016.
+Administration systéme : SSH, script shell et outils associés...
+
+Apache, Samba,Postfix, NFS, Squirellmail, FTP,PXE server Raid,
+LVM, PFsense, , OpenStack.
+
+Cloud Computing : Azure Monitor, Azure Log Analytics Workspace, Azure KQL.
+Automatisation : Puppet, Jenkins , Ansible
+
+Orchestration : Kubernetes.
+
+Load Balancing : HA Proxy, Nginx.
+
+Monitoring : Nagios.
+
+IDE : Eclipse, NETBEANS.
+
+SGBD: MySQL, Oracle 8i/9i/10g.
+
+Bureautiques : Open-Office.org, Microsoft Office.
+
+Conception : UML.
+
+Web: HTML, CSS.
+
+EXPERIENCES PROFESSIONELLES :
+
+Du 12/07/2021
+A_ 10/09/2021
+
+Stage de projet d’ingénieur
+Chez VERMEG Tunisie
+
+Sujet : Elaboration d'une solution de monitoring/dashbording des VMs azure
+via AZURE Log Analytics workspaces.
+
+Travail Réalisé :
+> Etude de |l’existant, collecte de besoin de l’effectif de la société.
+> Etude des concepts du Cloud Azure.

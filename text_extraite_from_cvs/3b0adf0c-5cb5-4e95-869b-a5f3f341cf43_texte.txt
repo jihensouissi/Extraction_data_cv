@@ -1,0 +1,100 @@
+e Coordonneées:
+& 27484530
+
+bX)
+
+in
+v
+
+hakimaayed20@gmail.com
+
+https://www linkedin.com/in
+/hakima-ayed-7aa398214
+
+Monastir,5000
+
+e Competences:
+
+Linux
+Programmation c/c++
+java orienté objet
+Java script
+HTML/CSS
+Programmation c
+embarqué/ vhdl
+isis/Ares
+
+Cisco packet tracer
+Matlab
+
+LabVIEW
+
+Docker
+
+e Langues:
+e Arabe: eoecee
+
+e Francais: eeee
+
+e Anglais:
+
+e Point d'interet :
+e Sports
+* voyage
+e Camping
+
+e PROFIL PROFESSIONNEL
+
+Je suis une étudiante en 3 éme année
+Technologie de L'Information et
+Communications spécialement en Réseaux
+et Internet des Objets a la recherche d'un
+stage de fin d’étude ,je suis capable de
+travailler en conditions de stress et de tenir
+des délais serrés en donnant de mon mieux.
+
+e FORMATION
+
+¢ 2019/Présent : Licence en Technologie de
+l'Information et de Communications
+spécialisée en Réseau et Internet des Objets
+
+e 2018/2019 :Baccalauréat en mathématiques
+
+e EXPERIENCE
+
+¢ Stage Ouvrier (01/08/2020 ---> 30/08/2020) :
+Bureau de comptabilité chez la poste
+Tunisienne Gafsa
+
+¢ Stage Technicien (01/08/2021--->30/08/2021):
+Unité de gestion des réseaux chez Tunisie
+Télécom Gafsa
+
+e ACTIVITES ET PROJETS
+
+e Formation Arduino IDE
+
+e Formation rasberry pi (2 sessions) :
+vscode/vnc viewer/Balenaetcher/Putty
+
+e Formation html/CSS : Sublime
+
+e Formation carte capteur: Isis/Ares
+
+e Projet :Irrigation automatique:
+Arduino,capteur humidité du
+sol,pompe a eau,LCD
+
+e Suiveur de ligne: Arduino, Shield,
+TCRT, moteur
+
+e Smart home:Arduino,LM35,MQ5, LDR,
+
+e Eviteur d'obstacle: Arduino,
+ultrasons,servo-moteur
+
+e Bracelet intelligent:GPS,STM32,
+application mobile.
+
+e Membre actif en club robotique isimm

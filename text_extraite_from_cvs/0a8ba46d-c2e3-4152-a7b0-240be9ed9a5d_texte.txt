@@ -1,0 +1,174 @@
+INSAF MNAKBI
+
+Eléve ingénieur en Data Science a la recherche d’un PFE
+
+@ insaf.mnakbi@esprit.tn \ +216 95 930 338
+in linkedin.com/in/insaf-mnakbi
+
+EXPERIENCE PROFESSIONNELLE
+
+Stage Ingénieur Détection de l’Autisme
+ESPRIT TECH 64) Juil 2021 - Aott 2021
+
+e Un projet dédié aux médecins pour résoudre le probléme de détection des
+TSA (Troubles du Spectre de |’'Autisme) en utilisant les algorithmes de ML.
+
+9 Tunisie, Tunis
+
+e Fusionner les informations issues des Images médicales IRM fonctionnelles
+et IRM structurelles.
+
+Nilearn | NiBabel Tensorflow  Keras
+
+IRM
+
+Deep learning python
+
+Base ABIDE
+
+PROJET ACADEMIQUE
+
+Projet IA et cognition A Knowledge based Recommenda-
+tion System for PRM: Ontology learning approach
+
+ESPRIT G8 Sep 2021 - Présent
+Le projet consiste a traiter le probleme de |’Ontology Learning qui pourrait
+étre appliqué a l’analyse de texte comme un moyen de construire une on-
+
+tologie de gestion de risque qui sera intégrée dans un systéme de recom-
+mandation.
+
+Autisme
+
+9 Tunisie, Tunis
+
+Prédire une recommandation personnalisée en temps réel par rapport au
+profil de l'utilisateur basé sur le corpus non structuré PMBOK 5th+PMI’s
+standard for PRM.
+
+NLP NLTK
+RDF |» SWRL
+
+Spacy OWL2
+
+Wordnet
+
+Data mining
+
+Verbnet
+
+text mining
+
+Machine Learning
+
+Projet Data Science Analyse sentimentale et Modélisation
+ESPRIT 4 Fev 2021 - Juin 2021
+
+e Lapplication est basée sur |’étude de satisfaction des clients pour les dif-
+férents services des opérateurs téléphoniques
+
+NLP = CRISP Python
+
+9 Tunisie, Tunis
+
+Al Web scraping Power BI SQL Server
+
+MongoDB | Machine Learning
+
+Projet Machine Learning Modélisation et Classification des
+données
+ESPRIT 4 Oct 2020 - Dec 2020
+
+e Lobjectif du projet c'est de détecter les clients qui vont quitter |’opérateur
+téléphonique (churn customers) suivant la méthode CRISP.
+
+CRISP = Python
+
+9 Tunisie, Tunis
+
+Machine Learning seaborn _ skitlearn
+
+EDUCATION
+
+Ingénieur Informatique spécialisé dans la Data Science
+
+Ecole Supérieure Privée d’Ingénierie et de Technologies ESPRIT
+@4 Sept 2019 - Présent 9 Tunisie, Tunis
+
+numpy
+
+Cycle préparatoire: Math-physique
+Institut Préparatoire aux Etudes d’Ingénieurs de Tunis IPEIT
+fi Sept 2017 - Aug 2019 9 Tunisie, Tunis
+
+9 Tunisie, Tunis
+
+CERTIFICATIONS
+
+7 Machine Learning A-Z™: Hands-On
+_ Python/R In Data Science
+Udemy
+
+Artificial Intelligence A-Z™: Learn
+How To Build An Al
+Udemy
+
+Deep Learning and NLP A-Z™: How
+to create a ChatBot
+Udemy
+
+NVIDIA DLI Certificate - Fundamen-
+tals of Deep Learning
+NVIDIA Deep Learning Institute
+
+—s
+—
+—s
+
+COMPETENCES
+
+Machine Learning
+e Apprentissage supervisé et non supervisé:
+Régression Classification, Segmentation.
+
+e Evaluation des performances prédictives et
+comparaison des modeéles.
+
+Deep learning
+
+e Artificial Neural Networks, Convolutional
+Neural Networks,Recurrent Neural Net-
+works,Generative Adversarial Networks
+(GANs), Transfer Learning,Autoencoders,
+Keras,TensorFlow.
+
+Natural Language Processing
+
+e Stemming, Lemmatization, Stop words, Tok-
+enization, Patterns matching,Part-of-Speech
+tagging,named entity recognition,Sentiment
+analysis, Text Classification,Spacy,NLTK, .
+
+Big Data
+
+e Spark, Hadoop, HDFS, MongoDb, Elastic-
+search.
+
+Base de données
+
+e Relationnelles: SQL,PL/SQL.
+
+e Non Relationnelles: NoSQL (MongoDB, Cas-
+sandra)
+
+Probabilités, Statistiques et Séries tem-
+
+porelles
+
+LANGUES
+
+English B2
+Francais B2
+Arabe Langue maternelle
+Allemand A2
+Jeux Vidéo Randonnées Musique

@@ -1,0 +1,127 @@
+RAHMA MANSOURI
+
+Etudiante en troisiéme année
+
+@ rahma.mansouri@etudiant-fst.utm.tn oJ +216 26357946
+ff in/rahma-mansouri2000/ © rahmamansouri
+
+PROFIL
+
+Une étudiante en troisieme année en technnologies de |’information
+et de la communication a la recherche d’un stage de projet de fin
+d'études pour valoriser mes compétences.
+
+DIPLOMES ET FORMATIONS
+
+Licence en Technologies de |'Information et de la Com-
+munication
+
+Faculté des Sciences Mathématiques Physiques et Naturelles de
+Tunis
+
+g Oct 2019 - Présent
+
+@ Tunis, Tunisie
+
+e Spécialité: Traitement du signal et Multimédia
+
+Baccalauréat
+Lycée Assad Ibn El Fourat
+@ Sep 2018 - Jun 2019
+
+e Spécialité: Mathématiques
+
+PROJETS
+
+Réalisation d’un systéme de contréle de température et d’humidité
+a travers une plateforme loT
+
+g Nov 2021
+e Mots clés: Arduino, C/C++, Carte ESP8266, Capteur DHT22, Thinger
+
+@ Manouba, Tunisie
+
+Développement d’une application web de Chat
+® Sep 2021
+e Mots clés: React JS, Firebase, Chat Engine
+
+Développement et conception d’un site web e-commerce respon-
+sive
+
+mm Jul 2021
+
+e Mots clés: HTML5, CSS3, Bootstrap4
+
+Logiciel d’analyse et traitement de la parole
+@ Jul 2021
+e Mots clés: MATLAB, Praat
+
+Application de compteur de mots
+gs Mar 2021
+
+e Mots clés: Java, Java swing, Netbeans
+
+@ Manouba, Tunisie 2021
+
+COMPETENCES
+
+C/C++ Java Python
+MATLAB. Assembleur
+
+HTML/CSS Bootstrap | React JS
+
+Firebase MySQL UML
+
+Git/Github
+Linux/Ubuntu
+
+Agile/Scrum
+Windows
+Machine Learning lol CCNA1
+Arduino Arduino UNO || STM32
+
+Curieuse Autonome _ Travail en équipe
+
+Organisée
+
+LANGUES
+
+Anglais @
+Francais &
+8
+
+Allemand
+
+CERTIFICATIONS
+
+Programming Foundations of Web
+Security Certification
+
+Linkedin Learning
+
+@ Mar 2021
+
+- Les éléments clés pour sécuriser les sites
+Web.
+
+Initiating and Planning Projects Certi-
+fication
+
+Coursera
+
+gm Mar 2021
+
+- Les éléments clés d’un plan de projet.
+
+ORGANISATION
+
+IEEE Computer Society Branch
+gs Oct 2020-Présent @ FST
+
+CENTRES D’INTERET
+
+Lecture Violin
+
+Randonnée
+
+ESP8266

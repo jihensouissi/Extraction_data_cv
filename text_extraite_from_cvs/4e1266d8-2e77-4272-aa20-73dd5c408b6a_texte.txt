@@ -1,0 +1,142 @@
+‘ é ‘ khlifseifeddinne@gmail.com IM
+Seif Eddin Khlif
+
+; +216 21686807 [J
+Eléve ingénieur en Génie logiciel
+
+Ben Arous, Ezzahra
+
+EDUCATION
+
+Cycle d'ingénieur en Génie logiciel
+Université SESAME
+09/2019 - Present
+
+4éme année
+|- Cours aménagés GL ]
+
+Mastére professionnel en Ingénierie des
+systémes d'information et des
+connaissances
+
+Faculté des sciences économiques et de
+gestion de Nabeul
+
+09/2018 - 06/2019
+
+1ére année
+|- Business Intelligence ]
+
+Licence fondamentale en Informatique de
+gestion
+
+Faculté des sciences économiques et de
+gestion de Nabeul
+
+09/2015 - 06/2018
+
+Ariana, Tunisie
+
+EXPERIENCES PROFESSIONNELLES
+
+Développement web
+Freelance
+
+09/2021 - 11/2021
+Réalisations/Taches
+- Conception et développement
+
+Ezzahra, Ben Arous, Tunisie
+
+- Gestion des Clients/Personnels (Spring Boot + Angular)
+
+Développement web
+Freelance
+
+10/2020 - 12/2020
+Réalisations/Taches
+- Conception et développement
+
+Ezzahra, Ben Arous, Tunisie
+
+- Chat-Discussion en ligne (ExpressJs + ReactJs)
+
+Développeur Informatique
+IDM Systems
+09/2019 - 09/2020
+
+Réalisations/Taches
+— Microsoft Dynamics Navision/AX
+
+Ariana, Tunisie
+
+- Migration: De Navision 2013 Vers Business Central
+- Report Design et Integration
+
+Agent Backoffice
+Transcom World Wide
+
+08/2018 - 10/2018
+Agence de voyage: Lastminute / Volagratis
+
+Ariana, Tunisie
+
+linkedin.com/in/saif-eddin-khlif
+
+n
+
+github.com/KhlifSeifEddinne €)
+
+COMPETENCES
+
+PROJETS PERSONNELS ET
+ACADEMIQUES
+
+E-Commerce (06/2021 - 08/2021)
+
+- Bibliothéque en ligne (Catégorisation des livres/CRUD des
+livres/Rating/Security
+
+- Spring Boot & Angular
+
+Gestion des produits (04/2021 - 05/2021)
+— CRUD des produits/Gestion des utilisateurs/Images
+- C#
+
+Gestion des articles (01/2021 - 03/2021)
+— CRUD, Recherche des articles & Authentification des utilisateurs
+- Laravel & ReactJs
+
+Gestion de pharmacie (02/2017 - 04/2017)
+
+— CRUD, Recherche des médicaments & Authentification des
+personnels
+
+- Projet en Java, Projet en VB.Net
+
+CERTIFICATS ET STAGES
+
+Stagiaire PRO au sein de l'ONP (01/2018 - 06/2018)
+Gestion de stock, Authentification des personnels /Admins de l'Office
+National des Postes (JavaEE + JSP)
+
+Stagiaire d'été a Sysatoo Hammamet
+(07/2017 - 08/2017)
+
+Gestion des inscriptions au site web de Sysatoo (Symfony)
+
+Informatique Générale / Algorithmiques
+(09/2013 - 05/2014)
+
+Deux dipl6mes de l'association du club d'informatique du garde
+national (4 mois d'études pour chaque certificat)
+
+LANGUES
+
+Arabe @©e@ee0e
+Francais @®@ee@ee@eod
+Anglais @®@ee@ee@eod
+
+CENTRES D'INTERET
+
+Musique Photographie Sport Camping

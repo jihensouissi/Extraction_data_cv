@@ -1,0 +1,76 @@
+BOUAKLINE Sirine
+
+Mail: sirine.bouakline1996@gmail.com Arianna, Tunis
+
+Tél : +216 20 336 273 Tunisie
+Permis B
+Eleve Ingénieur en génie logiciel a la recherche d’un stage de fin d’études iy “4
+Diplomes et Formations
+LH Ani i H Sep 2018
+Cycled ingenieur en informatique ; espr -_o
+Esprit : Ecole Supérieure Privée d'Ingénierie et des Technologies - Péle Technologique El ghazala — Ariana = (3 ans)
+Formation en Génie Logiciel
+Licence Appliquée en Sciences et Technologies de I'information et de la Communication a SST pi ole
+Institut Supérieur des Sciences Appliquées et de Technologie de Mateur — Mateur - Bizerte. As iNctinise (3 ans)
+Formation en Réseaux et Télécommunications
+Certifications:
+-Design Patterns -Creative Thinking: Techniques and Tools for Success Time
+-Speak English Professionally -Management for Personal & Professional Productivity coursera
+-HTML, CSS, and JavaScript for Web Developers = -Finding Purpose and Meaning In Life
+Expériences Professionnelles
+Stagiaire été
+E-robot Software — Tunis e-robot ull 2020
+» Développement d’une application web permettant aux utilisateurs (super admin, admin et client) la gestion des worse Aout 2020
+abonnements, I’inscription et le suivi des abonnements (ASP,Net(MVC & WebForms), SQL Server). (2 mois)
+Stagiaire PFE ;
+= . . . Févr 2018
+Denim Authority — Ras Djebel - Bizerte By denim sin 2018
+» Conception et développement d’un PLM (Product Life Cycle Management) pour le suivi et la gestion des ordres de — (4 mois)
+fabrication d'un produit en temps réel et l'envoi d'emails de retards, (DS-Agileo Divalto).
+Stagiaire Ouvriére fai 2889
+TIB (Tunis International Bank) — Avenue des Etats Unis d’Amériques - Tunis Aout 2017
+» Exploration du réseau de TIB. (1 mois)
+
+» Configuration d'une architecture du réseau, (Cisco Packet Tracer).
+
+Stagiaire Ouvriére
+
+a . . Aout 2016
+
+Tunisie Telecom— Ras Djebel — Bizerte Sept 2016
+
+» Exploration des prestations fournies par l'agence comme les services complémentaires de GSM, de la ligne fixe et les (1 mois)
+opérations d'encaissement.
+
+PROJETS
+DevOps_Consulting
+Collaboration et configuration de six sites connectés. Chaque site contient DMZ, LAN, WAN, Pfsense, VPN, DHCP et IDS
+pour peuvent étre connectés. Chaque site a ses propres services que les autres sites peuvent les consommer, (Ubunto,
+CentOs, Kali, Pfsense, Bacula et Elastix).
+Advyteam Project
+Conception et développement d'une application Web permettant aux ressources humaines d'Advyteam l'affectation des
+taches aux employées et les suivre. Elle permet au manager la gestion des compétences, |’évaluation et l'organisation des
+formations pour les employées, (JavaEE, ASP.NET).
+Fixit
+Conception et développement d'une application (Web, Desktop et Mobile) permettant aux utilisateurs (Client
+/Entreprise) de trouver et choisir les prestataires (réparateurs) dont ‘ils ont besoin pour réparer une panne, (Symfony3.4,
+JavaFX, CodenameOne).
+
+COMPETENCES
+Langues:
+Arabe Langue natale Systéme d’exploitation:
+Anglais B2 Windows, Linux, Ubuntu, CentOs.
+Frangais B2 Base de données: SQL, PL/SQL, SQL Server, MySQL.
+Langages de programmation: Gestionnaire de version: GIT.
+
+Pascal, C, C#, PHP, Java, HTMLS, CSS, JavaScript, TypeScript, Node.js. Outils logiciel : Star UML, Trello , Matlab et Packet tracer.
+Frameworks: JavaServer Faces, JEE, Angular9, Spring , Asp.Net, Méthodologie : Scrum.
+Symfony3.4 et Codename One. . Design: Photoshop, Filmora.
+
+CENTRE D’INTERET ET ACTIVITES
+
+Associations: | Ancien Membre — Club CyberSec Esprit.
+Ancien Manager — Club Esprit Sport Equipe Féminine Esprit.
+Ancien Membre — Club Environnement Lycée Oussema Chakroun.
+
+Loisirs: Lecture, sport.

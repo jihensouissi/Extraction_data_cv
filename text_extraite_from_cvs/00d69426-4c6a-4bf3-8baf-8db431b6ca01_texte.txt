@@ -1,0 +1,111 @@
+meherziaferjani@gmail.com
+
+Tunis
+1270 Kasserine
+
+@)
+e&
+@
+J 21846131
+@
+
+‘in| linkedin.com/in/ferjani-meherzia-
+8bb0aala3
+
+Compétences
+
+ReactJs, Angular , Bootstrap ,Html ,CSS
+Spring Boot , Spring ,NodeJs
+
+Langages (Javascript, Python, Java)
+Symfony
+
+MongoDB, MySQL
+
+Docker
+
+Git
+
+Langues
+
+Arabe ©ee00
+Frangais eee
+Anglais eee
+
+Ferjani Mehrzia
+
+Ingénieur En Génie Logiciel
+
+Profil
+
+Motivée et Enthousiaste,
+
+Développeur en génie logiciel avec de solides compétences théoriques et pratiques,
+
+je suis ala recherche d'un stage de fin d'étude d'une période de 4 a 6 mois dans le domaine du
+développement web et mobile.
+
+Parcours professionnel
+
+Stage d'été -Ingénieur
+TINSET, Kasserine
+Conception et réalisation d'un service des prestations de santé a domicile (réunit toutes les
+compétences pour mettre en place des solutions adaptées aux attentes des professionnels de
+santé et des patients)
+
+Technologies: NodeJs ,ReactJs ,MongoDB
+
+juil. 2021 - sept. 2021
+
+Stage de fin d'étude -Licence
+BIAT, Tunis
+
+Conception et Développement d'une application desktop de gestion des spécimens de signature
+Technologies: C#, MySQL ,Bunifu
+
+jJanv. 2019 - juin 2019
+
+Stagiaire
+
+Laser Informatique et Solution, Tunis
+Développement d'une application web et suivi des gestions des employées en utilisant (Swing)
+Technologies: Java ,Html, Css, Bootstrap,MySQL
+
+janv. 2018 - mars 2018
+
+Formation
+
+Dipl6me national d'ingénieur : Génie logiciel et
+systéme d'informations
+TEK-UP, Tunis
+
+sept. 2019 - présent
+
+Licence: Science de L'informatique
+ISET, SFAX
+
+sept. 2016 - juin 2019
+
+Baccalauréat En Science Informatique
+Lycée Monji Slim, Kasserine-sbiba
+
+sept. 2015 - juin 2016
+
+Réalisation
+
+e Conception et Développement d'une application web de gestion des taches des employés.
+Technologies: SpringBoot, Spring Security, JS, Html, CSS, MySQL
+
+e Conception et développement d'une application web pour les réservations hételiers
+Technologies: Symfony, Html, CSS, Bootstrap, MySQL
+
+e Conception et développement d'une approche pour le e-recrutement
+Technologies: NodeJs, ReactJs, ReduxJs, MongoDB
+
+e Conception et développement d'une plateforme pour le guide touristique en ligne
+Technologies: .NET, Html, CSS, Bootstrap, MySQL
+
+Certificats
+
+MTA: Microsoft Technology Associate
+Introduction to Programming using Python

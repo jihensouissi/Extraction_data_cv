@@ -1,0 +1,129 @@
+Rihab
+BENMANSOUR
+
+Eléve ingénieure en informatique a la
+recherche d'un stage de Fin d'études
+
+FORMATION
+
+INGENIERIE INFORMATIQUE (GENIE LOGICIEL)
+Ecole Supérieure Privée d'Ingénierie et de Technologies ESPRIT
+09/2018 - Present Tunis ,Tunisie
+
+LICENCE TELECOMMUNICATION
+
+la Faculté des sciences de Bizerte
+2015-2018 Bizerte, Tunisie
+
+BACCALAUREAT mathématiques
+
+lycée Bizerte
+2014-2015 Bizerte ,Tunisie
+
+PROJETS ACADEMIQUES
+
+Projet DevOps Cl (2020)
+
+— intégration continue d'un projet Spring Boot existant :
+— mesure de qualité du code avec Sonar
+
+= tests unitaires (JUnit)
+
+— script Jenkins
+
+- déploiement des artefacts dans Nexus...
+
+Projet Spring boot ConsomiTounsi: (2020)
+
+= conception et développement du module gestion d'utilisateur d'une application web de vente en
+ligne des produits 100% tunisiens .(cryptage de mot de passe ,control d'accés ...)
+
+- Technologies: Spring Boot ,Maven ,Log4J,JUnit,Spring Security ,REST APi, JSF
+— Environnement: Spring Tool Suite(STS) , StarUML,Postman,GIT
+
+Projet Fixit : (2019)
+
+= conception et développement d'une application intégrée Desktop web et mobile de demande de
+service (déménagement , plomberie, babysitting ....) .
+
+= Technologies :Java,JavaFx , PHP ,twig, Symfony, codenameone
+
+— Environnement:NetBeans,PHPStorm,StarUML,GIT
+
+Projet C MyGym : (2018)
+
+— développement d'une application desktop de gestion de salle de sport connectée (Staff ,Medecin ,
+dieteticien ,Fiche de soin ...)
+
+= Technologies: C , GTK
+— Environnement : Ubuntu
+
+STAGES
+
+Stage d'été
+Win Technologies
+
+06/2019 - 07/2019 Montplaisir ,Tunisie
+
+Achievements/Tasks
+ls Conception et développement d'une application mobile en C# (Xamarin) |
+Stage PFE
+
+société ELFOULEDH
+02/2018 - 06/2018
+[. Achievements/Tasks ]
+
+migration du programme de la machine a inversion
+
+Bizerte ,Tunisie
+
+Stage d'été
+siége Tunisie Telecom
+
+07/2017 - 07/2017 Bizerte,Tunisie
+
+Achievements/Tasks
+E s'introduire a l'environnement des réseaux Filaire et cellulaire |
+
+rihab.benmansour@esprit.tn
+
+XY
+
++216 24943546 []
+Bizerte, Tunisie Q
+linkedin.com/in/rihab-benmansour jj,
+
+github.com/rihabbm7 €)
+
+SKILLS
+
+CERTIFICATES
+
+-Digital product managment (09/2020)
+Vérifiez a coursera.org/verify/LRLU94S74WC5
+
+-Managing Big Data with MySQL (08/2020)
+Vérifiez a coursera.org/verify/GGS4B4LM4BJS
+
+-Front-End Javascript Framework: Angular
+(11/2020)
+Vérifiez a coursera.org/verif y/WUVALK52TD3L
+
+LANGUAGES
+
+Arabe
+
+@@eeee
+
+Francais
+
+@®@e@ee@eo
+
+Anglais
+
+@®@e@ee@o
+INTERETS
+
+Gaming Music animaux
+
+handicrafts

@@ -1,0 +1,108 @@
+Tunis ,Tunisia
+
+27058556
+
+PROFILE
+
+Junior data Scientist with excellent analytical and problem-
+solving skills. Ambitious, driven, meticulous, always keen to
+learn and currently searching for a graduate internship in
+the data science field.
+
+EDUCATION
+
+Masters degree in Data Science and Software
+Development
+
+Higher school of digital economy, Manouba
+2020 - present
+
+Bachelor of IT applied to management
+
+Higher school of digital economy, Manouba
+2017 - 2020
+
+CERTIFICATIONS
+
+Applied machine learning in python
+
+University of Michigan, Coursera
+
+Applied Text Mining in Python
+
+University of Michigan, Coursera
+
+SKILLS
+
+Programming Languages Python R JavA PHP JS
+
+Al Frameworks and libraries Numpy, Pandas, Seaborn,
+
+Matplotlib, scikit-learn, keras, scipy, Tensorflow,
+Data Visualization Data Mining Data Scraping
+
+Machine learning Linear regression Logistic regression
+Random forests Decision tree K-means KNN
+
+Big data Hadoop (HDFS-MapReduce) Spark
+Databases SQL, MySQL, PLSQI NoSQL MongoDB
+
+sfaihi.yassin@gmail.com
+
+YASSINE SFAIHI
+
+Junior Data Scientist
+
+github.com/YassinSfaihi
+
+linkedin.com/in/yassinesfaihi
+
+kaggle.com/yassinesfaihi
+
+EXPERIENCE AND PROJECTS
+
+Machine Learning NLP Project
+
+Resumes classification using natural language processing (NLP)
+
+Used technologies : Python, Pandas, numpy, Sklearn, cosine similarity
+Classification.
+
+Data Mining & Machine Learning Projects
+
+Houses price prediction using machine learning models
+(linear regression, decision tree, SVR)
+Data cleaning visualization and analysis
+
+Used technologies : Python, Pandas,Numpy, Matplotlib, Scikit-
+Learn, , Seaborn
+
+Design a classification model for heart diabete detection.
+
+Used technologies : Python, Pandas, Sklearn, Seaborn
+
+Talend Project
+
+Implementation of a decision-making system: Orion
+Corporation
+Used technologies: Talend , Oracle
+
+Full stack web developer | End of studies project
+
+T-CODY startup | January-June, 2020
+
+Web platform "FOOTBALL ARENA" for football complexes
+owners providing many functionalities to facilitate their
+management
+
+Used technologies: laravel 7 php javascript bootsrap jquery mysql
+git
+
+LANGUAGES MAIN INTERESTS
+
+Arabic: native
+English : advanced
+French : advanced
+
+New technologies
+Manga and Anime

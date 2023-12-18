@@ -1,0 +1,122 @@
+CONTACT
+
+Address: cité el Agba 5000 Monastir _
+
+Tunisie
+
+Phone: (+216) 55 591 372
+
+Email: ahlemfrih97egmail.com
+linkedIn:https://www.linkedin.com/in/ahl
+em-trih-a8b97919a/
+
+COMPETENCES
+
+- Programmation: C, Java.
+
+- Développement Web et mobile : HTML,
+
+Javascript, PHP, JEE, BOOTSTRAP, Spring Boot, Android
+
+- Base de donnée et stockage : MySQL.
+
+- Systéme d'exploitation : Windows , Linux (Ubuntu).
+
+- Virtualisation et cloud : Vmware, VirtualBox
+
+-Environnement de développement : Eclipse, Matlab,
+
+visualStudio, Sublime text 3 .
+
+- Méthodologie et outil de conception: UML .
+
+-Machine Learning : Anaconda, python .
+
+LANGUES
+
+- Arabe: langue maternelle
+- Frangais : courant (lu, écrit, parlé)
+- Anglais : courant (lu, écrit , parlé)
+
+CERTIFICATS
+
+- Machine learning by Coursera
+- Python for data science by Coursera
+-Big Data -débutant by Orange Tunisie .
+
+VIE ASSICIATIVE
+
+ENACTUS ENETCOM
+
+-Membre et organisatrice de  |’événement
+international 'NASA SPACE APPS CHALLENGE’
+(2018/2019)
+
+-Secrétaire générale du club ENACTUS mandat
+2019/2020
+
+AHLEM FRIH
+
+ELEVE INGENIEUR EN GENIE DES
+TELECOMMUNICATIONS
+
+Eléve ingénieur en génie des télécommunications au sein
+de l'Ecole nationale d’électronique et des
+télécommunications de Sfax (ENET'com) , a la recherche
+d'un stage de fin d'étude de 4 a 6 mois a partir du mois
+de Février 2021.
+
+EXPERIENCE PROFESSIONNELLE
+
+STAGE TECHNICIEN CHEZ
+
+ENET'COM (09/2020 - 11/2020)
+
+- développement d'une application basée sur les algorithmes de
+classification de l'apprentissage automatique permettant la prédiction
+
+des anomalies.
+- mot clé : python, machine learning, SVM, KNN.....
+
+STAGE D'INITIATION CHEZ
+TUNISIE TELECOM CSC MONASTIR (07/2019 - 08/2019)
+
+- Reconnaitre les mécanismes du travail et du production
+- appliquer les sciences de l'ingénieur dans les situations étudiées durant
+
+Cesiage:
+
+FORMATION
+
+DIPLOME D'INGENIEUR
+
+Ecole nationale d’électronique et des télécommunications de SFAX -
+
+2018/2021
+
+Spécialité: Génie des télécommunications.
+
+CYCLE PREPARATOIRE EN MATHEMATIQUES ET PHISIQUE
+Faculté des sciences de Monastir (FSM) - 2016/2018
+
+BACCALAUREAT EN MATHEMATIQUES
+lycée Bourguiba Monastir - 2015/2016
+
+PROJETS PERSONNELS ET ACADEMIQUE
+
+Projet |OT: Systeme d'irrigation intelligent(12/2020)
+
+-développement d'un systéme intelligent et automatique a
+travers la mise en ceuvre d’une application d’loT pour I’économie de l'eau
+- mot clé : OT, IBM Watson, NodeMCU ESP8266, Capteur DTHI1......
+
+Projet Réseau Mobile (12/2020)
+
+-implémentation des algorithme de machine learning pour prédire la QoS
+des réseaux mobiles.
+
+- mot clé : python, machine learning, SVM, KNN.....
+
+Projet fin d'année (01/2020 - 05/2020)
+- Réalisation des tests de pénétrations sur le réseau cloud
+- mot clé : openstack , cloud , tests de pénétrations

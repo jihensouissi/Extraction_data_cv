@@ -1,0 +1,138 @@
+CHIHI
+FERIEL
+
+A PROPOS DE MOI
+
+Actuellement éleve
+
+ingénieur en troisieme année
+DataSciencea TEK UP, jesuis ala
+recherche d’un stage PFE d’une
+durée qui s’étale 4 a 6 mois jesuis
+intéressée par Python,Text minig,
+Django, SQL, PLSQL, Deep
+Learning et Elasticsearch.
+
+CONTACT
+
+Téléphone
++21627474 541
+
+Adresse
+Ariana
+
+Email
+
+Chihi.feriel96@gmail.com
+
+LinkedIn
+https://tn.linkedin.com/in/chihi-fe-
+riel-a88a15155
+
+LANGUES
+
+Arabe (Native)
+Francais (Bien)
+Anglais(Passable)
+
+CERTIFICATION
+
+Huawei HCIA|2020
+Obtention du certificat avec un score
+860
+
+EDUCATION
+
+2015
+Bac Science Technique
+
+Lycée Boussalem
+Obtention du diplime avecla Mention Passable.
+
+2018
+Licence appliquée en réseaux et télécommunications
+Université de Carthage
+
+Obtention du dipl6me avecla Mention Bien.
+2018-AUJOURD’HUI
+
+Dipl6me d’ingénieur en informatique
+TEK-UP
+
+Actuellement étudiante ,spécialité DATA SCIENCE.
+
+EXPERIENCES
+
+JUL, 2016 - JUL, 2016
+Tunisie Télécom
+
+Stage un (01)mois
+
+Résolution de probleme en casde panne sur le réseau internet.
+Des sorties sur terrain Télécommunications
+
+FEV, 2018 - MAI, 2018
+l'Union Internationale de la Banque
+
+Stage fin d’études quatre (04) mois
+La réalisation d’une :solution de supervision‘Eyes Of Networks’.
+
+JUL, 2019 - AOU, 2019
+U-accelerator
+
+Stage d’été deux (02)mois
+
+Conception et réalisation d’un projet de ‘Gestion de projet’ En utilisant
+Symfony BootstrapSQL.
+
+JUL, 2020 - SEP, 2020
+Xtendplex
+Stage d’été deux (02)mois
+
+Développement d’un algorithme intelligent de matching offre/emploiEn utilisant
+Text minig,Python, intelligenceartificielle.
+
+COMPETENCES
+Base de données Développement Analyse des données
+SQL Python IA
+PLSQL Django BI
+Datawarehouse Flask Deep learning
+Big Data i i
+te - HTML/CSS Machin Learning
+ongo Angular Elasticsearch
+
+noSQL PHP Textmining, NLP
+
+Bootstrap LSTM
+
+R
+
+Traitementd’image
+
+Projet de développement
+
+Gestion de Restaurant
+
+* Conception et développement d’une application qui permet de gestion de restaurant.
+e Technologies :Python ,UML ,SQL
+
+Site E-Commerce
+
+eConception et développement d’un site web qui permet d’ajouter des achatsa votre
+
+panier puis le paiement avecla cartebancaire
+e Technologies :Django, SQLite, UML, HTML, Scss,Bootstrap
+
+Systéme d’aide a la décision Covid/non Covid
+Conception et réalisation d’un systeme daide a la décision pour la détection de Covid-19
+Technologies :Python, Big Data, Deep Learning ( CNN, RNN, LSTM), Elasticsearch
+
+Site de vente de produit cosmétique
+«Conception d’un site web qui permet au clients d'acheterdes produits en ligne
+e Technologies :JEE ,Spring,STS.
+
+Solution décisionnelle de segmentation bancaire
+eConception et développement d’une application qui permet de gestion des
+comptes bancaires.
+
+e Technologies :BI ,MachineLearning, Python

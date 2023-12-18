@@ -1,0 +1,105 @@
+MARIEM TLILI
+
+DEVELOPPEUSE DE LOGICIEL
+
+PROFIL PERSONNEL
+
+Je suis une jeune diplémée en génie logiciel a
+l'Université EPS. J'ai une passion pour le
+développement web utilisant Spring boot Laravel
+et AngularJS. J'ai participé a de nombreux projets
+lors de mes stages en Tunisie ce qui m'aide a
+améliorer mes compétences. Cela me permet de
+m'adapter a n’importe quel environnement de
+travail.
+
+DOMAINES D'EXPERTISE
+
+Analyse du systeme
+
+Recherche utilisateur
+
+Optimisation de la conception orientée
+Modélisation de bases de données
+Test et débogage de logiciels
+
+COORDONNEES
+
+Adresse: khzéma guarbia Sousse 4051
+
+E-mail : tlilimaryem90@gmail.com
+
+téléphone :+216 50284603
+
+LinkedIn : inkedin.com/in/mariem-tlili-O17647175
+
+CERTIFICAT
+
+Marketing degitale / 2019
+
+FORMATION
+
+Diplome d'ingénieur
+Ecole Polytechnique de Sousse| 2019 -2021
+
+Diplome en Licence Appliquée en Sciences
+
+et Technologie De L’information Et De La
+Communication
+
+Ecole Supérieure des Sciences et de la
+Technologies de Hammam Sousse 2015-2018
+
+Baccalauréat En Sciences Expérimentales 2013/2014
+
+EXPERIENCE
+
+TELECONSULTATION
+GPRO Consulting| 02/2021 - 06/2021
+
+- Analyser les besoins des utilisateurs et concevoir des solutions
+logicielles
+
+- Coder des programmes haute performance a l'aide de différents
+frameworks
+
+- Travailler avec Spring boot ,Angular JS et lonic .
+
+APPLICATION COMMERCIAL
+Consulting | 07/ 2020 - 08/2020
+
+- Créer de services back-end qui analysent les données pour
+fournir des informations commerciales
+
+- Architecture systeme améliorée en continu
+
+- Développer avec laravel
+
+CONSOMI TOUNSI
+
+EPS | 02/2019 - 06/2019
+
+- Analyser les besoins des utilisateurs et concevoir des solutions
+logicielles
+
+- Projet socio-culturelle
+
+- Travailler avec une équipe pour développer une application web
+
+CONCEPTION ET DEVELOPPEMENT D'UNE
+APPLICATIONS POUR LES FOIRES DE LA TUNISIE
+
+GDEV | 02/ 2018 - 06/2018
+
+- Création de services back-end qui analysent les données pour
+fournir des informations avec symfony
+- Création de services front-end pour afficher l'application
+
+COMPETENCE
+
+Langage de programmation : JAVA, JAVA Script, Html, CSS,
+PHP:
+
+Web Frontend: Angular JS , Laravel,ionic, android
+
+Web Backend: Spring boot.

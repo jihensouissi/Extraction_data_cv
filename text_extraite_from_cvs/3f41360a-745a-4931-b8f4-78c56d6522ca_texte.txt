@@ -1,0 +1,86 @@
+Futur Ingénieur
+
+5 nasraoui.maroua22@gmail.com
+
+Q Rue Pierre de Coubertin 1001, Tunis, Tunisie
+
+FORMATIONS
+
+Cycle d’ingénieur Informatique en Génie Logiciel
+et Systémes d'information
+Tek-up University
+
+09/2019 - Present
+
+Licence Fondamentale en Informatique
+Faculté des Sciences de Tunis
+09/2011 - 06/2015
+
+Baccalauréat en Sciences Techniques
+Lycée secondaire de Grombalia
+09/2008 - 06/2009
+
+EXPERIENCES PROFESSIONNELLES
+
+Stage d'été
+Tritux
+
+08/2020 - 10/2020 Tunisie
+gestion des comptes utilisateurs | Spring Boot,, MySQL,Github
+
+Stage d'été
+Almaviva
+
+07/2020 - 08/2020 Tunisie
+
+gestion des comptes sur la plateforme Cloud Blue et ajout des services aws | Noc
+Cloud Computing
+
+Technicien Support
+Concentrix
+
+02/2016 - Present tunisie
+Assurer le support technique des clients Orange
+
+MAROUA NASRAOUI
+
+Je suis rigoureuse et dynamique, désireuse de mettre en application mon apprentissage.Je sais Faire preuve
+d'initiative en veillant au respect de procédure de l’entreprise. J’aime le travail en équipe mais je sais
+également évoluer dans mes missions en total autonomie.
+
++216 58393606
+
+github.com/maroua2212
+
+COMPETENCES
+
+PROJETS ACADEMIQUES
+
+Conception et développement d'une application de
+recherche d'emploi | Spring Boot, React JS
+(09/2021 - Present)
+
+Conception et développement d'une application de
+gestion d'événement | Spring Boot,
+Angular,Bootstrap (08/2021 - 11/2021)
+
+Conception et développement d'une application de
+gestion de consultation médicale en ligne : icare
+|.NET,Angular,Bootstrap (01/2021 - 05/2021)
+
+Conception et développement d'une application de
+gestion d'un jardin d'enfant | Angular, Spring Boot,
+Bootstrap, MySQL (09/2020 - 01/2021)
+
+PFE | Conception et réalisation d'une application
+Android de gestion de service (01/2015 - 06/2015)
+
+LANGUES
+
+Francais @eeee
+Anglais @@e@ee@eo
+Italien @@e@ee@eod
+Arabe @9eeee
+PERMIS
+
+B-Véhicule léger

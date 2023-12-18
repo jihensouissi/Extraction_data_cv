@@ -1,0 +1,136 @@
+CONTACT
+
+(, (+216) 53183871
+
+9 Sfax, Tunisie
+B46 Nadia. hindaoui@enetcom.u-sfax.tn
+
+in| https://www.linkedin.com/in/nadia-
+hendaoui/
+COMPETENCES
+
+Langage de programmation :
+Java, Android, Python, Matlab, C, C/C++, C#
+
+Développement Web: JEE, HTML5,
+JavaScript, PHP, CSS, Angular
+
+Développement mobile: Android
+Modelisation des processus: UML
+
+Machine learning : Torch, Pandas,
+tensorflow
+
+Méthodologie: Scrum, Agile
+
+Plateforme embarqué:Arduino, STM32, PIC,
+FPGA, Raspberry Pi
+
+Logiciel:Eclipse, Spyder, Android Studio,
+Microsoft Visual Studio, LabVIEW, Altium
+Designer, Proteus, AutoCAD
+
+CERTIFICATS
+
+a a
+*Certification en Introduction de programmation
+en Python (Microsoft Technology Associate)
+
+*Certification en Introduction de programmation
+en Java (Microsoft Technology Associate)
+
+* Attestation de participation a l’atelier “E-
+learning sur la plate forme Soft skills
+d’Acceunture” (au seins de 4C)
+
+*Participation a la compétition nationale
+“Smart Road” organisé par club robotique
+
+* Participation a la compétition Nationale
+XCoding (développement web et mobile)
+
+v
+* Certification SQL cours fundamental (SoloLearn
+
+en ligne)
+
+HENDAOU! NADIA
+
+Eleve ingénieur en Infromatique Industrielle Spécialitée
+Systemes Intelligents Interconnectés
+a la recherche d’un stage PFE
+FORMATION
+
+Cycle Ingénieur en génie informatique industrielle
+2019-2021 Ecole Nationale D’Electronique et Télécommunication De Sfax
+Master professionnel en systeme embarqué
+2018-2019 Ecole Nationale D’Electronique et Télécommunication De Sfax
+
+Licence fondamentale en Electronique Electrotechnique
+2015-2018 Automatique
+
+Institut Supérieur des Sciences Appliquées et Technologie de Sousse
+
+Baccalauréat Science Technique
+2015 Lycée Hedi Soussi Sfax
+
+PROJETS ACADEMIQUES
+
+PRIMATEC Engineering Mission de stage: Assurer la
+communication Ethernet a travers le protocole “SOME/IP” et “SOME/IP
+2020 SD” en se basant sur l’architecture AUTOSAR. Afin de visualiser les
+données, on a créé une interface LabVIEW.
+
+Tunisia Développement System( TDS ) Mission de stage :
+améliorer la partie automatique d’une palette en utilisant un
+
+2019 automate programmable 1200
+
+Société tunisienne de I'électricité et du gaz (STEG)
+Juillet Mission de stage: Supervision de différents départements; Service
+2017 études et planifications - Service Protection et laboratoire -
+
+L’ énergie photovoltaique — Service travaux
+
+PROJETS ET REALISATION
+
+Projets de Fin d’Années:
+
+-Conception et réalisation d’un bras manipulateur commandé a distance, a
+Travers une interface LabVIEW
+
+-Conception et réalisation d’un prototype d’un systéme de détection des fuites
+de gaz qui assure la surveillance et l’évacuation du gaz.
+
+Mini-Projets:
+
+-Développement d’une application mobile des régimes afin d’atteindre le poids
+parfait de l'utilisateur. (Android et SQLite comme BD)
+
+-Développement d’une application bureautique d’une bibliothéque numérique
+(Java, Swing)
+
+Juillet
+
+Juin
+
+-Développement d’un site web dynamique, d’une bibliothéque numérique,
+permettant de s’authentifier, d’afficher et télécharger des livres sous PDF
+(HTMLS, CSS, JavaScript, PHP et MySQL comme BD).
+
+-Développement d’un serveur Java hébergé sur une plateforme Raspberry Pi
+permettant de commander a distance un systéme d’arrosage (Java, Eclipse,
+Socket).
+
+-Développement d’une application qui permet de classer le type de fleur
+proposée (Tensorflow, keras)
+
+-Conception et réalisation de la partie puissance et commande de la machine Los
+Angeles a base d’un microcontréleur ATMEGA328
+
+VIE ASSOCIATIVE LANGUE
+Y Membre du club Robotique ISSATRONIC(2017) Frangais
+
+Membre du AeroModélisme (2018) Anglais
+v Membre bureau du Club Universal Espagnol (débutant)
+Technological Club (2019)

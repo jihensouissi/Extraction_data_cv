@@ -1,0 +1,138 @@
+HELA AMARA
+
+Eléve ingénieur en troisieme année génie informatique a I’Ecole Nationale
+
+d’Ingénieur de Carthage
+
+@ hela.amara@ENICAR.u-carthage.tn
+© https://github.com/Hela-Amara
+
+EDUCATION
+
+Dipléme national d’ingénieur en informatique
+Ecole Nationale d’Ingénieurs de Carthage (ENICarthage)
+ 2019-Present @ Charguia 2;Tunisie
+
+oJ +216 53 854 748
+
+Dipl6me natioanl de licence fondamentale en
+informatique
+
+Institut Superieur d’informatique Mahdia (ISIMA)
+
+@ 2016-2019 @ Mahdia,Tunisie
+
+Baccalauréat en Science expérimentales
+Lycée Haouaria
+im 2015-2016
+
+EXPERIENCES PROFESSIONELLES
+
+Stage FullStack Web
+Optimal Solution
+@ Juin 2021-Septembre 2021
+
+e Conception et développement d’un site web E-commerce dynamique.
+
+React JS. | Node JS
+
+@ Nabeul,Tunisie
+
+@ Sousse,Tunisie
+
+Express JS MongoDB_ git Scrum
+
+Stage FullStack Web
+STB
+
+@ Juillet 2020-Septembre 2020
+
+e Conception et développement d’une plateforme de gestion des comptes
+bancaires.
+
+@ Sousse,Tunisie
+
+Angular Spring Boot RESTAPI MYSQL © git | Scrum
+Stage de fin d’études
+ESSIA Technologies
+
+gm Février 2019 Juin 2019
+
+e Conception et développement d’un module Odoo pour |’indexation et la
+numeérisation des documents.
+
+Python ETL XML >= CSV = Odoo 11
+
+PROJETS ACADEMIQUES
+
+e Développement d’une application de gestion d’un cabinet médical.
+
+@ Sousse,Tunisie
+
+PostgreSql = scrum
+
+Angular Spring Boot Hibernate Mysql _ git
+
+e Développement d’une application de gestion des employées.
+
+Angular Spring Boot REST API Mysql _. git
+
+e Développement d’une application de gestion des commandes.
+
+Angular C#  .NET | Entity Framework SQL Server
+
+@ Ariana,Tunis,Tunisie
+ff https://www.linkedin.com/in/hela-amara-5343081a7/
+
+COMPETENCES
+
+Langages de programation
+
+Java JavaScript C/C++  C# | PHP
+
+Frameworks
+
+Angular ReactJS React Native Flutter
+SpringBoot  .Net Symfony5 = Express JS
+Devops
+
+Docker | Docker-compose = Jenkins
+Base de données
+
+Oracle | Mysql PostgreSQL MongoDB
+Autres
+
+Cloud lOT Android
+IA. Linux
+
+VIE ASSOCIATIVE
+
+Club DISCOVERY ENICARTHAGE
+
+Machine learning
+
+e Responsable développement commercial.
+
+JokerInfo ENICarthage
+
+e Responsable développement commercial.
+
+LANGUES
+
+English Full Profissional Proficiency
+Francais Capacité professionelle
+Arabe Capacité Native
+CERTIFICATIONS
+
+Angular
+
+Kaizen training Academy
+gm Février 2018-Mars 2018
+
+Java
+ITgate training Academy
+@ Février 2019-Mai 2019
+
+CENTRES D’INTERET
+
+Entrepreneuriat | Design Graphique

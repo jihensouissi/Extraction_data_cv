@@ -1,0 +1,110 @@
+Youssef Touati
+
+Etudiant en ingénierie informatique
+
+9 tunis, Tunisie 4 touati.youssef@etudiant-fst.utm.tn \ +216 23342540 in youssef-touati-218215224
+
+k yousseftouati
+
+PROFILE
+
+Bon en mathématiques
+
+Passionné par
+l'apprentissage automatique
+et la programmation
+
+compétitive.
+
+Je suis a la recherche d'une
+carrieére de scientifique
+spécialisé dans les données.
+
+@ COMPETENCES
+
+Intelligence artificielle :
+Machine learning , Deep
+Learning , Tenser flow , Keras
+, Neurak Networks , KNN
+,Decision Trees, Random
+Forests ,PCA , K-means , Web
+scrapping , ML, NLP
+
+Business intelligence:
+Talend , Power BI
+
+Programmation
+Python ,c,ct++, Java, C#
+
+SGBD:
+SQL, NoSL, Advanced SQL
+
+OSs:
+Linux , Windows
+
+WEB:
+ANGULAR , JAVA SCRIPT
+
+x COMPETENCES
+DOUCES
+
+Travail d'équipe
+
+le sens de l'organisation
+Leadership
+
+Compétences analytiques
+Curiosité
+
+Esprit de challenge
+
+E@ CERTIFICATS
+
+e Python for Data Science and Machine Learning from A-Z: Udemy 2
+e Python: KAGGLE c
+
+LEN
+
+¢ Intro to Machine Learning : KAGGLE @
+e Pandas : KAGGLE
+¢ Computer Vision : KAGGLE @
+
+IN
+
+é@ PROJETS
+
+Prévision du prix des crypto-monnaies, Z/ND/ competition
+* nettoyage et visualisation des données, implémentation de modeéles de
+régression et utilisation de toutes les caractéristiques de trading comme
+le prix, le volume, l'ouverture, les valeurs hautes et basses présenteés.
+¢ Mots-clés : XGBoost , numpy , pandas, matplotlib
+
+Application pour l'analyse sentimentale sur twitter
+¢ Création d'une application qui analyse les sentiments des gens sur
+twitter pour savoir ce qu'ils pensent de divers sujets de discussion
+¢ les tweets du sujet choisi par l'utilisateur seront analysés a l'aide d'un
+classificateur Naive Bayes afin de calculer le sentiment général du sujet.
+e mots-clés : python, Naive Bayes, NLTK, Twitter API
+
+Prévision des prix des maisons, Kaggle
+¢ Nettoyage et préparation des données a traiter.
+¢ Choisir et concevoir un modéle d'apprentissage automatique qui prédit
+les prix de l'immobilier 4a Melbourne, en Australie.
+¢ Implémentation du modeéle de Machine Learning.
+* Mots clés : python, Machine Learning, Streamlit.
+
+j@ EDUCATION
+
+FACULTE DES SCIENCES DE TUNIS, Cycle d'ingénierie en informatique
+09/2019 - 2022
+Business Intelligence, Algorithmes, Programmation linéaire, Statistiques,
+Big Data, Analyse de données, Exploration de données, SQL, NoSL, SQL
+avancé, SQL
+
+Cycle préparatoire d'ingénierie : MP, Dipléme associé
+09/2017 - 07/2019
+@ ORGANISATIONS
+
+IEEE Computer Society Chapter FST, Membre
+
+FST Foot-ball club, Joueur de foot-ball senior

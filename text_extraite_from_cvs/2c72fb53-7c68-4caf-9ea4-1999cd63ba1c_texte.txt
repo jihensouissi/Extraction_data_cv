@@ -1,0 +1,104 @@
+MEJRI MARWEN
+
+Eléve ingénieur en Computer Science
+
+Apres un début de cursus typique classes préparatoires -> Ecole d’ingénieur
+en Instrumentation & Maintenance Industrielle, j'ai décidé d'opeérer un virage
+professionnel et je me reconvertis dans la Data Science.
+
+EXPERIENCES PROFESSIONNELLES
++216 20759232 «°
+CSA International: Juillet-Septembre2021:
+Ingénieur Stagiaire: Développeur Python / Django
+> Concevoir et implémenter une solution afin de collecter et analyser les
+sentiments des utilisateurs(Sélénium Web Scraping).
+> Extraire les informations nécessaires (posts, reviews..) a partir des APIs
+des réseaux sociaux(LinkedIn, Twitter..)
+> Implémenter les fonctionnalités du backend(Django Apps):
+v File uploade(csv, Excel)
+Y Vérification d’ Email , Réinitialisation de Mots de passe.
+Mots Clés : Sélénium Web Scraping, Social Media API, Django, MongoDB,
+NLP (BERT pour l’analyse des Sentiments)
+
+mejri.marwen00@gmail.com M
+
+github.com/marwenmejri ©
+
+linkedin.com/in/marwen-mejri- x)
+313771215/
+
+COMPETENCES
+
+Compétences Techniques :
+
+Tools: Python, R, Neo4J , MongoDB, Spark, Hadoop, PROJ ECTS ACADEMIQUES
+
+SQL, Docker, ELK Stack, Django, Flask, FastAPI,
+
+Selenium..
+PROJET DEEP LEARNING : Conception d’un systéme de reconnaissance de langages de signes en temps
+
+réel:
+
+> 1ére approche : Mediapipe(Solution Hand) , pandas, Keras, Open-cv
+
+> 2-éme approche : Transfer Learning : EfficientnetBO, Keras, TensorFlow, Open-cv
+
+> 3-éme approche : Detection de gestes : RNN(LSTM), NumPy, Open-cv, Mediapipe(Solution Holistic)
+
+Packages: Scikit-Learn, TensorFlow, Keras, NumPy,
+Matplotlib, Pandas, NLTK, Kivy, Tkinter, Selenium,
+Matplotlib, REGEX, Open-CV, PySpark, PyTorch, TF
+
+Serving, spaCy, Transformers . . . , ee
+8, Spaty, Coronavirus Web Scraper & Voice Assistant : Réaliser une application d’assistance vocale auquel on
+
+peut poser des questions liées au Corona virus
+> Python, Selenium, Json, pyttsx3, speech recognition , expressions réguliéres..
+
+Compétences Clés :
+
+Data SelEnEE t Maauine Learitihg, Deep Learning, FACIAL RECOGNITION & ATTENDANCE PROJECT: Création d’une application de reconnaissance faciale en
+
+temps réel et qui enregistre la présence des personne dans un fichier csv.
+> Python, face_recognition, Open-cv, Numpy, Datetime.
+
+Transfer Learning, Computer Vision, Nature
+Language Processing, Web Scraping, Data
+Analytics ,Statistics, TensorFlow Object Detection
+API, Transformers, MLOps
+
+END TO END POTATO DISEASE CLASSIFICATION:
+
+> Model Building: TensorFlow, CNN, data augmentation, TF dataset
+
+> Backend Server and ML Ops: TF serving, FastAPI
+
+> Frontend: React JS
+
+> Deployment: GCP (Google cloud platform), GCF (Google cloud functions)
+
+LANGUES FORMATIONS
+
+2020-Présent: Eléve Ingénieur en Informatique(Data Science) - Ecole Supérieure
+Privée de Technologie et d'Ingénierie Université Tek-Up Ariana - Tunisie
+
+Data Visualization: Kibana(ELK Stack), Power BI,
+Excel, R advanced(ggplot2).
+
+e« Arabe—Langue Maternelle
+
+* Francais — Avance 2010-2016: Diplbme National d’ingénieur en Instrumentation et Maintenance
+¢ Anglais — Avancée Industrielle : Institut National des Sciences Appliquées et de Technologie - INSAT,
+
+Tunis, Tunisie : Mention Tres Bien
+
+CENTRES D’INTERETS CERTIFICATIONS
+
+¢ Industrie de Défense
+¢ Séries & Filmes
+¢ Documentaires
+
+* PCAP -— Certified Associate in Python Programming
+
+¢ Python for Data Science and Machine Learning

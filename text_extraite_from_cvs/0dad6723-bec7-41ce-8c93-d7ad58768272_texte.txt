@@ -1,0 +1,133 @@
+Ichrak Ben Abdallah
+
+Etudiante en cycle d'ingénieur en informatique a Polytechnique de Sousse principalement intéressé par
+le développement Web et Business Intelligence. Trés motivé pour les projets innovants, ayant une
+excellente capacité de travail en équipe. Maitrisant divers langages de programmation, y compris Java,
+
+JavaScript et Python.
+
+BX ichrak.benabdallah@polytechnicien.tn
+
+Q Rue sahel-jammel (5020), Monastir, Tunisie
+
+EDUCATION
+
+Ingénierie en Génie Informatique
+Ecole Polytechnique Sousse
+09/2018 - Present Sousse
+
+Accréditation
+© Label EUR-ACE
+
+concours national d'entrée aux écoles
+d'ingénieurs
+
+Institut préparatoire aux études d'ingénieurs
+de Monastir
+
+09/2015 - 06/2018 Monastir
+spécialité
+
+® Technologie
+
+Baccalauréat en Sciences Techniques
+Lycée Secondaire de Jammel
+09/2011 - 06/2015
+
+Spécialité
+
+® Sciences Techniques
+
+Jammel -Monastir
+
+EXPERIENCE PROFESSIONNELLE
+
+Stage Ingénieur
+
+Tridevs et Navette de Vatry
+
+08/2020 - 09/2020 Tunisie
+Réalisation / Taches
+
+® Développement d'un Comparateur VTC.
+
+© Technologies : Angular 8 , Spring Boot, Spring Security,
+Spring DATA, API REST.
+
+Stage Ingénieur
+
+BH Banque
+
+08/2020 - 08/2020 Tunisie
+
+Réalisation / Taches
+
+® Développement d'une application web qui illustre et
+démontre l'utilisation de l'api java et l'intégration
+d'ElasticSearch dans le backend
+
+Stage Ouvrier
+
+Optima-tech
+
+07/2019 - 08/2019
+
+Réalisation / Taches
+
+® Développement d'un site E-commerce
+
+Sousse-Tunisie
+
+53199636
+
+in linkedin.com/in/Ben abdallah Ichrak
+
+COMPETENCES
+
+PROJETS ACADEMIQUES
+
+BookStore (01/2020 - 06/2020)
+
+® Développement d'un site vente en ligne des livres
+® Frontend: Angular 5
+
+© Backend :Spring Boot , Spring Security
+
+® Base de données : MySQL , Redis
+
+Municipalite Monastir (10/2019 - 12/2019)
+Développement d'un site de Municipalité Monastir
+Frontend : Angular 5
+
+Backend : Symfony 4.4
+
+Base de données : MySQL
+
+Agence de Voyage (10/2019 - 12/2019)
+® Développement d'une application Desktop pour la gestion d'une
+Agence de voyage
+
+® Mots clés: java Fx ,MySQL.
+
+véhicule d'occasion (03/2020 - 06/2020)
+® Conception d'un data Warehouse de véhicule d’occasion.
+® Mots clés: Power BI ,Tableau, SSAS.
+
+CERTIFICATS
+
+Dipl6me d'études en langue Francaise-Delf B2
+(03/2019 - Present)
+
+Scrum Foundation Professional (12/2020 - 12/2022)
+
+LANGUES
+
+Anglais Frangais Delf B2
+Full Professional Proficiency Full Professional Proficiency
+
+Arabe
+Native
+
+INTERETS
+
+Sport Films Lecture

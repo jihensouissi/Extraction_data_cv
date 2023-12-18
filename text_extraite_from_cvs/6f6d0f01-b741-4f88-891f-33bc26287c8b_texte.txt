@@ -1,0 +1,74 @@
+9 Monastir, Tunisie
+
+\, (+216) 53 657 919
+
+Etudiante en troisieme année ingénierie
+A selmabouzeida@gmail.com « Génie électronique et communication », a I’école nationale d’électronique et télécommunication,
+Sfax, Tunisie.
+
+Expériences Proféssionnelles
+
+Stage du 07/2021 Conceptrice des systémes IOT
+
+0) RM ATI ON A 09/2021 Pro-System
+(Monastir, Tunisie) - Coder un programme de détecteur des Bluetooth (leurs identifiants et
+leurs emplacements), sur la carte ESP32 programmée en Arduino :C++
+2022 Dipléme D’ingénierie -  Développer une application mobile de commande sur Android Studio
+Sfax, Tunisie avec le langage Java.
+
+Ecole nationale d’électronique
+et communication (ENET’COM)
+
+Stage du 06/2020 Développeuse Mobile
+
+: Optance
+gate Clonee Wel aint A 07/2020 . - changer le design, la mise en forme, la mise en pages... de
+des ingénieurs (Monastir, Tunisie) l'application VegaWallet,
+- Coder une application ‘Khademny’: une application qui facilite le
+contact entre la main ceuvre et le client, avec les langages Html,
+Css et Java Script sur la plate-forme Visual Studio.
+
+Monastir, Tunisie
+Institut préparatoire des études
+d’ingénieurs
+
+2017 Baccalauréat
+
+Monastir, Tunisie COMPETENCES
+
+LABS USARTUTEN ARETE EAS e Langages de programmation :
+
+Bien maitrisées : UML, Python, Java, JS, C#, Html, CSS, Angular.
+Bonne connaissance : JEE, Devops, PHP, Laravel ,Synphonie.
+
+e  Plateformes : Visual studio, Android studio, Sublim text, Anaconda, TensorFlow .OpenCV,
+LANGU ES e ReactNative, React Js.
+e Logiciels : Matlab, Adobe Xd, Illustrator.
+e Systemes d’exploitation : Windows, UNIX.
+Arabe rt—“‘CS; 32; 72 OY e Méthodologies : Agile scrum
+Frangais CC _) PROJ ETS
+Anglais Ene) e Création d’une application mobile d’une agence de voyage (ReactNative)
+e Création d’un site web E-commerce (ReactJS)
+e Création d’un site Laravel basique
+e Création d’une application IOT d’une bibliothéque intelligente (Android studio : Java/
+ESP32/ Arduino : C++)
+e Création d’une application de commande d’une maison intelligente (Android studio : Java)
+e Mini Projet de la détection du porté du masque (Python/Jupyter/Matlab)
+e Mini Projet de reconnaissance faciale (Python/ OpenCV/ Tensorflow)
+e = Mini projet d’un détecteur des maladies des plantes (Python/Spider).
+e Mini projet d’un détecteur de Spam (Python/OpenCv)
+Notions
+e Deep learning, Machine learning
+e Cloud
+
+e Traitement d’image et des vidéos
+
+COMPETENCES Managerial
+
+e Grant Project, Jira software, Favro
+
+e | Communication/ leadership (Présidente d’une association : ENET’Com Junior Entreprise
+« Responsable de 65 membres »)
+
+e ©Créativité / Travail en Equipe / Proactivité / Gestion de crise
+

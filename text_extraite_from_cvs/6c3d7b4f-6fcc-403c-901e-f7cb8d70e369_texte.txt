@@ -1,0 +1,113 @@
+CONTACT ME
+Call: +216 52 864 145
+
+Email :
+
+marwenkhorchani7@gmail.com
+
+Github : marwenkhorchani
+
+Linkedin : marwen-khorchani
+
+Skills & Strengths
+
+PROFESSIONAL
+SKILLS
+
+JavaScript
+ANGULAR
+REACT
+
+Node.js
+
+Express
+MongoDB
+MySQL
+
+jQuerry
+Bootstrap SCSS
+HTML5
+
+GIT
+
+Trello
+
+Web Architecture
+
+leader in spirit
+
+January 11, 1995
+
+KhorchaniMarwen
+
+Full Stack Developer Tunisia, Tunis 9
+bX
+
+marwenkhorchani7@.com
+
+EXPERIENCE
+
+2020 - now Ujob | Scrum master & Developer k RBK Study Project (5 weeks) Team (4 Develop-
+ers)
+Ujob : is an business and employment-oriented online service that operates via websites
+¢ split the work and work flow
+* merge works in github
+¢ Styling using Bootstarp template
+¢ work on user interface using angular
+¢ Storage data using MongoDB
+¢ Upload image , Live chat , chat video, Google Map , Payment Paypal
+¢ Technologies used : Angular, express, Nodejs, Html, SCSS , Bootstrap , Multer ,
+Webrtc , Socket , Api Googe , Api Payp
+
+2021,now MySchool | Scrum master & Developer Rk 9 RBK Study Project (2 week) Team (15
+Developers)
+¢ MySchool : is an online education platforme
+
+split the work and work flow
+
+merge works in github
+
+Styling using Bootstarp template
+
+work on user interface using angular
+
+Authentication
+
+Storage data using MongoDB
+
+Technologies used : Angular, express, Nodejs, Html, SCSS , Bootstrap , Passport ,
+
+Google Api
+
+2020-2020 PharmApp | Developer & UI Designer Rk 9 RBK Study Project (2 week) Team (4 De-
+velopers)
+
+e« PharmApp : Product stock management application , a good stock management sys-
+tem will be able to list all stock options with a name price matrix as well as give live
+reports on best or worst sellers, supply chain and sales staff
+
+¢ Determining the structure and design of web pages , Upload image , work on user
+interface using angular ...
+
+¢ Technologies used : Angular, express, Nodejs, Html, SCSS , Bootstrap , Multer
+
+2020-2020 FYSA3 | Developer & UI Designer 9 RBK Study Project (1 week) Team (4 Developers)
+
+¢ Fysa3 : WebSite application that connects the workers ( plumber , paint , gardener ,
+mechanic ... ) and the people who need their services
+
+¢ Determining the structure and design of web pages , Create app Logo , work on user
+interface using React
+
+¢ Technologies used : React, express, Nodejs, Html , Bootstrap , Adobe photoshop
+
+EDUCATION
+
+2020, 2021 Web Developer | internal 9 RebootKamp Tunisia (RBK)
+e An immersive code bootKamp with support from co-founding partner Hack Reactor .
+
+Languages Interests & Activities
+Arabic (Native) Football (watching, occasionally playing) | Movies |
+English (Proficient) video games | sport
+
+Frensh (Proficient) photography

@@ -1,0 +1,124 @@
+go
+
+Diplome d’ingénieur en Génie Informatique
+Ecole Nationale d’Ingénieurs de Carthage - ENICarthage
+
+Dipléme de Licence Fondamentale en Sciences et Technologies de | 2015 - 2018
+I'Information et de la Communication : Electronique et Télécommunications
+
+Institut Supérieur des Sciences Appliquées et de Technologie de Gafsa - ISSAT GAFSA
+
+Baccalauréat science mathématique | Juin 2015
+
+Lycée Ibn Khaldoun Sidi Aich, Gafsa
+
+PO,
+
+Stage de perfectionnement | Juillet-Aout
+
+Entreprise : société SOLTECO (France) 2020
+Taches :
+Développement d'une plateforme de mise en relation entre clients et freelances
+Mots Clés : Node JS, Angular, TypeScrip, MongoDB.
+Stage d’été | Juillet 2019
+
+Entreprise : Compagnie des Phosphates de Gafsa : CPG
+Taches :
+Gestion des taches, des processus et des logiciels (CentOS)
+Réalisation des scripts Shell pour le transfert des fichiers entre différents serveurs Unix.
+
+Stage Projet fin d’études | Janvier-Juin
+
+Laboratoire : Institut Supérieur des Sciences Appliquées et de Technologies de Gafsa 2018
+Taches :
+Etude et réalisation d’un Systéme intelligent d’aide a la conduite de véhicule.
+Mots Clés : Deep Learning, OpenCV, Object detection, Face Detection, Python
+Traitement d’image, Systeme Embarqué, Raspberry PI 3.
+Stage Technicien | Aotit 2017
+
+Entreprise : La Société TUNISIE TELECOM, Gafsa (Tunisie)
+Taches :
+Exploitation du réseau téléphonique de transmission des données
+(Centre de transmission de données par colis).
+e Développement d'une plateforme de cadre de codage pour I'école primaire
+Mots Clés : Node JS et React, HTML, CSS, MongoDB.
+e Développement d'un algorithme de reconnaissance faciale
+
+Mots Clés : OpenCV, Python, Deep Learning.
+e ~— Réalisation d'un ChatBot a l'aide du réseau neuronal et Tensorflow.
+
+e —_ Projet d'analyse de données (ACP, AFC)
+Mots Clés : Python, R, Pandas , Seaborn , Numpy , Sklearn.
+
+e Gestion de location des voitures d’une agence avec l’architecture MVC
+Mots Clés : Java, JavaFX, WampServer, MySQL.
+
+e _Réalisation d’un mini compilateur C : Analyse syntaxique et lexicale avec Flex et Bison.
+e  Déployer un site Web WordPress a l'aide d'AWS Elastic Beanstalk : Cloud
+
+e Application mobile gestion de parking.
+
+e Etude d’une canne intelligente pour les mal et non-voyants
+
+e _Réalisation d’un Robot suiveur de ligne et détecteur d'obstacle avec la carte Arduino.
+
+Technologies et Langages de programmation : Python, C, C++, JAVA/JEE, JavaScript, Al, ML DL
+Spring, Reactjs, Angular, Hibernate, Nodejs, Git.
+
+Bases de données : MYSQL, MongoDB, Oracle Database.
+
+Environnement de programmation : Matlab, Visual Studio, NetBeans, Android SDK.
+
+Systéme d'exploitation : Windows, Linux.
+
+| 2018 - PRESENT
+
+CONTACT
+
+@ : Borj Louzir Ariana (Tunisie)
+: Hinda.chokri11@gmail.com
+
+\ : (4216) 42 527 553
+
+: linkedin.com/in/hindachokri
+
+A PROPOS DE MOI
+
+Née le 25/11/1996 J’apprends
+vite, ponctuelle, dynamique,
+motivée, organisée, responsable
+et avec de grandes capacités de
+travail et  d’intégration en
+équipe.
+
+LANGUES
+
+Arabe :
+
+Francais : @
+
+Anglais : @
+Allemand :@
+
+ACTIVITES
+
+-EFS co_coordinator chez
+NATEG.
+
+-Membre fondateur du Club
+FORtech (activités robotiques).
+
+-Participation aux compétitions.
+CERTIFICATIONS
+Certification en LPI 101.
+
+Certification en machine
+Learning.
+
+Certification Cisco
+CCNA.
+
+CENTRES D? INT T
+
+a e ¢
+
